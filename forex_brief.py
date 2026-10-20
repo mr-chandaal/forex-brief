@@ -94,6 +94,27 @@ KEYWORDS = {
 EXCLUDE = re.compile(r"nepal|nepali|\bnpr\b|kathmandu|rastra bank|"
                      r"gold (?:rate|price) today in|per tola|\btola\b|carat|jewell?ery|illustration shows", re.I)
 
+# Source trust: 1 = official publisher, 2 = professional newswire, 3 = specialist FX/commodity desk,
+# 4 = everything else. Used to pick which report of an event is shown.
+SOURCE_TIERS = [
+    (1, r"federalreserve\.gov|federal reserve board|ecb\.europa|european central bank|bank of england|"
+        r"bankofengland|\bboj\b|bank of japan|snb\.ch|swiss national bank|rba\.gov|reserve bank of australia|"
+        r"bankofcanada|bank of canada|rbnz|reserve bank of new zealand|bls\.gov|bureau of labor|bea\.gov|"
+        r"bureau of economic|eurostat|\bons\b|office for national statistics|cftc"),
+    (2, r"reuters|bloomberg|\bwsj\b|wall street journal|dow jones|marketwatch|barron|financial times|\bft\.com|"
+        r"lseg|nikkei|associated press|\bap news"),
+    (3, r"fxstreet|investing\.com|forexlive|action forex|dailyfx|kitco|oilprice|fxempire|cnbc|"
+        r"marketscreener|argus|platts|s&p global"),
+]
+# Calendar releases that move FX most; marked ⚡ in the calendar
+TOP_RELEASES = re.compile(r"rate (?:decision|statement)|cash rate|bank rate|policy rate|overnight rate|"
+                          r"funds rate|refinancing rate|"
+                          r"interest rate|fomc|monetary policy|press conference|non-farm|employment change|"
+                          r"\bcpi\b|\bpce\b", re.I)
+STOP = set("a an the and or of to in on at for by with as is are was were be been from into over under "
+           "after amid ahead than that this its it new says said say report reports update live today week "
+           "us u.s. vs near up down rise rises rising falls fall fell climbs climb gains gain dips dip".split())
+
 PRICES = [  # (label, Yahoo symbol, decimals)
     ("DXY", "DX-Y.NYB", 2), ("EUR/USD", "EURUSD=X", 4), ("GBP/USD", "GBPUSD=X", 4),
     ("USD/JPY", "USDJPY=X", 2), ("AUD/USD", "AUDUSD=X", 4), ("NZD/USD", "NZDUSD=X", 4),
@@ -182,6 +203,8 @@ def get_calendar():
         if not (start <= t <= end):
             continue
         mark = "🔴" if impact == "High" else "🟠"
+        if impact == "High" and TOP_RELEASES.search(ev.get("title") or ""):
+            mark += "⚡"
         extra = ""
         if ev.get("forecast") or ev.get("previous"):
             extra = f" (exp. {ev.get('forecast') or '–'}, prev. {ev.get('previous') or '–'})"
@@ -247,7 +270,79 @@ def get_news():
             items.append({"title": title, "link": link, "source": source, "desc": desc,
                           "section": section, "published": published or datetime.now(UTC)})
     items.sort(key=lambda x: x["published"], reverse=True)
-    return items
+    for n in items:
+        n["tier"] = source_tier(n["source"], n["link"])
+        n["similar"] = 0
+    return lexical_dedup(items)
+
+
+# ---------- Near-duplicates ----------
+def source_tier(source, link=""):
+    text = f"{source} {urllib.parse.urlparse(link).netloc}".lower()
+    for tier, pattern in SOURCE_TIERS:
+        if re.search(pattern, text):
+            return tier
+    return 4
+
+
+def _tokens(title):
+    t = re.sub(r"(?<=\d),(?=\d{3})", "", title.lower().replace("$", " "))  # $4,000 -> 4000
+    words = re.findall(r"[a-z]+|\d+(?:\.\d+)?", t)
+    return {w[:-1] if len(w) > 4 and w.endswith("s") else w for w in words if w not in STOP and len(w) > 1}
+
+
+def _better(a, b):
+    """True if story a should be shown instead of b (same event)."""
+    return ((a.get("stars", 0), -a["tier"], bool(a["desc"]), a["published"])
+            > (b.get("stars", 0), -b["tier"], bool(b["desc"]), b["published"]))
+
+
+def lexical_dedup(items):
+    """Before rating: fold stories whose headlines share most of their key words into one."""
+    kept = []
+    for n in items:
+        toks = _tokens(n["title"])
+        twin = None
+        for k in kept:
+            shared = len(toks & k["_toks"])
+            if shared >= 3 and shared / max(1, min(len(toks), len(k["_toks"]))) >= 0.6:
+                twin = k
+                break
+        if twin is None:
+            n["_toks"] = toks
+            kept.append(n)
+            continue
+        twin["similar"] += 1 + n["similar"]
+        if _better(n, twin):  # swap in the better-sourced report, keep its place in the list
+            n["_toks"], n["similar"], n["section"] = toks | twin["_toks"], twin["similar"], twin["section"]
+            kept[kept.index(twin)] = n
+        else:
+            twin["_toks"] |= toks
+    for n in kept:
+        n.pop("_toks", None)
+    return kept
+
+
+def merge_events(news):
+    """After rating: keep one story per AI 'event' label, the best-sourced one, carrying the top rating."""
+    groups, out = {}, []
+    for n in news:
+        ev = n.get("event")
+        if not ev:
+            out.append(n)
+            continue
+        groups.setdefault(ev, []).append(n)
+    for ev, grp in groups.items():
+        top = max(grp, key=lambda n: (n.get("stars", 0), n["published"]))
+        # show the most trusted source among reports rated within one star of the best
+        close = [n for n in grp if n.get("stars", 0) >= top.get("stars", 0) - 1]
+        best = min(close, key=lambda n: (n["tier"], -n.get("stars", 0), not n["desc"],
+                                         -n["published"].timestamp()))
+        best["stars"] = top.get("stars", 0)
+        best["moves"] = top.get("moves") or best.get("moves")
+        best["similar"] = sum(1 + n["similar"] for n in grp) - 1
+        out.append(best)
+    return out
 
 
 # ---------- AI ----------
@@ -298,8 +393,9 @@ def rate_news(news):
     cands = []
     for sec, _ in SECTIONS:
         cands += [x for x in news if x["section"] == sec][:per_sec]
-    lines = [f'{i}|{n["section"]}|{n["title"]}' + (f' — {n["desc"]}' if n["desc"] else "")
-             for i, n in enumerate(cands)]
+    tier_name = {1: "official", 2: "newswire", 3: "specialist", 4: "other"}
+    lines = [f'{i}|{n["section"]}|{n["source"]} ({tier_name[n["tier"]]})|{n["title"]}'
+             + (f' — {n["desc"]}' if n["desc"] else "") for i, n in enumerate(cands)]
     prompt = (
         "You are an expert FX, gold and oil trader. Rate each news item below for its likely impact on "
         "major currency pairs (USD, EUR, GBP, JPY, AUD, NZD, CAD, CHF), gold or oil over the next "
@@ -307,12 +403,26 @@ def rate_news(news):
         "Stars: 5 = can move majors/gold/oil sharply or change the market regime; 4 = significant for a "
         "specific currency or commodity; 3 = relevant context; 2 = minor; 1 = noise (opinion with no new "
         "facts, unrelated industries, local politics with no market channel).\n"
+        "Weigh what professional FX traders weigh, in this order: (a) G10 central-bank decisions, statements, "
+        "minutes, press conferences and forward guidance (Fed/FOMC, ECB, BoE, BoJ, SNB, RBA, RBNZ, BoC), "
+        "where a change in guidance matters as much as the decision; (b) US Non-Farm Payrolls, unemployment "
+        "and wages, then CPI/core CPI, then PCE, then PPI; (c) GDP (advance estimates most), ISM and "
+        "S&P Global/HCOB PMIs, retail sales and jobs data outside the US; (d) shifts in rate expectations "
+        "and yield spreads; (e) CFTC positioning extremes.\n"
+        "Markets react to the SURPRISE versus consensus and to revisions, not the raw number: a released "
+        "figure that clearly beats or misses forecasts, or a big revision, rates higher than a preview. "
+        "Previews, technical-level pieces and price recaps with no new driver are at most 3 stars.\n"
+        "Source trust: official publishers and newswires (Reuters, Bloomberg, Dow Jones/WSJ) are most "
+        "reliable; treat unsourced claims from 'other' outlets with caution.\n"
         "For political stories judge only the market channel (rates expectations, fiscal/bond risk, trade "
         "flows, energy supply, risk appetite); never express political opinions.\n"
         "'moves' = the instruments affected and direction, very short, using ↑ ↓ ↔ and codes, e.g. "
         "'Oil ↑ | JPY, EUR ↓' or 'Gold ↑ | USD ↓' (max 40 characters).\n"
-        'Return ONLY a JSON array: [{"id": 0, "stars": 4, "moves": "..."}] covering every id.\n\n'
-        "ITEMS (id|section|headline — summary):\n" + "\n".join(lines)
+        "'event' = a short lowercase slug for the underlying event or price move, e.g. 'brent-110-houthi' or "
+        "'uk-jobs-oct'. Give EXACTLY the same slug to every item about the same event, even across sections "
+        "and even when headlines are worded differently; give different slugs to different events.\n"
+        'Return ONLY a JSON array: [{"id": 0, "stars": 4, "moves": "...", "event": "..."}] covering every id.\n\n'
+        "ITEMS (id|section|source (trust)|headline — summary):\n" + "\n".join(lines)
     )
     try:
         raw = gemini(prompt, json_mode=True) or ""
@@ -341,6 +451,9 @@ def rate_news(news):
         except Exception:
             continue
         n["moves"] = clean(str(r.get("moves", "")), 60)
+        ev = re.sub(r"[^a-z0-9]+", "-", str(r.get("event", "")).lower()).strip("-")
+        if ev:
+            n["event"] = ev[:40]
     return True
 
 
@@ -401,7 +514,8 @@ def fmt_story(n, i):
     stars = "⭐" * n["stars"] + " " if n.get("stars") else ""
     num = f"{i}. " if i else ""
     stamp = f"{n['published'].astimezone(LOCAL):%a} · " if WEEKLY else ""
-    line = f"{num}{stars}{stamp}{n['title']} _({n['source']})_"
+    more = f" · +{n['similar']} similar" if n.get("similar") else ""
+    line = f"{num}{stars}{stamp}{n['title']} _({n['source']}{more})_"
     if n.get("moves"):
         line += f"\n   📊 {n['moves']}"
     if n["desc"]:
@@ -418,6 +532,7 @@ def build_post():
         raise SystemExit("No data fetched; keeping the previous brief unchanged.")
     rated = rate_news(news)
     if rated:
+        news = merge_events(news)  # one story per event, best source shown
         # drop noise: 1-star stories everywhere, and political stories below 3 stars
         news = [n for n in news if n.get("stars", 0) >= 2 and
                 (n["section"] != "politics" or n.get("stars", 0) >= 3)]
@@ -457,7 +572,8 @@ def build_post():
         label = f"{title}{' — this week' if WEEKLY and sec != 'ahead' else ''}"
         parts.append(f"*{label}*\n" + "\n\n".join(lines))
     parts.append("_Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, "
-                 "Google News. ⭐ ratings and summaries are AI-generated. "
+                 "Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets "
+                 "report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. "
                  "Information only, not investment advice._")
     return "\n\n".join(parts)
 
