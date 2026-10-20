@@ -1,0 +1,31 @@
+name: Forex brief
+
+on:
+  schedule:
+    - cron: "45 0 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build brief
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CURRENCIES: "USD,EUR,GBP,JPY,CNY,INR"
+          CHANNEL_NAME: "Forex Morning Brief"
+        run: python forex_brief.py
+      - name: Save brief.txt
+        run: |
+          git config user.name "forex-brief-bot"
+          git config user.email "forex-brief-bot@users.noreply.github.com"
+          git add brief.txt
+          git diff --cached --quiet || git commit -m "Brief $(date -u +%F)"
+          git push
