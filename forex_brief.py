@@ -287,16 +287,32 @@ def rate_news(news):
         "ITEMS (id|section|headline — summary):\n" + "\n".join(lines)
     )
     try:
-        data = json.loads(gemini(prompt, json_mode=True))
-        by_id = {int(r["id"]): r for r in data if "id" in r}
+        raw = gemini(prompt, json_mode=True) or ""
+        raw = re.sub(r"^```(?:json)?|```$", "", raw.strip()).strip()
+        data = json.loads(raw)
+        if isinstance(data, dict):  # e.g. {"items": [...]}
+            data = next((v for v in data.values() if isinstance(v, list)), [])
+        by_id = {}
+        for r in data:
+            try:
+                by_id[int(r["id"])] = r
+            except Exception:
+                continue
     except Exception as e:
         print(f"rating failed (news shown unrated): {e}", file=sys.stderr)
         return False
+    if not by_id:
+        print("rating returned nothing usable (news shown unrated)", file=sys.stderr)
+        return False
     for i, n in enumerate(cands):
         r = by_id.get(i)
-        if r:
-            n["stars"] = max(1, min(5, int(r.get("stars", 0) or 0)))
-            n["moves"] = clean(str(r.get("moves", "")), 60)
+        if not r:
+            continue
+        try:
+            n["stars"] = max(1, min(5, int(float(r.get("stars", 0) or 0))))
+        except Exception:
+            continue
+        n["moves"] = clean(str(r.get("moves", "")), 60)
     return True
 
 
@@ -419,7 +435,14 @@ def build_post():
 
 
 if __name__ == "__main__":
-    post = build_post()
+    try:
+        post = build_post()
+    except SystemExit:
+        raise
+    except Exception:
+        import traceback
+        traceback.print_exc()
+        raise SystemExit("Brief failed — see the error above.")
     print(post)
     print(f"\n[{'weekly' if WEEKLY else 'daily'} • {len(post)} characters]", file=sys.stderr)
     if "--dry-run" not in sys.argv:
