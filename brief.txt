@@ -1,6 +1,104 @@
-*Forex Morning Brief* | Tue, 20 Oct 2026
+*FX • Gold • Oil Brief* | Daily
+Tuesday, 20 October 2026 • 03:07 PM NPT
 
-*Today's key events (Nepal time)*
-🟠 11:45 AM — GBP Average Earnings Index 3m/y (exp. 3.8%, prev. 3.9%)
+*📊 Price snapshot* (vs prev. close)
+DXY: 101.87 -0.11%
+EUR/USD: 1.1220 -0.05%
+GBP/USD: 1.3347 +0.09%
+USD/JPY: 158.11 +0.19%
+AUD/USD: 0.6994 +0.31%
+NZD/USD: 0.5685 +0.46%
+USD/CAD: 1.4058 -0.43%
+USD/CHF: 0.8250 +0.15%
+EUR/JPY: 177.34 +0.11%
+GBP/JPY: 211.01 +0.27%
+AUD/JPY: 110.55 +0.50%
+NZD/JPY: 89.86 +0.65%
+Gold: 4,140.0 -0.48%
+Silver: 57.34 +0.64%
+WTI: 100.47 -3.08%
+Brent: 111.42 +1.71%
+US 10Y %: 5.136 +0.75%
+S&P 500: 7,691 +0.41%
+VIX: 18.78 +1.84%
 
-_Sources: FXStreet, Forex Factory. For information only, not investment advice._
+*🗓️ Next 24h — key events (NPT)*
+🔴 Wed 11:45 AM — GBP CPI y/y (exp. 3.4%, prev. 3.1%)
+
+*💱 FX & central banks*
+1. Won hits fresh two-year high against the dollar _(Korea JoongAng Daily)_
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlNuUXZKNTEybVVBb2xLUHdhdllpRzRZQkpfMzB6azNoUGdUNHdZUXR1d2lvMTZVZjRSdFlKT19PaElDOWIxNUZLLUJUQ2dIcmtPdlNaUnFxeS00WWFkVUQ2YTJJUnduRWt0clJ0dGRnYURQYU5POEw4cTFRdE1FdFZFbjRpM21USC1zMEpzRW9qRE9EUmdOS2tZOTZEWTFD?oc=5
+
+2. Illustration shows Euro and U.S. dollar _(The Daily News | Texas' Oldest Newspaper)_
+   https://news.google.com/rss/articles/CBMizgFBVV95cUxOaVBCODZqRlAwUDVyOFdnNFZNLWdEX1JJQ0RLTzctektPbU9qS2l0Skp1VmM5cDZTbU44eXNudEV5N0NSUE5qLWhSUzYtUDhQNE5GQi13aWwyMzQyWW9nWTV1dDFta3ZJLTdscHJNZzFISWpxVnFMWVJfZWpUeC1nNjFrdHBvcUZhUHdWOUVzSjRaMlVZTUNRZG4yajA4REpNU1dyNmVfSGdwemdVaEJlMk41ZXRVZlRuMDc1dW9ndEQxNklUR3A1ZWFXU3Z2Zw?oc=5
+
+3. Sterling today: Pound edges up as dollar consolidates _(investing.com)_
+   https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-consolidates-4959210
+
+4. US Dollar Index Price Forecast: Tests ascending channel bottom near 101.50 _(FXStreet)_
+   https://news.google.com/rss/articles/CBMitgFBVV95cUxOV0o1WkptSzdobGszZDFpTEtYUENnUzJ0UzBTSU9yTk5ORFpaalMyV0E3THV4LVBxcTVxZklKM2h1MXhLUks1cUZIRmpzQXdWZzVsYnhEMktZLVpSeFVMWG1JM0xmT0pIUXpLdmNzREZGYVZoNFNyODU5dkJvczFsTlVkMnhOc2Vja1l1VzFmM2VwdnphdzRiOG1QeU80LUltaW1OS2lCeWs3aUJON0JxUW03U01Bdw?oc=5
+
+5. Europe gas trades at 2022 highs as Houthi strikes trigger supply fears _(investing.com)_
+   https://www.investing.com/news/commodities-news/europe-gas-trades-at-2022-highs-as-houthi-strikes-trigger-supply-fears-4958915
+
+6. BoJ to leave rates steady, raise inflation forecast in October meeting – Reuters _(www.tmgm.com)_
+   https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNEotRXNraE0ySV9qSUJiTEZIRGE3dTJMeUUydTlHVTQxWHlJcl9KNEZpVWJLcEJBUkx1Qlk1OFo2bjV1TFZtcnNCLXRWVUVSQ21ESF9KSXQtMy02LXZvX3RwZzBzRzBWWVhLNVlyeXRwczdqckRpRWY1WUw3RG1SMlBVS1dYT21kMnhWYVU4NU5pQTN5blg0N0stZ3A3VUxtTnF1bmwxV1RPRXVONjRiVFRZZjZnM2hubWx5S295cG1McnliQlBfNzNORzJLd09OU3B0dkJQRkg3UGs?oc=5
+
+*🥇 Gold*
+1. Gold price in Pakistan falls Rs3,600 per tola _(Investify)_
+   https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0VOTXp0ejNQZ0dPYUpTb0hzOUlfbzY5Y1ZjUjRiMGpRNU1BdWEySndMdGt1ckdJNW45R0VTeHhrczBPTXMwSEFIa3Q5UnIyM0t6UmJNM2dPU1BtRk5rRVMxRVhYN2hUT3Q0NUhrcWdZRG5FcWMzbUg4d2MxSHRlXzVlS1JQT3dnaXRqdGEwcEh5dw?oc=5
+
+2. Gold dips as oil prices fuel inflation fears, Fed outlook in focus _(investing.com)_
+   https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694
+
+3. Gold Price Today: Gold Gets Cheaper This Dussehra, Check Latest Rates _(Asianet Newsable)_
+   https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1RmRmZZN2tBV19XNEZGdlhCaHlqd3pZUTBCMjlCNWxUNXlqTzI0cXpLVTZfVjhKa2VtelloMGI5QzBTXzlHV1MtMzdKODJCcDRaZGkwT1lYSWR6TVQ1bVZhdWhYckRSU0VlWDE4bHlQcnk3T1hYZW5SLXRLZ1JWV3hGcFg5bWRkMURTOTdvYkxPNFNkY0syQkRjMG4wbE11NDBDeUZ2YUNwbWNBUEd6bWl1S0dmX0IwSTk00gHAAUFVX3lxTE4xQkNXXzVLU0dkZm96RnhETmtWOWgtQTdwdnVxOGhjTWxXdlhZY2p1R2JtU3hRZ3RFMFNQLTlRNjk1ZDZ2b1U5eTNXd2g1ZUdWa1hsenRlN1hWR21XRHNCakRSVWp5dm9qS0hJOUwzWUxiYzl4OU1faHBCVTNYeFdVcFo4alJ3b0tuSWt5aG5yTnl1QXhraDRDUnNJMExWak5DRW9CNFRMSE5wRGJBU2tKV2V2WTQtNGNfWWd3WWl0bw?oc=5
+
+4. Gold Price Forecast: High Treasury Yields Put $4,000 Support in Focus _(FXEmpire)_
+   https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUNlTzZwM2ZwaEZlNUV4Ny1XYUNLb0FYNHVxV0RmRHVsTktIQ1Y4SUM0a1ZrbU1rYkxnMUhQaHREeVJDSk1QMHN4N1hSTHB1czZBV0NrWWplM1JpbDBIaHBZREdBaU41OHR2Sk5sWkRZR0MxYm9BemtEUnJfc1MyYUZXTERDWmFVcDRqQ3NLQkVRbUdRN01MRVBsTE9aZDRWdzJuQWZKd3hnb2RkWEVsSExqdTh5OC1BV09lb1o5TmJ3Vnc?oc=5
+
+5. Gold Rate Today in Uttar Pradesh 20th October 2026 : 22 & 24 Carat, Todays Gold Price in Uttar Pradesh _(Business Today)_
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE5SeGZIWl9hZERFamdMT3dQR0g5WUI3elBZYm54V2FuZlQ2ZUpuT0JlVG9NUkxwSXZieDZYeDlDdDR6Z0tyM2x6VWctQ3RIRGtRWXVDVkQwbTZyNW1vYWtxbjMyX3lHRW8wN0xuRFdNODdURVBlN1BmbVplZw?oc=5
+
+6. Gold Rate Today In Bengaluru, Check Live 22 And 24 Carat Gold Price _(NDTV Profit)_
+   https://news.google.com/rss/articles/CBMidkFVX3lxTFBpRDdicXVpMG1NSVpjTXN2bUl1aUxqdTNqdG1RR2FGQnJpVlp2QkYxTE9lcmlGNWpZWm1aZDJXOWZySFpLVXpOODkya25HLWtUNnZ4ckNEcDZ3cXlZUjNYaUhWS29wOXdVYnoxNXhxdFBZbGg4S2c?oc=5
+
+*🛢️ Oil & energy*
+1. Oil Prices Rise with Brent Futures Above $110 a Barrel as Middle East Risks Persist -- Update _(marketscreener.com)_
+   https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSU5kcHRaQWd3RGRPNF9uUF9TQ3NTckI2VEk4TndfQjVxdG1mZU5MVUs5YXVmcFg5VXktUnAydWVZQ2xyaExPVXozRWpnS1NrekdnVTBHVG9PdDFHSjRRVUFndWNKQV9BYzc5VDJEVWtpVzhSNFl3QThsX1R5eFl3N1l4ZDZ3TFpBUFMtU2pIRUFsZElyYTBUQlczVE1kT0h0cXZGS2c5cnhWcTdEYU1FQjJNMVI3UHNlODVraS1hMmdOcGk2XzQ0cVN5N0EyREZEZHpSNy1VMkFuZw?oc=5
+
+2. Brent Returns to $110 _(marketscreener.com)_
+   https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZS2JvM2FPNF8taXZaS2t1SzJzVnJUemQ4UEh5NmNIQVNWaXA2RTBMZ2o4NU5iSFpiZ2lqREhWOUFuNkZJSzNEa2l2T0VvalYzZTRMcTllSUJYUnFwZFRVZWRPd1llWjlwaEF5VV9wdDRETHJFV0F6Rk1WbWV0UQ?oc=5
+
+3. Brent Crude Holds Firm as Geopolitical Risks Support Oil _(TradingPedia)_
+   https://news.google.com/rss/articles/CBMingFBVV95cUxOUzE0M0lkYkRIXzhYR05OWDhRSXRZSHJTZ0hFTkpFZURnQ3dFamVubWN3ZnpodlQxell4ODdVVzRIQ0NvY1BXM0J3QXlxWk1UbDFzaWxhcTVkdW5KTF9BSG5WUmRMNmNrTnFPWF9ldDFoVDJiU1FVdG5CNHUyV2FOdEZrRHhqeEtqak9pdUp6SUlIdUI5RVFJMDY5WW5LZw?oc=5
+
+4. Oil hovers near five-month high as Hormuz, Houthi attacks threaten supply recovery _(investing.com)_
+   https://www.investing.com/news/commodities-news/oil-holds-near-fivemonth-high-as-hormuz-attacks-threaten-supply-recovery-4958615
+
+5. TOO LATE: Georgia Tech’s Missed Practice Plan Dooms Brent Key – Mendoza LEARNS the Hard Way _(KGW)_
+   https://news.google.com/rss/articles/CBMipwJBVV95cUxOcXhzMDZzYUs4N1BQeFBTeGxXTEFNTDdvN005ZEpCdVVGQVcxN0dqVWJfR05nUFd6MUcyc3RDLWUzYU9wLTdUWTV0MWdQS3prZm9SemZaY2ViWkRpUWhmbGNoUk95ZzZqYTFEbEFnQ3p4OFl0THVwNnM1VVhhcUFJNEo1WEVkekl1QVJiblE1SUtYSEIxSV9RWTNMMTgwTjdCWTdSSVdicjVmaGUxdkNyRkdOd0UwRF96U0hzTjRiNmw2NjZ2TEdjOGpHV1NscEcwckRabEFaRUY5SjlBUldpUGREdFcxZlZnOHg3amsyQjJ5WDJ3NU56MmFwV01ia216N1hDbGVJX1ZXRlRsa3RKWWRSUzNwRmxQNGQ5ZUVNOFhLVlhtYnlN?oc=5
+
+6. Current price of oil as of Oct. 19, 2026 _(Fortune)_
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KYndkRDVoRzRjN3dZdTJjSVQyczNiUHRTdERRS0ljYmdzNndrR05WRVhpY3VINUwwZGhMT2tOQ1N6UktTVV9lbkFKTDhiN3RUVFNmZnNzRXIyM292Q0NsVHFB?oc=5
+
+*🏛️ Politics & geopolitics*
+1. The budget deficit swells, while the cost of debt rises _(Axios)_
+   https://news.google.com/rss/articles/CBMid0FVX3lxTE12UnpJR0F4bjRvTF9PMXZtb2JVcWxiejBIb0MxOUlBWGREa25qVjYxOFhGeFFwWVMwQ0tsMFRnWUQtNElUX0VmbHVaSEYzMlctbjZBemFTZkFmYmd5djdHOWc4eFlna2tHR0dfaFlVbFl3QnREdzBB?oc=5
+
+2. Oil climbs 2% with Middle East in focus _(Breakingthenews.net)_
+   https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGhEb0NXOTYtdDFPOXBBMVJBRl83RTRqWXphbmRnTXprVU0xRnNnbnZVX0tTaVo1ZWhIcUFIeE11RUJFTU52U3E2UEpLaGtDYkpLV0NXd0lSNXVCQUQzSW45VkFhcnBCVGkyWjdVVWpmTXpVWFBlMTVxdXlhREl0VEs4Sy1ubFhaV2hn?oc=5
+
+3. Brent crude climbs to $110 a barrel as Middle East attacks lift oil prices _(The New Voice of Ukraine)_
+   https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSndIN2RJNHMzak85MEIwZUd1SFJDUzdPTm4xeWpHN1loWXZ4Y280M3hydEVYX2hVZEluSGdOS0dzc0x2S25DelhLSUh2ekhkN2pOX0tfd2x6eFRPZG9UdFRnY3B5ZlBzTWlKdVc2ZHJSOHN2ZVoteWNGUHpLY1k3ZlhOUFA5NzZtLWNXaFNCMUhxb0pXS1VjSmZhV3ZMVURXelU4alVTNk10b2fSAacBQVVfeXFMUDVNMG9GSDdEU21VNzZ5RVFxUHl5Z3hVZ0kxdEs5TDNfbTBsYUtZdGZrVVhJdlF2TnV2bTFwa0NJUDVQV1hOUWhISDBjWC1EejQ5blVKYXNCMUl0enBYNnEtVjlfeGVkQ01mT09LLXZScFJlWmxFMzU3Y2hlWWM1T0M1cnNYNENqSDVtX24td1c2RVRwYng4V2FjbTVSaFBtbWQ1OWFJakU?oc=5
+
+4. Indonesia Stocks Rebound as Authorities Step Up Response to MSCI _(Bloomberg.com)_
+   https://news.google.com/rss/articles/CBMitgFBVV95cUxPd2ptcVAxZnoxMjV3UzRRY1BJNW84Y3RoUFJwaHFCRjI1MWVhcV9ldHppQnZScm1Fd0cxNzgxQkZwTXdER1dkVmIzNDJMNzZ3Ylc4YzBsd0QyaEhFblgyTWFSeXFBNnBydVZnX19tQzNiUENUcEpXUnpGMTNaNWtscDVGajlhMUtxalhEc0lVdGswSVN0N2lhTUZ5MGw2SUpibWZkZjhjLW5RV0lQeWstOUNhVTRHUQ?oc=5
+
+5. Ukrainian Drone Strike Sparks Fire at Oil Transit Hub in Tambov Region _(The Moscow Times)_
+   https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZDhBTUs4YlBHOU56b0RHbldocTVIdzBKSHdSQi1RaUFSOWtwbmhCZ09fUnlZeGVaLXh4ZlpydmtLRkhVRXMwNm53SmM1eUtzUjNMVHYyaUl2Y21YZDVWZjlyWTVjXzRMbmVVM0lScW1JX01UMllTMFcxcVJYOGRGOFExYnJyQjkzaVdCdHF6bFRIYzd6MlYySmpqLXE1X2Y3ZHlFd1U5aHVyVW9qUklubHNiNHVtZ3lWRm1N?oc=5
+
+6. Albanian govt allocates 8 mln euro from emergency fund for police amid violent protests _(SeeNews)_
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxNeFBjclVKcmZ4MmptS1gtX05TdVU0aWFlbTEzZTM0QXEySl9QU09oRVRCMWJQYi1FREp1aFR4MTVVbmpJUVg5THRXbkNyVWZpUGlWUXBsZmg3b1VXNjktZERMZkZoSXBlakJreUd4WlA5cmNwU3Z1SlVoX3FfRGFfaWNsUHVDZExOOE1uUURtTndJeVpWbzBfd1k4UGZjcENrN1VrMXYzamw5ckVIVjc5MExteTdyVnB6UjF0cA?oc=5
+
+_Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
