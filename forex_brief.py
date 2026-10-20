@@ -19,7 +19,7 @@ Run:  python forex_brief.py                (daily)
 
 Settings (GitHub Secrets / workflow env)
   GEMINI_API_KEY    free key from https://aistudio.google.com (AI sections)
-  GEMINI_MODEL      optional, default gemini-2.5-flash
+  GEMINI_MODEL      optional; by default the newest available Gemini Flash model is used
   CURRENCIES        calendar currencies, default USD,EUR,GBP,JPY,AUD,NZD,CAD,CHF,CNY
   CHANNEL_NAME      title at the top of the message
   NEWS_PER_SECTION  stories per section, default 6 daily / 10 weekly
@@ -40,7 +40,9 @@ WEEKLY = "--weekly" in sys.argv or os.getenv("MODE", "").lower() == "weekly"
 LOCAL = timezone(timedelta(minutes=int(os.getenv("TZ_OFFSET_MIN", "345"))))
 TZL = os.getenv("TZ_LABEL", "NPT")
 UTC = timezone.utc
-UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) forex-brief/4.0"}
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/130.0 Safari/537.36",
+      "Accept": "application/rss+xml, application/xml, application/json, text/xml, */*"}
 NEWS_WINDOW_H = 8 * 24 if WEEKLY else 30
 
 
@@ -89,7 +91,8 @@ KEYWORDS = {
     "fx": r"usd|eur|gbp|jpy|aud|nzd|cad|chf|cny|yuan|yen|dollar|euro|sterling|pound|franc|"
           r"\bfed\b|federal reserve|ecb|boj|boe|rba|rbnz|boc|snb|pboc|forex|currency|treasury|yield|inflation|cpi|payroll",
 }
-EXCLUDE = re.compile(r"nepal|nepali|\bnpr\b|kathmandu|rastra bank", re.I)
+EXCLUDE = re.compile(r"nepal|nepali|\bnpr\b|kathmandu|rastra bank|"
+                     r"gold (?:rate|price) today in|per tola|\btola\b|carat|jewell?ery|illustration shows", re.I)
 
 PRICES = [  # (label, Yahoo symbol, decimals)
     ("DXY", "DX-Y.NYB", 2), ("EUR/USD", "EURUSD=X", 4), ("GBP/USD", "GBPUSD=X", 4),
@@ -248,11 +251,36 @@ def get_news():
 
 
 # ---------- AI ----------
+_MODEL = None
+
+
+def _pick_model(key):
+    """Use GEMINI_MODEL if set; otherwise find a current Flash model that this key can use."""
+    global _MODEL
+    if _MODEL:
+        return _MODEL
+    if os.getenv("GEMINI_MODEL"):
+        _MODEL = os.getenv("GEMINI_MODEL")
+        return _MODEL
+    try:
+        data = json.loads(fetch(f"https://generativelanguage.googleapis.com/v1beta/models?pageSize=200&key={key}"))
+        names = [m["name"].split("/", 1)[1] for m in data.get("models", [])
+                 if "generateContent" in m.get("supportedGenerationMethods", [])]
+        flash = [n for n in names if "flash" in n and not re.search(r"lite|image|tts|live|audio|exp|preview", n)]
+        pref = ["gemini-flash-latest"] + sorted(flash, reverse=True)
+        _MODEL = next((n for n in pref if n in names), None) or (flash or names or ["gemini-flash-latest"])[0]
+    except Exception as e:
+        print(f"model list failed, using gemini-flash-latest: {e}", file=sys.stderr)
+        _MODEL = "gemini-flash-latest"
+    print(f"AI model: {_MODEL}", file=sys.stderr)
+    return _MODEL
+
+
 def gemini(prompt, json_mode=False, timeout=180):
     key = os.getenv("GEMINI_API_KEY")
     if not key:
         return None
-    model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+    model = _pick_model(key)
     body = {"contents": [{"parts": [{"text": prompt}]}]}
     if json_mode:
         body["generationConfig"] = {"responseMimeType": "application/json"}
