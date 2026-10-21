@@ -1,100 +1,125 @@
 *FX • Gold • Oil Brief* | Daily
-Tuesday, 20 October 2026 • 05:54 PM NPT
+Wednesday, 21 October 2026 • 07:03 AM NPT
 
 *📊 Price snapshot* (vs prev. close)
-DXY: 101.88 -0.10%
-EUR/USD: 1.1217 -0.08%
-GBP/USD: 1.3347 +0.09%
-USD/JPY: 158.12 +0.20%
-AUD/USD: 0.6988 +0.23%
-NZD/USD: 0.5681 +0.39%
-USD/CAD: 1.4052 -0.48%
-USD/CHF: 0.8236 -0.02%
-EUR/JPY: 177.32 +0.10%
-GBP/JPY: 211.03 +0.28%
-AUD/JPY: 110.44 +0.40%
-NZD/JPY: 89.79 +0.57%
-Gold: 4,143.5 -0.40%
-Silver: 57.31 +0.59%
-WTI: 100.57 -2.98%
-Brent: 111.16 +1.47%
-US 10Y %: 5.136 +0.75%
-S&P 500: 7,691 +0.41%
-VIX: 18.83 +2.11%
+DXY: 101.79 -0.19%
+EUR/USD: 1.1231 +0.14%
+GBP/USD: 1.3374 +0.49%
+USD/JPY: 158.31 -0.13%
+AUD/USD: 0.7015 +0.46%
+NZD/USD: 0.5677 +0.20%
+USD/CAD: 1.4063 -0.30%
+USD/CHF: 0.8259 -0.11%
+EUR/JPY: 177.75 -0.01%
+GBP/JPY: 211.71 +0.35%
+AUD/JPY: 111.03 +0.31%
+NZD/JPY: 89.86 +0.06%
+Gold: 4,125.3 -0.84%
+Silver: 57.62 +1.13%
+WTI: 98.93 -4.56%
+Brent: 109.96 +0.37%
+US 10Y %: 5.117 -0.37%
+S&P 500: 7,713 +0.28%
+VIX: 17.31 -6.13%
 
 *🔥 Top-rated stories*
-⭐⭐⭐⭐ Oil Above $100 a Barrel as Middle East Risks Persist _(WSJ · +36 similar)_
+⭐⭐⭐⭐ Euro weakens below 1.1250 as French protests and fiscal risks weigh _(FXStreet · +1 similar)_
+   📊 EUR ↓
+   https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3FDX0JidU9xMzFfVTEwYkdUMllFTG5oTEQ2SktUS3RmbzZiZkpsZ2FxVnFlR2k5SFJqbmxTS25RcDBqam95UHllYm4tUVNlVG1aTXVBY1FQZlNtMkdtc01FcU1waGJXMjVldHBSeEVxdWNVRGFobGZrX0VWaTZKSjNLOExaTVpJMDNxVTdaSm5MZVlZanQ3QndKNDU5amgwU2lqRUtPRWVQckVaMHc?oc=5
+
+⭐⭐⭐⭐ More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War _(WSJ)_
+   📊 Oil ↓
+   https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5
+
+⭐⭐⭐⭐ 🇺🇸🇮🇷 Treasury Secretary Bessent says Iran’s oil money has completely dried up. “Think of it like a company going bankrupt that no one is going to give them money.” He says no oil has been loaded at Iran’s Kharg Island terminal since August, and that Iran h _(X)_
    📊 Oil ↑
-   https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ?oc=5
+   https://news.google.com/rss/articles/CBMibEFVX3lxTFA2NE5qamxhNW1GOUMyOUxEU3RHZUlJT3hpR2xucGREQnA5eUtPdXZTTVNRX1lXQ05yVGk3eUFLYVhHYlRNMEM0d1kzSk5UaUgxX0ozeXNYMUpxZEdwYm9rR3ZWdG00cTNmTUpiYw?oc=5
 
 *🗓️ Next 24h — key events (NPT)*
 🔴⚡ Wed 11:45 AM — GBP CPI y/y (exp. 3.4%, prev. 3.1%)
+🟠 Wed 06:45 PM — GBP BOE Gov Bailey Speaks
+🔴⚡ Thu 03:30 AM — NZD CPI q/q (exp. 0.8%, prev. 1.5%)
 
 *💱 FX & central banks*
-1. ⭐⭐⭐ Canadian Dollar: October hike bets fuel gains against US Dollar - MUFG _(FXStreet)_
-   📊 CAD ↑ | USD/CAD ↓
-   https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnJSVnE2NkFKSGhxb3BDdVMyTHB5bFE2TnVVOFU0SElsWjN0dzFpSnFYNXpPRWxYVGxsUWVvb2I1bmhfemczQm93THhLVW1TTmFzMnVZQjc4eUVlb1psQm9TMWJJYWt3cjdFYld3U2FKNjRyak9ia282MUxSWTFiRGVOTkVOeEVyRlpzVW5SZDZQNUl3bExtNzF4VnFPLUxrRjdnMGJEOG1fdXlsVjNR?oc=5
+1. ⭐⭐⭐⭐ Bank of England's Greene says inflation risks are bigger than thought _(Reuters · +1 similar)_
+   📊 GBP ↑
+   https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVNqRlM4X0NJV0Zma2RJY3FySGIwdFN6UlZpN1VtMTFzc3RkalpkMUxXQUZKbGpoTGNjTUtOaFNvYm5kc1F5UHl3ZVFVTU0wcTV0ckwyc3ZUeFlJYWhUanBSU2dmZHEwY3dmZTg4RzdkT1BQeGpJU05nZ3BfcUVWdmNhYXB1T01IdjA1ZDM3c0ZMMEYtblB1QUN3RlRIS00yaUp6amtjSFowOHg1ZVBr?oc=5
 
-2. ⭐⭐⭐ ECB’s Rehn Says French Spread to Germany Has Widened ‘Somewhat’ _(Bloomberg.com · +6 similar)_
+2. ⭐⭐⭐ Euro gains little as ZEW sentiment falls short of forecast _(www.tmgm.com)_
    📊 EUR ↓
-   https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUlneklZek5MUjhlQVhnN1I2aXdKVlY1TEFYSDFuaTV5LVh3TFd3RUtZdU9IMlJfUnNkWFotdmpxenc2OGVmeU50aWlnS243OHRIZUFLeklHZXBxcFVaUnlka0k2NDJadnZYTXkzdjVZMG42WEVfX0ZNQ3ZpckQ1dHhoeEJWc0VONlVoMHJFZ0k5Tkcxck1VYVBOcGx1SjJNQjNZNV9TYlhxdGMxVjZvVHVR?oc=5
+   https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR0NuSnZXdnEzVUFiTUx5NmFNNUZ5Z3NDMlFmdEVXbGgyRDZzd1FaU004NnRxLUpfNnFfdzk3TXZfc1g1M3FjVmxmem9VMy1vamVOTkRGVHMtUWt2Zm1KemlRLTVIYnIyc09HTXA2NjBYWFJ5bElqRnpEbXNRQVVEc2R4SndJZ2VjRHV2WEtZcWlYVlllc0xnQmhHRl80VXZzcUpLNWVGZTdnalpQS0c4NndpTFcxWUZERU5RdWdOZHNuZw?oc=5
 
-3. ⭐⭐ US Dollar Falls Early Tuesday Ahead of Housing Starts, Philadelphia Nonmanufacturing _(Moomoo)_
-   📊 USD ↓
-   https://news.google.com/rss/articles/CBMirwFBVV95cUxNMFpyeEM1MkF4Z1F4NFpxTHVaZVVnd2RLZmoySUpiTmFQT2pqWnFGNDEzMjdpMDR5azNOaWhQQnpQQmE2YXBpazJtcG51Q3ZSazN6cjdtWWNZRmpvOWVpd0NpYl9idFpMcFBKd2dyMFkwTUxkVmFjSTRpS2QtaXN5Qkg4aURGdmRPN3FPdEpLNnJkMExKeXJwNVQ4YkEzWl9LX1EwSWhhS2QtS3A4WS0w?oc=5
+3. ⭐⭐⭐ BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll _(Reuters)_
+   📊 JPY ↑
+   https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM01keWQ2YlhOUEZEODRRcFlSQzBtYnREaldoaTh0ZkpYVTFtYVJrbURVMDVyaEFkSFFoU2hiRmtfYVlYLW83SHdVMHlNbW9aV19oR3I1OG5ERnAwOV9EdjU0NDRkRUxVSXg3R2hJZUpiTXdIeWVSNVlfc1U0bGRndHhFNlhtbXA4N2I4dUhabFRsZDFsRUZFNWNHTDc0cWJPTGJnbU01aTR5VjA?oc=5
 
-4. ⭐⭐ US Dollar: Equity weakness could trigger more losses - TD Securities _(FXStreet)_
-   📊 USD ↔
-   https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFUtQlh5dFg5SXBOTVRnaTJ4emdkTC0zeEhxOFJQb2tva2FWSER5UnprcHlzMUJfSm1wdkl0UlktZHFfVFhaRl9NejBqNTIxVWhLS3drdDlYdVV2X2J5eUU4ZU5BYWVVODJJaEpPMlBycTRzYlNkcV9POVJXaDhhenlJZzdVdmo5N1p3SlJHV0lnQ3NrSzlQN0RuRGtCTW9sQ2NNMkpETTdUUGto?oc=5
+4. ⭐⭐⭐ British Pound Rallies into CPI as BoE Hike Bets Firm - GBP/USD, GBP/AUD _(FOREX.com)_
+   📊 GBP ↑
+   https://news.google.com/rss/articles/CBMitgFBVV95cUxNcU1YQ2RWREJfTUROUGNGQ3dxYThlWWtfVnAwdHp5bnpvLWJTX3VoYXVmRF9qVW1DbG4xMU14aUlXU25iNU1FZkNuNTRVWXgtazY2My11OEhUWWxlOUozNTZYYlFQV185dEtvY0NuMFZfOVc2ZmxQWlhHRFdnNzdoanVMU3k1bXdqbHotWWtYQmFZV2hvSmUwN1RJNS05T2YtNDRjaldkUWJIOVhrM2JLZkJKTFdVZ9IBwgFBVV95cUxPZ29aczBuanZxYmlLYzZ5VEJWN1pUOTVfdFRxNE1hQUlLQnFSMEJNVkltSjY0RmpvTmJMRWZ4dXB0NHJuRjd1eWlrWExNNUtLTjYyNmMzZFlaZVpPR2hHUUZyNGxxT3pXdXhxZ0hvcnpEWkZpRlA4U0V0MGhaR3BCNkJFMklJREUtUDJlLWIzclh6dlZtWmV4RXNMYktQcXVrY1B4MkdqcUZZUHoxbTNPRGs2bFl4dk9WTUFvTHlPNFY5dw?oc=5
 
-5. ⭐⭐ Dollar weakens as investors await corporate earnings and monitor geopolitical developments _(Economies.com)_
-   📊 USD ↓
-   https://news.google.com/rss/articles/CBMizgFBVV95cUxPQVBTNjI0SFFFclhYMGp4akU0Unk1Rl9KYUw3Ry1CbFZPLWRXVTRiSzZ5OVp6THE2SnA3TkV3YzI2NXEyanItendId2JEakt5S21FMzQtaVR2ZlR5bVUxWmd1OXFkZWhiUVNzb2ttYTg1dTB1cjFrbF96TU90UXNTM3pTQ1M4eF8xTUtqcHI5MDAwS0NmWjF6akFPdW5QX095c1pCbkpuY2pteUlXREFZQ195TTVPejdrUEgyLWNhVTlZUDhwYlNzQ2duOEx6QQ?oc=5
+5. ⭐⭐⭐ GBP/USD Analysis: Sterling Gains Momentum After Employment Surprise _(FOREX.com)_
+   📊 GBP ↑ | GBP/USD ↑
+   https://news.google.com/rss/articles/CBMiswFBVV95cUxQM212Wmw1U0xuRHJJU29oa016LTVkODd0V2FtVG1mT09QQ2Y2OG9tVC0zZllxcnBBZGJpY0QxVGpkbmRDYmpubVEzWGYwTDJTbXFUZzBONGx5aGQ2YXFETWdyMTk4dmg0YjVUUnZmTnVrbWNENmVTOGUxV09uenlSN3FaYjdlalVsejFiVzhKdFVpeWloUmx0RGd6UFRJUWF5TmNybmx5X0NRQ0tkWDlMdE1vd9IBvwFBVV95cUxNZzAycVktTkVURk1EOGVpWkN5QU92ZExfdDAzdkVIdUluZ2ptN0k0NkJrUEs2eWRwMHBvN1pIZTNubnFvLVRmZ01kR2V1VkxCcmRZN2pQMnZGNFlpR09WeWl6TmFWYUJXZmJGUW9heUlFWmk2M1NVZVpDaXVuanlOZVZWYlZKV1JXaEhzQ0xQOFJjM09CREt2WldvX0FjZkpDTVNja0VxbVVLajJUUnF1Wkl5Q1o0aDBxdVVBZnJqRQ?oc=5
 
-6. ⭐⭐ US Dollar Stability Hides a More Uneven FX Market Driven by Europe and Credit Risk _(Investing.com UK)_
-   📊 EUR, USD ↔
-   https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWh4cVVza1Exc3hnT3VBekxPLXF2YlkycndZUHdaNGkwRzdMWHRLYWoyemNQRzJaSy01clJTQlNBUUhsaWE2QUV4VU5acjd6SFd2bjBIOVg2cXI1c0ZZSUlOdDl1RDVNeU1Bdm8xSVlaREdleEVhUUU4bko4ZG00MXpCbmdRcGlqRVV6TkVrVERFUXlPdHM0U1pSZmlndFp6aHU3d3BOalJKNkJZai1jeFlkeGxMMkRLSGZWT1hadUdySXZ2?oc=5
+6. ⭐⭐ COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever _(Reuters)_
+   📊 EM FX, USD ↔
+   https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1daQTg5d2lOVXV0UWliMmhhb1R0c0MtbVFIRDRTSFBQWmZub2dmNFRTZmJWSDB3ME4xS1U3WnZ3MEtCamNScWNyYy13R25hSEdqOFdCcVZUNFRsTU1MMGxLWVRpSHB5NWxKTkR3d01Bb2ZheGg2WUtRTmZKZTJ4WHJKNG8tc0ZpSEZWUDNYLU5wUTJObmhqTU9wV3dWMVR4NXNqNVBpMUZGejV6M2hSZWZCUVZ5TGFJQUpNcUFkUnZ1dnVoajdBay1B?oc=5
 
 *🥇 Gold*
-1. ⭐⭐⭐ World gold price today 20.10: Sharp drop pushes gold close to 4,100 USD mark _(Laodong.vn · +1 similar)_
-   📊 Gold ↓
-   https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkMzTFpOZDRBai1jS1c2Q2NFVUszNGRzeTVUeXRIbVVaM1JGdWlBTF9GSktvRnFYNE9TTXpNOERhMEVqU0swZFF2c0F4RGVBeFp5TTBkX1NuR3FuN2JWamdxTUJPbU5sX2xHeUtfVjd5VnVOSlVUT05NWVpva0V5X3hMZjI2U1ZCMzN2ZGhZYWpQQ3NFVHZfXzNfcm5tT1luUXJNRC1rdmZZNDkxTFpMUExFbw?oc=5
-
-2. ⭐⭐⭐ Gold eases as higher oil prices stoke inflation concerns _(Reuters · +2 similar)_
-   📊 Gold ↓
-   https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5
-
-3. ⭐⭐ Gold Price Short-term Outlook: XAU/USD Holds Critical Support as Breakout Nears _(StoneX · +1 similar)_
+1. ⭐⭐ Gold Price Short-term Outlook: XAU/USD Holds Critical Support as Breakout Nears _(StoneX)_
    📊 Gold ↔
    https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXVHTFJfVEpSaGhVMFAtakNvaGxDVWNJUWx3enlfOE9hZ283MmMzWWJld3hVc01HWlozSWZEcjl6WUNHa20tOG1XdmZvbzB1eGNrckhCTUR2S3hOSUNRSk0zcE01RXA3U2RpZlZvM18yZVlUN3hidmd2bGhUay1faDJPaE51TUxldFRVanFsZFNoWWVieS1HYVUwSDZwYTcwQ3RQaVpVR1F4OWRKazdDX2pYOXlmZFptZUltUzAyaXJSelNN?oc=5
 
-4. ⭐⭐ Gold Price Prediction: How low can gold prices go? Expert reveals outlook amid global uncertainty _(ET Now)_
+2. ⭐⭐ CIBC cuts Q4 gold price forecast to $4,500, then sees bounce to $5,200 in 2027 (GLD:NYSEARCA) _(Seeking Alpha)_
    📊 Gold ↔
-   https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNnc1MUpMRHA3Y1ltc010VTQyckljOVctVkxROFJNaUFXUDRjLXJ5cVJfSEctNXhjOVZmdlpUMTh5NHpvSGptcmNNd0V3LUx4VkhXMUtQOXg2dmI1aVBVT1hLRExUQjdfVzhaMFF4RmE5NXJ1c2VuWVBKRk9hMGJrSGJpRWNuaXptc1FsdTVlRm0yaHFNMmQ3UEo3cXNzdW9rRXlkLVhfU09BREdLbGtvVE5OVjQzZUYxYjhPQVRvNmVhdnNaWXllQ3RNM053T1FtVEhFbTZXOG1yZmNOLUx0NWFvZHRyeHpPX3FZSQ?oc=5
+   https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUFrNzIzWFVHUlc1aVVWX0FjMWIzMk13ekdhOGdQRDRFREVfNUFyNU0tbExsMzQ5b3M2UjE5SFh3cWhIQ0w5N1Bkb21TamM0WkQyY2VRVXQweVp5dDZGVTJqWHVZd3dLMTgwVlRiUjk0WWNubWFEYm9xTDdNWV9VVldWT1RwbWc4TVdoa04yRWp5Q2VQVjFTakQ5ZXJHOGk5eXRjT2lQWXBGOW1FYWFpcw?oc=5
 
-5. ⭐⭐ GBP/USD, XAU/USD Forecast: Two trades to watch _(StoneX)_
-   📊 GBP, Gold ↔
-   https://news.google.com/rss/articles/CBMilwFBVV95cUxQbDZhX1RKY0pWdUxRc19PVlg1a2k4X19mZWVNNG1IWENsdGhscUNESUh5aUVabHIzSFMycnd0OEwzVVZmc1pYLUEybmVESFVxWkVLTkhjNVZFMFFPRXJ4UVJkcHJtd0UzckJsMWxPMzZSSjBHM1BNSzFSdEdodlh6YnF5ZnhOM3BqWldUVDljbFVsQ09rUnlB?oc=5
+3. ⭐⭐ Gold (XAU/USD) Price Forecast: $4,217 Breakout Puts Bulls Back in Control _(FXEmpire)_
+   📊 Gold ↑
+   https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1pDY1h6aGUtRjBicXJnQ1Z2bjVMczhBMDdTNWRvNk1lSXREelZtYVlCS0c2OHFiNURONmR1RjBuWF9sQk83Q2t0blZXUEpnbWUtWHNZUFBYc1dFR1BFeTA2YzY5c0NlS1JsX3VwdC1CdElHallqZGhZNXhzQVdpVmxsbXdoVFhaS1V1ZklhY0dQMElIbHo3MHFITW14WUhEZk1ZTVB2UW5yNWYxOHE3UWxfeUlUUENZOUNB?oc=5
 
-6. ⭐⭐ Gold Price Forecast: High Treasury Yields Put $4,000 Support in Focus _(FXEmpire)_
+4. ⭐⭐ Malaysia gold prices edge higher as central bank buying underpins global bullion demand _(VT Markets)_
+   📊 Gold ↔
+   https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ0FqT0J6bDNtS001OHdiblppV212SzFiSHhDblpnVmozdVRxRUQ1U253Nl9UazdvUUpjLWtqblVzVEswdWxNamdFcW10Y3p3VlgxVkNhbDZQdXhtaW55V1dWTHEzT05ENkRzYUF4MGdWQm9qUkVDTEhFSHBFQ0VVSEl6OUVLc1VpY2JFX2pNQ2FLS0dHcVBBdXdxenVUSE1DWTFZQXlldWg1eHhnNWRmZ0dTVDF0WGU2NDhZaXQ3MHIxYjNORVE?oc=5
+
+5. ⭐⭐ Gold slips in volatile session, as choppy moves in oil outweigh weaker dollar _(investing.com)_
    📊 Gold ↓
-   https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUNlTzZwM2ZwaEZlNUV4Ny1XYUNLb0FYNHVxV0RmRHVsTktIQ1Y4SUM0a1ZrbU1rYkxnMUhQaHREeVJDSk1QMHN4N1hSTHB1czZBV0NrWWplM1JpbDBIaHBZREdBaU41OHR2Sk5sWkRZR0MxYm9BemtEUnJfc1MyYUZXTERDWmFVcDRqQ3NLQkVRbUdRN01MRVBsTE9aZDRWdzJuQWZKd3hnb2RkWEVsSExqdTh5OC1BV09lb1o5TmJ3Vnc?oc=5
+   https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694
+
+6. ⭐⭐ Gold Update: XAU/USD Remains Directionless Despite Falling Yields _(FOREX.com)_
+   📊 Gold ↔
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmFHMWdOc0x0dlFoWVhZTnlVMjBHai1PS0dVT25NN29XM2dlZnowMUc5WXAtYTVrLW1COTRnb3pRT0I3OHY3NWtaTFNLcDJ1dzVVQVptOFZSVy16bXh3UG9URTlHRkFxZmpSQU5rSUYyNzVqcHdNS1lOcEQwWHMtN29rTk1rRkEyN1MtUXhyOFFUUWVLRkdLMjF2RDhOVk1ycXplVWYzSzlnRWpR0gG4AUFVX3lxTE9sd1pOZFV3V1luR2ZPTG1wa1lUMnpWMW1BTERDZnA0cy1SRXhHWkpDbXd4bkhhdnFoQlY5X3lpaG5SeWJKZFVfRW8tb2NLQ3V2U2lqSzNFTTgyRUZOb3A1ellnN1JDV3gxQ19RMkJNRXVuTWwtZGNGNGYwamMtVmVFS25Ma2d5RlVXN3l0akpmNHQyaUVpZHlFQmFrdmhMd0t5YW5uZS1KWHR6cVZaT0FfdDFqVDAtTTY?oc=5
 
 *🛢️ Oil & energy*
-1. ⭐⭐⭐ European natural gas prices top €90 per MWh for first time since 2022 _(investing.com)_
-   📊 EUR ↓ | Oil ↑
-   https://www.investing.com/news/commodities-news/european-natural-gas-prices-top-90-per-mwh-for-first-time-since-2022-93CH-4959837
-
-2. ⭐⭐⭐ Canadian Dollar hits fresh monthly highs amid high Oil prices and a softer US Dollar _(FXStreet · +1 similar)_
-   📊 CAD ↑ | USD/CAD ↓
-   https://news.google.com/rss/articles/CBMixgFBVV95cUxNVXBHNlBVUlBVOEFjM2stdldJMDZEUWpDSG8tQ3B1YU9BdjZqS0llOWJOaThOMVFyWjU5d2dhT0ViNXp0d2t5WEliMnljWnhLT3ZkRnJWMG5pNDB0aWlIMVhocTVOTzA4dGIwMGVObktjOG9UMks5TjhmbFdOblBUVTFZMUxsMkxfdWtlY0tEUzVOWDJuTHA1UTdyNlBvQnhKTmVYbFlibkR6SUF2eGZ1RktNek5tYXFPRmxJS3ZNWDBaT2tLZmc?oc=5
-
-3. ⭐⭐ Why Is the WTI Oil Price Rising More than Brent Intraday? _(Rigzone)_
+1. ⭐⭐⭐⭐ Oil Steadies as Traders Weigh Conflicting Signals on Iran Talks _(Bloomberg.com · +10 similar)_
    📊 Oil ↔
-   https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3RPMHJxdVplQUdTekZnQ0J6TG9kM3N1MGU1MDZ1bUxqRlFma2FZZDhvODJVRHVnQTZmRlBucGFXdVJPQ1ZsXzNyUFhoZXdkYzVnVmFjUlprWHo3Tm9VWS1ZZnVvRzBLUTlUOXhIM0w2UWpkY1BwSkowZnJCbmhkV3pteVhyakRxaWNIMWMxSE9sMWZkLUFNX1ZQRXhIMmR5dTZaeW9HRUJYMXJTQ0dvajZ2MA?oc=5
+   https://news.google.com/rss/articles/CBMingFBVV95cUxNblJWeWlxaDBENVkyZVNvTWhzNVFvNldZd01GVE9venlBdk5IRkw1RHpJQ2UtaWFrQmtnR1NNbVpsb0hzcTR2X0VBaWdhckRVd3BwYkphakFYcWJtZk1IZWZlcDAwMmxGbkpOaTk0M1hiaTFpMmZPVFRMUXhEZFpoazZtSnoyczE5akRHNVpBYnBPcHl6dDFoSHV6MjJ4UQ?oc=5
 
-4. ⭐⭐ The Indian Rupee's sharp rebound following RBI intervention may prove temporary amid renewed surge in oil prices _(investingLive)_
+2. ⭐⭐⭐ Oil prices rise on M.East tensions, U.S. inventory draw _(investing.com)_
    📊 Oil ↑
-   https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjlGelpZRnluSnhoSWFHajNzZWI4eGtSUk9vak1LNXg1bi1fcnZod3VUSmNVRzdMVDNfRjlZeFQ0S01BNHlUUEZHa0JDQW5EbXVTcXNMU2s2a0JKU3llcFZReGdwRU1tVUxCeWhlc1RESzRkbGFWLWgyeEFING9aZGJOdEN6c2doTlV0WXdBWlRDOVdWbmdHZktlRllqaFlsam1DNy04SDRsclJzaHNkdERYMF9PcVVSNlhTU0J1ektHXzhWNE5Odllyb0FpUG9hU0dyaHRFWW9wU1JiRFE?oc=5
+   https://www.investing.com/news/commodities-news/oil-prices-rise-on-meast-tensions-us-inventory-draw-4961436
+
+3. ⭐⭐ How Bad Would It Get If China Blocks Rare Earths to America? _(oilprice.com)_
+   📊 USD, CNH ↔
+   Taiwan is the next pressure point that will test China's weaponization of rare earth metals. When Japan indicated it would not remain neutral in a Taiwan conflict, Beijing responded by sharply restricting exports of…
+   https://oilprice.com/Energy/Energy-General/How-Bad-Would-It-Get-If-China-Blocks-Rare-Earths-to-America.html
+
+4. ⭐⭐ JAPAN SEPT IMPORT Y/Y RISE LED BY CRUDE OIL, CHIPMAKING EQUIPMENT, LNG _(TradingView)_
+   📊 JPY ↔
+   https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzVqXzB3WUJYYTRFYnM1NU4wLWlTQVZJWTF5N0x0NktweDM1NzlMb2c0a2VyXzBVaW9XUWZ4RFQ0ZmhaQ0g4MnZibWFCY244dk1qQkpjQkdmOHhlendCRFJyQ0ZGaHBXMTJpRWFLdkcySm4xY0ZjcWt0YTNrOGZwWTZCSXBCOVQwMEd3bURXTThjWU5ycmRnNElKc21TVWRMR2ctbFdqanh0UUl1YXY3SE9wV3pzMHV3Q2RHVmdqMmZreDhsZUE?oc=5
+
+5. ⭐⭐ Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels _(oilprice.com)_
+   📊 Oil ↔
+   Recently, we reported that the Middle East conflict and subsequent closure of the Strait of Hormuz has triggered an unprecedented spike in freight and shipping rates, with Very Large Crude Carrier (VLCC) spot rates now…
+   https://oilprice.com/Energy/Energy-General/Petrobras-Deepwater-Push-Sets-Off-a-Race-for-Offshore-Vessels.html
+
+6. ⭐⭐ CME : WTI Crude Oil futures hit $101.37 before reversing on supply news. _(www.marketscreener.com · +3 similar)_
+   📊 Oil ↔
+   https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWttUHZNb2ZuREc1UWxyakxZd0U3OE1HQTlGOUlkODV5dVhyLUtLN1Z3Z0tTUEEwMTBMX1VWenFibGNhbEE2YmpwWEwxOTZEaC13djNhbnduZmpuZmVHTDNlbjVvZkNOZnBkaDFudVMyOXVPVVdneDY5Z29GVUlBUHpDRVNnVEtDbUxzRzA0ZzY2Skt0QXFrZ3BYdHNsbV9PNzlCRGE1TmU3ZVZsUEQxRDBFMVYtTV92MWxVd2tR?oc=5
+
+*🏛️ Politics & geopolitics*
+1. ⭐⭐⭐ Oil rises on Middle East supply worries _(investing.com · +9 similar)_
+   📊 Oil ↑
+   https://www.investing.com/news/commodities-news/oil-rises-on-middle-east-supply-worries-4961438
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
