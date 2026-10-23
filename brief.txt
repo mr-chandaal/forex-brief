@@ -1,42 +1,49 @@
 *FX • Gold • Oil Brief* | Daily
-Thursday, 22 October 2026 • 05:56 PM NPT
+Friday, 23 October 2026 • 07:05 AM NPT
 
 *📊 Price snapshot* (vs prev. close)
-DXY: 101.79 +0.01%
-EUR/USD: 1.1212 -0.13%
-GBP/USD: 1.3378 +0.04%
-USD/JPY: 157.05 -0.77%
-AUD/USD: 0.7016 +0.13%
-NZD/USD: 0.5684 +0.11%
-USD/CAD: 1.4029 -0.26%
-USD/CHF: 0.8219 -0.45%
-EUR/JPY: 176.03 -0.93%
-GBP/JPY: 210.09 -0.73%
-AUD/JPY: 110.13 -0.68%
-NZD/JPY: 89.23 -0.69%
-Gold: 4,076.4 -1.77%
-Silver: 55.90 -2.66%
-WTI: 99.31 +2.22%
-Brent: 111.93 +2.86%
-US 10Y %: 5.146 +0.57%
-S&P 500: 7,757 +0.58%
-VIX: 18.19 +9.05%
+DXY: 101.55 -0.23%
+EUR/USD: 1.1225 -0.09%
+GBP/USD: 1.3405 +0.07%
+USD/JPY: 156.34 -1.14%
+AUD/USD: 0.7024 -0.08%
+NZD/USD: 0.5693 -0.21%
+USD/CAD: 1.3999 -0.31%
+USD/CHF: 0.8200 -0.49%
+EUR/JPY: 175.43 -1.25%
+GBP/JPY: 209.56 -1.06%
+AUD/JPY: 109.79 -1.23%
+NZD/JPY: 88.97 -1.35%
+Gold: 4,028.8 -2.92%
+Silver: 54.33 -5.39%
+WTI: 100.02 +2.95%
+Brent: 113.78 +4.56%
+US 10Y %: 4.953 -3.75%
+S&P 500: 7,663 -1.21%
+VIX: 19.03 +14.09%
 
-*🔥 Top-rated stories*
-⭐⭐⭐⭐ Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen’s Houthis continue _(investing.com)_
-   📊 Oil ↑ | JPY, EUR ↓
-   https://www.investing.com/news/commodities-news/saudi-aramco-tells-staff-to-evacuate-dhahran-as-clashes-with-yemens-houthis-continue-4965766
+*🧭 Market picture*
+USD & majors:
+The US Dollar index eased 0.23% to 101.55 as the Japanese Yen surged across majors, driving USD/JPY down 1.14% to 156.34 amid intensifying risk aversion. The Yen was additionally supported by Japanese inflation rising above the Bank of Japan's target, backing further rate hikes. EUR/USD edged 0.09% lower to 1.1225, while GBP/USD ticked up 0.07% to 1.3405.
 
-⭐⭐⭐⭐ Iran says 7 tankers were damaged in the Strait of Hormuz, and other Mideast news _(AP News · +47 similar)_
-   📊 Oil ↑
-   https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5
+Gold:
+Gold fell 2.92% to 4,028.8 as safe-haven flows shifted toward US Treasuries despite lower yields, while silver dropped 5.39% to 54.33.
 
-⭐⭐⭐⭐ French debt risk premium reaches euro zone sovereign crisis levels _(Reuters)_
-   📊 EUR ↓ | EUR/USD ↓
-   https://news.google.com/rss/articles/CBMitgFBVV95cUxQZG1tbk1Ea3kzamhBdWdPRmV3S3JKYkFUYVlaTmdWMDNZZk41WDVFU3FGM3JJSkpxanYxaUFsbjdWWDVnZHlaZWlBYVctc3ZtWklsZndxelk4NWU0aWpIVnhGOXFTbTRYX0R4VXBGUElvaXNGaWU3Z3hNWVpVVjlHZVN6Zm1xSEVPekdnb2VmVXlqeThrV0ZQU1E2c2V4QXdfSFQydjVlaW1vYTRXV2Y4bHNocW4tdw?oc=5
+Oil:
+Brent surged 4.56% to 113.78 and WTI climbed 2.95% to 100.02 amid supply disruption fears sparked by Houthi attacks on Saudi Arabia and the evacuation of US diplomats.
+
+Risk mood:
+Risk-off sentiment prevailed as the S&P 500 dropped 1.21% to 7,663, the VIX jumped 14.09% to 19.03, and the US 10-year yield declined 3.75% to 4.953%.
+
+Political risk:
+Escalating Middle East tensions, driven by Houthi attacks on Saudi Arabia and US diplomat evacuations, pose upside supply shock risks to crude oil benchmarks and amplify cross-asset risk aversion.
+
+Watch today:
+- UK Retail Sales m/m (11:45 AM NPT).
+- Flash Manufacturing and Services PMIs for France, Germany, the UK, and the US.
+- US Revised University of Michigan Consumer Sentiment and Inflation Expectations (07:45 PM NPT).
 
 *🗓️ Next 24h — key events (NPT)*
-🟠 Thu 06:15 PM — USD Unemployment Claims (exp. 200K, prev. 199K)
 🟠 Fri 11:45 AM — GBP Retail Sales m/m (exp. -0.1%, prev. 0.5%)
 🟠 Fri 01:00 PM — EUR French Flash Manufacturing PMI (exp. 50.5, prev. 50.3)
 🟠 Fri 01:00 PM — EUR French Flash Services PMI (exp. 50.7, prev. 51.4)
@@ -44,62 +51,85 @@ VIX: 18.19 +9.05%
 🟠 Fri 01:15 PM — EUR German Flash Services PMI (exp. 52.5, prev. 52.9)
 🟠 Fri 02:15 PM — GBP Flash Manufacturing PMI (exp. 51.8, prev. 52.0)
 🟠 Fri 02:15 PM — GBP Flash Services PMI (exp. 51.8, prev. 51.7)
+🟠 Fri 07:30 PM — USD Flash Manufacturing PMI (exp. 55.4, prev. 57.0)
+🟠 Fri 07:30 PM — USD Flash Services PMI (exp. 57.9, prev. 58.7)
+🟠 Fri 07:45 PM — USD Revised UoM Consumer Sentiment (exp. 46.3, prev. 46.3)
+🟠 Fri 07:45 PM — USD Revised UoM Inflation Expectations (exp. –, prev. 4.7%)
 
 *💱 FX & central banks*
-1. ⭐⭐⭐ The Japanese yen is once again acting as a safe haven as growth concerns replace inflation fears _(investingLive · +1 similar)_
-   📊 JPY ↑ | USD/JPY ↓
-   https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmdJVldybXFWbnFiNGU4YnFia0lPZEVWYS1nR2NNY01YZ25RRWtvaVAyYkJMYmpoM2N3bkw5OUZLNlFVX3BPMmhWRnBXeDFBaWVRaEFlVkdFVHQtSE9hdXZ1SGdGZ1ItUFVMX3lkRVg1eWpWMktudFluQVFBZjNqd3lsZzMySm55U2Z0dzk0aWJna3A1OUJ4MHZFT1hKWFdkWDVTb3hLQjRuazc2RnJNSWhlQ1JDel80VlphQnl5WWZaaFQxMXBycg?oc=5
+1. Japan Inflation Rises Above BOJ Target, Backing Rate Hikes _(Bloomberg.com)_
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFdHdzVxZmc2cnRIRlVtcWNkZ1c5cUlsWFZEQkU3YnA3bVh5b3R6bXRsNzI3bTltUnJyUmdOYUdEekZxT0VkMF9kdGxKUFN5UUdxMU9saG5Kb05pTXo4QnFOU0dmdzlVWEdoaFVSRVI0ZVhCOHplSTN2RXJ3aEsxSjlxdU1jR1F3QURzeE4zNnpGSGFocUVzRkZMbXhBaXdzWHM2LWdrb2owN0xQbkJrZ251YlE?oc=5
 
-2. ⭐⭐⭐ U.S. Treasury yields drop to 1-month lows on safe-haven flows _(investing.com · +1 similar)_
-   📊 USD ↓ | Gold ↑ | JPY ↑
-   https://www.investing.com/news/forex-news/french-yields-breach-5-amid-paris-budget-paralysis-and-nationwide-unrest-4964673
+2. Hana Securities trims LG Innotek target, touts substrate growth despite forex drag - CHOSUNBIZ _(Chosunbiz)_
+   https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTNsQmlfdnJGS1Yya0ZjNURMdlQyay1NQTA4cERaQmFBRTBuRFJ4S0hkblU5ZWszcUNZNmwtVHZGZ0RIR3k5VnJ3OV9zbmFWZ3FhQkplSm9MaGpHbGVRWDBXa3NsVU1BVTB5WjZKYWtoOTlhWmxuS00ydE4wbXYyVtIBlAFBVV95cUxQcEl5NUl6U2ZiSWNYUG5pZm9SaEd5YWhjWmhOempnb2trU0JQMk00QklIYmM0ZUEtRmIzSWpaVEx3V3NlbkppQ0FURjVnX1ozYTdqQ211RGYzcEZQbFg4b2tPLVBjUjRhWDBRRkp3U3FLVURlZ3B0enUwNzF4UXZ5Zl9IeWs5N3J1OGtSUENSMktqNzRk?oc=5
 
-3. ⭐⭐ British Pound: Further rebound potential toward 1.3440 against US Dollar – UOB _(FXStreet)_
-   📊 GBP/USD ↔
-   https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGN6UlJyRzJHLXpsU09RZlNReWRqa3RKR2M5MW1pZDVaT20zT2NRT25IRmZxVWZrSEtHV3hPS3RuckVMVmNBWU04YmctV3lnbzRrd29KUHVzZ05seGZvY21XNTVOWkhQNHh0bHJaVTgtVEpHYXRYbWJRT1VXY3pITldVUWxCcTdsYTBQQkJNY0FfcG1NamkwMDN5WEFUdVlzbHZOc3BiV2Z3OUYybmRqZ0RYU1RsUVlS?oc=5
+3. Japanese Yen Surges Across FX Majors as Risk Aversion Intensifies _(FOREX.com)_
+   https://news.google.com/rss/articles/CBMivgFBVV95cUxOREI2T2RkdExWVHpYY3prTnRtTXI5c09GeW4zQlJwbWhmeWlyYk9yeWlzUW5seE90MmVIbWJlUnc3aXdWcV9hZjQ0al9kQW1DOVo0WFlaRldMWGx3SXhSQWRGTmhjVnNoUG12SzBtS2RqQzBQS2JkZU84TWFVRVoxd2ktWWpXRnJmd2FKQnl3TFBGSURiSG1iRHBnaUF4Ym9oU0dGdy0tY2h5OGplcEtUX1U1N2wtZE1jOWYyTWVn0gG-AUFVX3lxTE5EQjZPZGR0TFZUelhjemtOdG1NcjlzT0Z5bjNCUnBtaGZ5aXJiT3J5aXNRbmx4T3QyZUhtYmVSdzdpd1ZxX2FmNDRqX2RBbUM5WjRYWVpGV0xYbHdJeFJBZEZOaGNWc2hQbXZLMG1LZGpDMFBLYmRlTzhNYVVFWjF3aS1ZaldGcmZ3YUpCeXdMUEZJRGJIbWJEcGdpQXhib2hTR0Z3LS1jaHk4amVwS1RfVTU3bC1kTWM5ZjJNZWc?oc=5
 
-4. ⭐⭐ US Dollar Mixed Early Thursday Ahead of Jobless Claims, Leading Index _(Yahoo Finance)_
-   📊 USD ↔
-   https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnBrenBVU2dEUkxRa1N0ZW5KM1V6MElVX2lqME1jUU1PZWJOUFFWamVZZ1NRNGh0dFhETi1mSEhOX1JwWWVvVl84MnJJeGpTY1J3RV92RDhOOWJORk9XbVR0c1VvNFhSTmF1ZVlLYTNyODR0RkM3aEc2Zll3blBzRkJiQWplWFpDX2daZTVZLVBIVm82ZG9rZmZDR2FlQjYw?oc=5
+4. ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12 _(investingLive)_
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmI3S0JNUTlveEh6ei1vYkpXUkV3dy13V05NR1N6RHhna0JHM19IWHIxdDkxLWZ5WEF4VWh3WDhJR2hpU08zZ0FhbW5pR0ZJUk9XOUxDbzRCdm9raUFMbEQyRWx3UzZDaWhLRzZ2UnZPSzhwX1RLOE5laXhxQWxadUcxX2ZlaEpJcGxuU2R6R2ZvLUN0RlNZWVJjcS1rd3U5dEZ0dFBjWVRwRFVLQ0gzTXB4MWZRbDV2OVp1QQ?oc=5
 
-5. ⭐⭐ Rupee slumps 44 paise to close at 94.82 against U.S. dollar _(The Hindu · +1 similar)_
-   📊 USD/INR ↑
-   https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWY5cmJnQzBYQ01kOVlac01oc3ktSlpYd0xyellnMm5GVDlUMy00eV9oLUtBVFZ3RDU4Vk9TOWh2QWtSZUtqT1B4QkJURE1xRmsxSWxHOWZXLTZoMkJYQWhCeDNzWEZIdnlJWUUtdTFKMlBqU2VXZWJMVWNXcElxcWlMdnlLejJsR1p3RWZqUDY5cVNPLV9EdHpBdHBKX1RZdndVei0tdE5tbXc4VXc0WkJsRzNmZGp2T3RB0gHCAUFVX3lxTE1DcFRPY2gtcFJpemlIS0YzMFFuS1V5b3VxeHMzSzRDbHR5RVRnT2tqYVduNnEtTzBQejVDQ2MwWF9QOTF1ZWxsT2h1ekhMU25rSUp5NXhGLXh5RWtDWjBncTlXT2hZR0NmZlA5eWZRaHdfOHZQUGRDMVBPMldldTByTlpjdXZvZGVvTndXRUoxUjBqRWY0c2dyR3hNWGhvTFJQSjFodXNTaHkxVDlDYVZiXzh1alVHODNlMHNhTExRX0tn?oc=5
+5. Nasdaq, Treasury yields and dollar face a major AI sentiment test _(FOREX.com)_
+   https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0dWTnlZRkZRWHdUZHlTX1RqYTdyQ0Q0N3hpS2FrRGpPSHY1VVZWMVFmYTFmaXcyVGQ2VUQwcmFVcVkxamtTUkh4WEVxcDFhTTlQUll3LUcwdVVSYmVrM1g3eFB3bkkyY284bTFUeVZ4VDRieDN5QWExeS1PR2htcUdGRzMwQ19KTGwxMS1MTngyUUJtZkVIWm1fZGFXNURyeVpYTW5QQnFMamFsSG1zbdIBvAFBVV95cUxNZGY0N0VMTzV6c1gyYWFnc05zdU54QjdabHFYdmRvU2d1ZHdFazhvZEJlS3lmVTUzaG56ZDV6bU5BZXlyQUpxbm54Z1E2cjVnc3JZZVVKb0h6X21HcXBvNFlkQXl5R1JfWjNsVTRPRUstcDg1RWt5OGxBQ0VXMHVQQ256emczTmlxV0FaV2hZb3h2VTNWRXBDTTMtR1dyR3lJOFE4T0tlUWJRWHB6bzItaFhoUXZwNUNkb09XQQ?oc=5
+
+6. [NY Forex] Yen trades in the late 156 range (22nd) _(Moomoo)_
+   https://news.google.com/rss/articles/CBMilAFBVV95cUxQRlZWUTNvdWNfZ2lodENTc1BkVE5rWVQxTTY3VFEtLU1PWGg5X2VueXBqMlZNR0FVX2NFZmFoUGV5THRxNU1iOWdQSi1NZlpCY1JXZjFCZ004b2VFUVViaUlNTUMxUXVKaXhJdkdtRVE0LUR3Zk1DQXNGTzc2bWh4eWxzakFNVUpmVkJzeF9STkFjdG91?oc=5
 
 *🥇 Gold*
-1. ⭐⭐⭐ Gold slides as Middle East tensions fuel oil price jump, inflation fears _(investing.com · +10 similar)_
-   📊 Gold ↓
-   https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496
+1. Gold price slumps 2% as oil spikes to five-month high _(Mining.com.au)_
+   https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmtwdXNQbUU0UmE0Rlo5dUNLMXdWZ29ZSHU4UVotdnpKTE1VTTJ2OWlYSnl3bzE3and2N2pTMjI3dXMweXppSzJPc09ma3BvcWlxX01qZjlPclR4T3Y3R1RkZWNUb3pReUtCTmFSWjBRWDdmMkREV0lFcTJtck01Zg?oc=5
 
-2. ⭐⭐ DAX, Gold Forecast: Two trades to watch _(FOREX.com · +1 similar)_
-   📊 Gold ↔
-   https://news.google.com/rss/articles/CBMipwFBVV95cUxPdEhwSEdLbXN1ek9qdnBCOHQ1ekdDMnRFLWU3a0Y1RzRYV2RoNHYtOHB3Z1BFb0JUdGEzT3dDUm1CZUJSbHJlMklXdXlXUEtrNWhBRzlic0RMU2dqQk1mTUp1Ulcza00yNHp2YVVmUEtWR2szbkJPRmdMSWd3Rm80MEhlNHNfLTBlaDh5Rjhnd2k1WkFFWFZUWWpWMFRCa1RpdzFZUVFOY9IBpwFBVV95cUxPdEhwSEdLbXN1ek9qdnBCOHQ1ekdDMnRFLWU3a0Y1RzRYV2RoNHYtOHB3Z1BFb0JUdGEzT3dDUm1CZUJSbHJlMklXdXlXUEtrNWhBRzlic0RMU2dqQk1mTUp1Ulcza00yNHp2YVVmUEtWR2szbkJPRmdMSWd3Rm80MEhlNHNfLTBlaDh5Rjhnd2k1WkFFWFZUWWpWMFRCa1RpdzFZUVFOYw?oc=5
+2. Gold price update morning of October 23rd: Gold falls deeply, major banks forecast optimistic _(Laodong.vn · +2 similar)_
+   https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVlJcm5MeUx2T2RIUnhMS3JPMlRhYURjTHB3NTJURkJnU2RLX0lpc2pOQ3hjUGphR1dpZHZsTlc0RmQxYllHWTZXR2tGMnBmRUxmYnZaZlNUTUFJc2VySmUxT082bjZSalBnU2dDQlgwcnYxcElvOFJIeFZsSUpCanl2YkNOV2x6UTVyRFRZZ3RpQTk5QkZsNW8yN1NmXzI0d0pUNUdFZE9fd0tyT1BPRTBNalNNcTAyQkZOaE42aw?oc=5
 
-3. ⭐⭐ Gold Price Forecast: Inflation, Treasury Yields and the Dollar _(Equiti Global)_
-   📊 Gold ↔
-   https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWw1QzRpbHV0VmxQdXNBODMwNTZrTndEN3cyZE1sR3FHNHFETzh3TzkxOVJfUTNQVGtaV3l0aVQxd2ZacUhCSGhZV01sR3FTTkNqN1pqRkVwYktxR3FBYTI3Rl9lY1dQNTZDb3h6NmlUU1lrelpwa2ZMajl1MXhQUzNMVWhSenhTVXRKVUY4anROS2QzVWx0ZjBJclVsOGZN?oc=5
-
-4. ⭐⭐ Silver breaks below $56.13 in bear flag: Live levels _(investing.com · +1 similar)_
-   📊 Silver ↔
-   https://www.investing.com/news/commodities-news/silver-tests-bear-flag-at-5860-resistance-live-levels-93CH-4956490
-
-5. ⭐⭐ Gold Price Short-term Outlook: XAU/USD Holds Critical Support as Breakout Nears _(StoneX)_
-   📊 Gold ↔
+3. Gold Price Short-term Outlook: XAU/USD Holds Critical Support as Breakout Nears _(StoneX)_
    https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXVHTFJfVEpSaGhVMFAtakNvaGxDVWNJUWx3enlfOE9hZ283MmMzWWJld3hVc01HWlozSWZEcjl6WUNHa20tOG1XdmZvbzB1eGNrckhCTUR2S3hOSUNRSk0zcE01RXA3U2RpZlZvM18yZVlUN3hidmd2bGhUay1faDJPaE51TUxldFRVanFsZFNoWWVieS1HYVUwSDZwYTcwQ3RQaVpVR1F4OWRKazdDX2pYOXlmZFptZUltUzAyaXJSelNN?oc=5
 
-*🛢️ Oil & energy*
-1. ⭐⭐ Morning Bid: Rattled by oil, tech and France _(investing.com)_
-   📊 EUR ↓ | Oil ↑
-   https://www.investing.com/news/commodities-news/morning-bid-rattled-by-oil-tech-and-france-4965376
+4. Why gold still holds its place in a changing investment world _(Stuff)_
+   https://news.google.com/rss/articles/CBMinAFBVV95cUxNUE9uMkwxZ01RbUZDb0FZaWptZU5xZkR5UEZjRUVMWHFRdkNYa0JHcDNfUzhfNFg2STFFaFU0eTV5OXlBRk9Ba0FvN21PZFFvZXdsQW1FV1dqTEltdUhTU0RKdDdUTjlnME9qbzVDTjBxRXVtZmdqRFN3NE1NUzEydUF3cEpoZDBvYldhbU5UNk1nWkMyM2tXSmZCSXA?oc=5
 
-2. ⭐⭐ Forecast update for Brent -22-10-2026 _(Economies.com · +1 similar)_
-   📊 Oil ↔
-   https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVVJWjM5Wm9fTjlqeWhuVVVjWWZOeHJ5OWdpd2wxYzNWQW42cHJtNjRNMXFsUzRJeDJoYnVwZUN0aHhycUw5ZWYzaWFSa2FmdjFrVVM3aUkwZlZMVktTOTVUMng0V2VfVm1nWVppcVdIOWNkMUpIMEpWT1ByT2hxOXJmSmhVaVRpeTFlUmFUaGhIbVdkenhEMnpuM25nSVRFOGZv?oc=5
+5. Spot gold hits three-month low amid risk-off moves, climb in oil prices _(investing.com)_
+   https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496
+
+6. What Is lifting AngloGold Ashanti (NYSE:AU) As Bullion Marks New Highs? _(Kalkine Media)_
+   https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ05KaTRUX0VpZ2x2RVhQQXA4ZVlYVV9DNlJjMEI4X2x3cHlURDEwemduVVpKRG1tNHJrVEFHbjAySmlpbFhFbUJxYWVyc1c1X014dTdJTERFQjJvRWZyeEc4XzJqNlhuWnNSeG5EQWFiNmI3N0VXaDJ5TldMZm9jWVJBQUtnVHVRQkd2OUg1RWtQRnlNYTVydUtOclg1MmRaNy1VM3NObDFnT3M?oc=5
+
+*🛢️ Oil & energy*
+1. Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Rallies As U.S. Evacuates Diplomats From Saudi Arabia _(FXEmpire)_
+   https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM3JibVRiXzdQMFg0bFQ3MlZSVjByUFJFa3FNSWFrdjVQWGhXNENpMy1NSUlEOEctR3lhWWZmM29VN1phVVMwdFl6a2U2LVpxd3B5b0FRNFNocXJXV21hQzgwbnMyaGZQVzQzamdocG45OE5VZHVWN2E0RmZMMmpRUjlySVNLbURDT2F3NDVTak1LUHpuRnNsRG9rRGk4d2YyVHhxRFpPRXoxb3BuQzdBSm8wb0NNT3hXZ0s0Zm9xV2EyVHM0a0RQLWJLc04xUE4xQ3luM3BVLUJMXzJjRUtMMA?oc=5
+
+2. Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia _(Reuters)_
+   https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5
+
+3. WTI trades near $99.00, five-week highs amid escalating Middle East supply risks _(FXStreet)_
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkk2MjB6TE1aRDYxOURrYThUc21aVWptSnZTZjBvdHpzTklSSEY4UmVRYkdPNlJvR2lmcXNKbTROVXVwWTNFek5aOGh1cksyR2tYUmRsbEZ6bUdqam1LdjJrdXRPUXd0dnBNUDFmMFVULVJuMnhKVVdzemI2WWZBMWhQbHVVZlVFOU1oMFlZRVlUVURKWHg2QnZ2RWFDbmZPLXlzb3V6MktpMl8yd19Za0thZHI4QUQyNGc3QQ?oc=5
+
+4. Oil prices cool from 5-month highs as Trump invokes defense production act _(investing.com · +1 similar)_
+   https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880
+
+5. The Breakdown: Brent Swadley receives sentencing _(KFOR · +1 similar)_
+   https://news.google.com/rss/articles/CBMiekFVX3lxTFBXRG50Z0RvVFY1Sk1KeDN3UmVHa1Q4TW1HUFg5ZDEwMXJ4VTBiaFZuOUJYQzZmaGVXRTZsNlJVS0lYazJQcVhNSWNxeTUtZHJVZlhwN0wxbmJEZmNtRm5yTDBJUXFsSDRqSVd1XzBzR2swX3FGdTBQYUR3?oc=5
+
+6. Scientists Turn Major Crude Oil Problem Into an Unexpected Energy Breakthrough _(SciTechDaily)_
+   https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2QxWGtHU3hxdGxyWTMzTGVONGVGOG9RYTNsaTRpaHQwR0luNGt0WU1FbURLckpCUllwMTZGV1JIYWZYb0g2c1JaZEJqYlJZTUNiM1NwLXhCQWwzZUVPWlNMb2pxSkRvS1FwcFo3THIyYW44bzZOQWN4WU8wRDVvOEVXVXQ5VjdJYmNHY1BVbTdPUmx2Z2UzanJaaXVmanlldjFvTlBRTQ?oc=5
 
 *🏛️ Politics & geopolitics*
-1. ⭐⭐⭐ Iran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens _(oilprice.com · +2 similar)_
-   📊 Oil ↑
-   Iranian oil in floating storage has been drained amid the U.S. Navy blockade, the Wall Street Journal has reported, citing Kpler data that suggests further tightening in global oil supply. “There’s no more oil to…
-   https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Reserves-Run-Dry-as-US-Naval-Blockade-Tightens.html
+1. Donald Trump claims Iran faked Strait of Hormuz attacks to influence midterm elections _(The Jerusalem Post)_
+   https://news.google.com/rss/articles/CBMiakFVX3lxTFBia0ozM0gzY0dieWFvMFYySGhwRm1hdlZFVDJ2QWFqSFhraEdTRTl1d2IxRkJ6RldfSndQeGx2Ukg2bFQ0NERTTGRfNXNSUVdoTUNldTRaVFRWZ0YtVXFxYzJBVEdObFNsNGc?oc=5
+
+2. Should investors worry about Indonesia’s possible downgrade by MSCI? _(Metrobank Wealth Insights)_
+   https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkF6QjZWNXJWcFhMZTBIR2dRVDVqcVVWdXFrUlJsb3JuZ0pJSmpPdmlZWjZINWxtY2pwREhqV29Dc1pkUkk2S014bVJyTzVtdl90N3JSa0s0Z3ZickZSZG1RSzRydXZLRFhoU28tNlVwSGRqRmUxQVNkTXlLamRnbWFraGtGLTFTY1poRWkxeVk?oc=5
+
+3. Iran is running out of economic escape routes _(Iran International)_
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wRE1FblQ0bGZGV2lBZlFka1hqWEpMYV85MEFzek94bWNBR1haYXhpU1hZc2F3ZE5kTlRYQXlRbUwtbUl4YlZIa2tWWUd6NHpUamc?oc=5
+
+4. Kiwi Property confirms Green Bond offer interest rate _(BusinessDesk)_
+   https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3VJU1o5ZlRBeFZxbUJtOVJ2MERoNVV5bjFVVldpV28tMzh4N0ZoOFVodTRpWlBqb0x0UkY3UFdQc19QYkdubjUyaUY4eFhPaTVYbTN5SW1kOWNibUFSU2dsRTRxZnBMRFE0RktQZHNLMEtHb0R1SHFCTkRzUUI3NXNB?oc=5
+
+5. More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War _(WSJ · +1 similar)_
+   https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5
+
+6. CME : Crude oil rises on Middle East tensions. _(www.marketscreener.com · +3 similar)_
+   https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEVsaVdEVUI4RkZnOGlZWWtrc20xSHY2NGgzOUpmX2ZGUHZ3N2VRZWdmWmE3UERLWENZYzcxdTEycUZoeWk0RTZTdE8wNU44RDYyRVE2YkUzdnpTWWc2U1ZmckRibVpra1BBUlFRMnctYXlLbXNqWlRROExEa2RYZXVrMkhnaW5LVFJWRUg4eEdxRHREVFl4SXFGeVo?oc=5
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
