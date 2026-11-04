@@ -1,111 +1,107 @@
 *FX • Gold • Oil Brief* | Daily
-Tuesday, 03 November 2026 • 06:15 PM NPT
+Wednesday, 04 November 2026 • 07:28 AM NPT
 
 *📊 Price snapshot* (vs prev. close)
-DXY: 101.86 +0.10%
-EUR/USD: 1.1183 +0.23%
-GBP/USD: 1.3408 +0.17%
-USD/JPY: 158.23 +0.35%
-AUD/USD: 0.6981 -0.68%
-NZD/USD: 0.5624 -0.02%
-USD/CAD: 1.3978 +0.06%
-USD/CHF: 0.8199 -0.59%
-EUR/JPY: 176.88 +0.55%
-GBP/JPY: 212.13 +0.51%
-AUD/JPY: 110.41 -0.37%
-NZD/JPY: 88.94 +0.31%
-Gold: 3,920.0 -1.25%
-Silver: 49.06 -3.26%
-WTI: 98.00 +1.60%
-Brent: 105.84 +1.02%
-US 10Y %: 4.894 -0.71%
-S&P 500: 7,541 -0.51%
-VIX: 21.65 +2.36%
+DXY: 101.37 -0.37%
+EUR/USD: 1.1260 +0.61%
+GBP/USD: 1.3471 +0.46%
+USD/JPY: 157.82 -0.06%
+AUD/USD: 0.6980 -0.28%
+NZD/USD: 0.5611 -0.14%
+USD/CAD: 1.3959 -0.17%
+USD/CHF: 0.8138 -0.56%
+EUR/JPY: 177.69 +0.56%
+GBP/JPY: 212.62 +0.41%
+AUD/JPY: 110.14 -0.36%
+NZD/JPY: 88.54 -0.20%
+Gold: 3,963.3 -0.16%
+Silver: 49.98 -1.45%
+WTI: 95.96 -0.52%
+Brent: 103.77 -0.95%
+US 10Y %: 4.952 +1.19%
+S&P 500: 7,569 +0.36%
+VIX: 20.83 -1.51%
 
 *🗓️ Next 24h — key events (NPT)*
-🟠 Tue 08:45 PM — USD JOLTS Job Openings (exp. 7.15M, prev. 7.08M)
-🔴 Tue 09:01 PM — USD Congressional Elections
-🟠 Tue 09:45 PM — CAD BOC Gov Macklem Speaks
-🔴 Wed 03:30 AM — NZD Unemployment Rate (exp. 5.5%, prev. 5.6%)
-🔴⚡ Wed 03:30 AM — NZD Employment Change q/q (exp. 0.4%, prev. 0.5%)
 🟠 Wed 03:45 PM — EUR CPI Flash Estimate y/y (exp. 4.0%, prev. 3.8%)
 🟠 Wed 03:45 PM — EUR Core CPI Flash Estimate y/y (exp. 2.5%, prev. 2.5%)
+🟠 Wed 08:45 PM — USD ISM Services PMI (exp. 54.8, prev. 54.9)
 
 *💱 FX & central banks*
-1. Major central banks signal December tightening amid persistent inflation _(Anadolu Ajansı)_
-   https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXAxMlJlbm8wbkhvWnY4el9qa2lWQmJCVkhST0VQVWI2TXlmelJ0RDlXYkZRcUZPQlVPM3pKc0NzZm85eVlNcVRkZ2RaVm95c05nTEQ5SnNQbTdncENzZl85R1FsUjY4dV9IUUhFRllhU3NPbWFZYnU1Rm1ZbFFTUVBqLUZuZy0zcWxXR1UxT05zNE1lQUkzZWt4WkNwWnBMYkQ5Um5YWVBubVhEenc?oc=5
+1. BOE Expected to Join Peers in Raising Key Rate _(WSJ)_
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUhEZEpVdlkxUG5nVXB4SGZYRlFWMV9SZkVUNFdzM25uRk43UUY5NEVLWlJyUlZKOVdHYmNIVk5zcmZHY2tYNDJtaGtUREFSeEVxRmxoTDdhMVlDOGh0eGtiekpLY1phLWl3M0JRZHFYbGpNRFR1R2hMYnk2bEF4bHJsY1lVMlYxNFV5ZnNDSG1hUm43cU5xZzBoT0lia0o4?oc=5
 
-2. City officials get heads-up on coming anti-DEI law _(ECB Publishing, Inc.)_
-   https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3k0QUp0QUMycC1UWUNfbkdEMkxMMTRjeVVIM1BFbDFwaUM2dkJXSHhreExkeUlDSjFLVUpTQU8zQjZ3TGtFWkd4WDVGT2FIa0dWVV8wSUFDaDYzM3JWLWVOcE0wbVUyVnZ3YXdHejBWVDZDak52Zk42TG8wY1JTVF95QQ?oc=5
+2. Markets Aim for Another Historic Win on Bank of England Rate Bets _(Bloomberg.com)_
+   https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHg3a2E3OUQ5MzRLaEdTUXlhV29Xb0NwS0RTQXlfeXZUbXpySUdnQVpwZGJKMjF3TzAyeWJwRnd6Znl1YS1mdW1MRmxkZVVwbktlTHFFZ1NIVlp5emRrSnZnakprMlEteHIxLXkyZDNqQVdURERDMG8tMnFoTW9tRVVuUGhkUm9UcFlvQWx0eXlkYkllYVZrQlp0bkxaWUlCdHp3MWdOYXJsQXdGN3U5eXVWUkZhWGVKWGJj?oc=5
 
-3. Race to replace Christine Lagarde as ECB president begins _(The Brussels Times)_
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxObzJHTDkwRjFyZENndjZuRVdUeklIcDJNQzhqYzduZGJ3QXVhUjlMOGtPTjQ5alB1bl9zTlZYM0lXcVVwU2V3a2FxSTd1QmdQckJwT2JtX1VveWhGcnUxTUtMT3NGWjEwNi1URlUweHV1Rkg2anFaS3ZFME9Yb3BBRV8yMURvRGR2VDBrQjdqMnlVcXBoVWp3QXZRNTVQMDdfR1RSLS1B?oc=5
+3. Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules _(Cryptonews.net)_
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQamNHVkpQakE5REhIMU1hcnYyOUs1aHpJVXNwTTNKd0VOUXRSNzhGckUwRFZrYklzc3duOWZwdW5odi1GNVlWXzBqazNrZ1JmQVliVTBSRHo?oc=5
 
-4. US Dollar Index edges up within range with midterm elections front and centre _(FXStreet · +1 similar)_
-   https://news.google.com/rss/articles/CBMivAFBVV95cUxPblY1ckJLRWhmbEtKNkdubThQQ1VIbGxuQWZtT3g3Mlp0eGtkanNtN1BXMlBwVFAwS3hNRFlvMm9HOEprYmlSSzNudGVkMXVETjN2cGRTNUxnTDhaRUNXQXBENEZCMG90dVBleExKMWc1ZHlabGx3QTdwaF9ySW9POU0zRS1ndS1ncmdETFdBOHMyQkp5LUNCaW1OMmc2aDJVWl81YUo4aTFqbml6Q3JnVnNxS0F4TjBiRHFHQQ?oc=5
+4. Nasdaq 100 forecast: Stocks rebound but AI concerns linger _(FOREX.com)_
+   https://news.google.com/rss/articles/CBMipwFBVV95cUxOZkExUlFkaURXaHJQSnJmOHVpel8yUFJBSVYwMU1MMlZjWUFqcEVTNTNpZ3hFdE1nU3RWcGgyM3FmU2o1MGhLNWJQSGsxYnU4NzFmU0hwRTRiamNYMGNMN05kVC1KZjdNRzZzSW9aX1F2Q0hncHc5ODd0Y1N5dTRudjExc2RHWUJ3SmxhUG1aTVhTaGM5RDBfdkoxZUhBUllZM0hndHY0MA?oc=5
 
-5. Euro countries to nominate candidates for ECB presidency by Friday _(Reuters · +1 similar)_
-   https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEkyV004dWJiVVdVZEcyLU9zd3hyVkEtbHJYNkpKdlN0YmhxRTFDQVZndWk0UTNNS05FX1NLN0dOOU5yaVV1T2oyYThjRVI5dnIyb3Bmcl9lMXBLVEpVT1Vvd0NtOTZPRGNIWVVmR3p1V1JpRG5RV3lUNklGcnRPeW11LW9pNkV0QTN1dUVoanVxdVBTWVpjSHFyTWtLcGl1RXRLc1RPdw?oc=5
+5. Yen Weakness Fuels USD/JPY and EUR/JPY Breakouts Ahead of Midterms _(FOREX.com)_
+   https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2RaTmZ3bUhCMXFGeGRwVGJsQTQtbndvMmM5c2ZDWnNFWm9Sb1JSbXU2WkFLbjdBUDVGOEJUT1pWRFFZMXpvbU1KOXN6cDhVcGNEUUdFQlV1alZMVjBCOGFpdGZWQVNDLURiWGtQeWdrQnd6ZWZPWnVId1BzUXZicTU1Q25NUXpQQmdZVURDcGhwS1BZSlRORHQ1X3V6RkxSX1Z0OXZ0MmVkVGhhTm1fNUs3RdIBvwFBVV95cUxONkhSQzd2TkZxSGVVTXJ4UXk1WjVwZVNYYUtxSTdIVlBIdDhKaWFiM0hRY19meHdxZGtoeENVYzhYcms4QXh4eFRsMFNKbjVXSWRoWkxEYk5PWGJZUFVaUjE5SC01WUtJeVVOUGk5STdsYjVnRUUwb3kyazg4NXNMR3V5MzB0bXp3R1hlZVhMWHIwWnR4OXlLYnZlUWstc2h4aldkYXltM2IyMmw3U1VtVEhGeHgtdXlKcjQ4cEl2Yw?oc=5
 
-6. Weaker dollar views stick running into US midterms, but strategists brace for resilience: Reuters poll _(Reuters)_
-   https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTBpTVB0clpHYmlFakphMlpEQVN4QVl1ZjlTODdpc0UzYWt6dW9EZmxCbG9VMkVmTlpJanBubE9MaDMwNVZKX3Y0RUxhejVaSi1SQy1faEdFby0wc3JOR192MkQ5LXNRbkxhNDRqcnptSVRZTTRwVTVnbjVCRkg0c3ZKTkY0NlNiUU1Hbno0Q2ZxMDBJU2wxSjRqQnhUTm15NkZJbU14NjU0WWljeVdLOEUtS2VFMm8wYXlwSmtKZEJEUQ?oc=5
+6. The British Pound heads into a Bank of England hike priced well beyond this one _(FXStreet)_
+   https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ09DU0FUMG5OUUdmX3VGUmFlcHprc25WaEYwY0FCSFZ6cm5qUTJHdnhTNDhBVzRxQmV3aHNDUmx6Qjd3ZlFXbzJRb0h0S0xQc1Z3VjJ6QU5teno4LW55cVNTYVpldE9PaUllaVZFV0ZJS1FXQ0FqZWtzYnpRTkloeVpMemZkQUV5RWJRN0N4VHlVTDBjOE9YNjVVODIwckdITEk1S0J6NGpFdnktVWlOc2daRVVldUxudnJRWU5fTQ?oc=5
 
 *🥇 Gold*
-1. Evening Roundup : Daily Evening Report on Bullion, Base Metals and Energy Commodities - Geojit Investments Ltd _(Investment Guru India)_
-   https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNkdsUGpsa21vd0hCczZUX0FWdUhKLXF1M280amlHUHY4UkRfWHpZQVlFQ2tuVnh2dlVMZU5wc1plb2pwUmhXMmgyYUp5dTFlWlZwYXlVSmFxS0owOHBvbGlpTTREbVRWYUoxbkEtQllMbFZLY2xqQlFXNEdLc09rTXpUY0lTeVh0bXJMVkRGMFNTRXNOMmFaWXRsMjFwR2JzbEtaOUREQko1bFRuUnR6SVZJR2pGSWNzbE1EaHRSa0dQUzVZSFBHSkFTaGVsTDdESG9OalBRakZaV00wMHN3ajJTdTI1bEZlbGtUaQ?oc=5
+1. Is Digital Gold Set to Reshape How Australians Access Bullion? _(Kalkine)_
+   https://news.google.com/rss/articles/CBMinAFBVV95cUxQWlh5d3MtSDJENG9YbEY0UTVPa3lNNDZOdF9sVGxZODdydmFtYVJXSHdaMVNSRThBZHFzSFhnMDdyd1JrcnZ6eGltalJuOHl2UG9NWktGWjRZNi1yQzExNjlGMnZtZWhjSEFacERnc04walY4TnpXekhNNG91dUlVcGFfOElTUzhZZlkxWE81WnlmMFFtNGNHRXM3SEI?oc=5
 
-2. Gold price in Pakistan remain unchanged _(Investify · +4 similar)_
-   https://news.google.com/rss/articles/CBMiigFBVV95cUxNdDN6cVFTUzloNWlHRmpCWDV1V3AyNW9Xazg5eVBPU1RFYXdmQUo3dFMxYm1TX242YWkxaF9CaTNoN19Oa1BiUEFFMkdGVnlIVkwwODBvanhremJrMjBZUW9ySWhBN1liU19LOElIaDdUMkxRWVZpSUt3UFNEUEJFYlJRdlRlT1haTnc?oc=5
+2. Gold holds near $3,930 as Iran talks, U.S. midterms shape outlook _(investing.com)_
+   https://www.investing.com/news/commodities-news/gold-holds-near-3930-as-iran-talks-us-midterms-shape-outlook-4997059
 
-3. Gold drops as oil prices climb, U.S. midterms loom large _(investing.com)_
-   https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318
+3. Gold declines as traders weigh US-Iran diplomacy prospects _(The Business Times)_
+   https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDE5bnp6Yk5sbUhBOXJFMWs2bElHUXQ4WUV6cmRpeXk0dWlWNUl3QmVoeXJRckdvV2R0T2dUVlgyTE9SYjUwT1YxNDJZZlc4YzMyUHVsd18xZFZ1R3ZiOVhMVlV6R3M1TkhqMjZxZWZ0UVhSUlpTZnlJMlZBay03cjQ4SFRJSnFyVWFNUkVfUHI1d0lHUjRLM3JqR0dMbGR6YmNrcUhKejllSXV4dWVqN25BVFVDYTJhWXhBakhMb2trWlk?oc=5
 
-4. Gold demand falls as investors weigh uncertain price outlook _(Mining.com.au)_
-   https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3BFYXk3U2ticXByVGhBdUQ4WmRkYlNfWGJUQmpHSE1heVlVT3lyTlZkbXRTUVFvRHgxdVg0SmJUeTdBcUNDNmJzQlVZVGUxN00xYmtuNjZzOVJnSmQxeW9ielJxLV9nbVZlUVpxRklRUzVuR0NkMWhENkdvZ0FJWXd1aTBtWTNJOWpn?oc=5
+4. Gold Steadies as Traders Track Iran Talk Prospects, US Midterms _(Bloomberg.com)_
+   https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVB3Y2J3bG9Ed1BDRjVvY1dIZUFhd0JzRWJ6VTRtRWdLNm13R294UVNEejBhTVVuNkdvWXNQRzZzYTV5ZV9nRWwydHRjQ3BfaTJkMFFVSGNmcTNlQVlfNUtld2xjaDVHNHpKQkdXS19jQnZ0ZzNWTUxuejUzemVBOHNGOGktaExwaExwaXJ6bGd4eUZUWkw0a29OWkZMc1E1QVFVWFJVR1NaU1dLaC1NeUZsYw?oc=5
 
-5. Syrian gold prices fall as global bullion loses 1% _(سانا)_
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpMTV6X2dCcDE4aWJsM2stWDVoc3FpMG0wLVgyU0tZQzBVS3Y5ajZBaV9mVXcyLWJxSGlncnFIQkZubXB0X0FfLW9IS3k?oc=5
+5. Gold Analysis: Resilient U.S. Labor Market Continues to Pressure XAU/USD _(FOREX.com)_
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1gyNzVRZHd4VEtoQU9LRUtXeTdTSjBtX1VCRm5DQXN3VllDU3FEY1IyaEJGVEdtMXFOQ1I1bndYV3g5UXRKVFB6NllpdHo0NHJwdGlTajExMG1VUTcyUHlqZ1VLdVdfdURha0hrU1hmSTdUbnBNRDQ4WGhBeU96OGNwUlpjaml3bFRCVE1mOGxOQU9Jb1M1cmtlTDhOVXRsQjRRTC0tOEJKVmp4X0hjQ3dfbkQ?oc=5
 
-6. Gold price faces major paradox, market shows noteworthy signs _(Laodong.vn)_
-   https://news.google.com/rss/articles/CBMivwFBVV95cUxNVE9YdkVIQ2RSdl9zamRkek14MmZobkt6SUNncHh5cGFVMkkxSE9IOWp1U29ZZS0wdmtNUm1LZ3ZfNzY5M1E3SEp3eHpCMWVYSDVEQk1YNVRMQWJwY3FlUUZYUUo4c3Q4MUcxbjJiMjJod3p0al9zR1VoWno4V3dVRk9hZlRJQ0tDS2RiTUlHalVmbmN6b0NWeFVXWGp2T1BMUlJ1SWs4U01SWmtpQ2pYUHB5ZFFqSHNMNm9wd3hoYw?oc=5
+6. Gold fällt unter 3.950 $ wegen stärkerem US-Dollar, US-Zwischenwahlen im Fokus _(TradingView)_
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE9KejBMVjlLNVFrckJhdkw0Z1hTTUFteUo2bVIwODVIVDl4eERtNmNXQVFWdnFremp0ZXZ6ZDVrUDgwWnA4bTB4blNyRmJsbGVVYjg3V0lVSFZGUVpzb0czVGRhamtIcWJFUmc?oc=5
 
 *🛢️ Oil & energy*
-1. ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal _(oilprice.com)_
-   ADNOC Gas will supply up to 1.6 million tons of LNG to TotalEnergies over the next five years under an agreement announced on Tuesday by the gas unit of Abu Dhabi’s state energy firm and the French supermajor. The first…
-   https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-to-Supply-LNG-to-TotalEnergies-Under-Five-Year-Deal.html
+1. Oil Prices Swing as Uncertainty Swirls Over US-Iran Peace Talks _(Bloomberg.com · +11 similar)_
+   https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFZWUTlkVU5VNU9qWWNlcUExXzljcjQtMExWNFk0ODFRelc3c04taGpBWVNLaXNOYWVETS15WEFYYnRjd3l2ZUZMSUFsS1ZPTjRmM1VYUGZ6cDZFVkswWEltbGZMbmVzR25xSllpSHpvaVdGY2JQdUFDUnBnT05TbVdLQzJwWllRcGhuRnZLdUMwU0l5aWkzdlVrbmk?oc=5
 
-2. Current price of oil as of Nov. 3, 2026 _(Fortune)_
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KbEJ2X1pJTHNxWHJwOFFURW5FNUtubUpydG54dDh5R3RXNTNzSG1QTVNHUUNJSTFRa0JGSVdPVXQxWmhoZ0IycjhMbG1XWWx0eE1zTk9ySG1WRG9lTndpaGFR?oc=5
+2. Oil Edges Higher as Progress on US-Iran Talks Remains Mixed _(Bloomberg.com · +2 similar)_
+   https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkxYWk1sNWdqUWJOTEVFTWlXMHhEUFRnUlFLS0ZjRkhwN0paZVV5dkZ3ck1Kd21pNTFoRjVyUk56c3lKc05ncnluQndSZDlrR2VFckY0dmlWNmhpSmZNNk91US1mdGF6U1RoemRybWpVZ1VwNno1cjA5R0JDRFdpTDBrdTRsWWkzdnBPZUQ2SThudl9yWWtUN3lCMHE?oc=5
 
-3. Crude oil tumbles aren't helping diesel _(Axios)_
-   https://news.google.com/rss/articles/CBMicEFVX3lxTE5LOEU0RE1VVURSZUpaNC1XdnhWTWRPTkhpQlJpanVqaWZwYkNIS012QTRPcFNaUzR3aG9RNW9yMkQtY1JvQUFXVXV4UjNUdVhzSUk2ejlueEpyZXRNamR1M3RaMGFabFE4Rkg2c3JPQk0?oc=5
+3. Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold _(oilprice.com)_
+   The U.S. Army wants first dibs on American-produced heavy rare earths, and REalloys (NASDAQ: ALOY) has just signed a landmark nonbinding term sheet that could put it at the top of the military's supply chain list. And…
+   https://oilprice.com/Energy/Energy-General/Pentagon-Eyes-Unprecedented-75-Year-Deal-to-End-Chinas-Rare-Earth-Stranglehold.html
 
-4. Despite Staff Shakeup, Brent Venables Thinks Oklahoma Has 'Meaningful' Football Ahead _(Sports Illustrated)_
-   https://news.google.com/rss/articles/CBMiywFBVV95cUxNTXNxeFktZlhEMm5FbTkzVUUwcklQRF9pLXY3dnotd0kyOGhUc1JWNW1pdDQtQlZOaFJock10Mk1EaFdTSXdVRE1YbThTWVcwZGV1N2FGUE5yQkdVdURseWFQNEk5bi1ueTZ5SDlpRFhsYURUNW5iajdxTDFDMkZ0MzhMNGJhYXVCeXV1MEMtRVBfWlBzZFMxVmhNT3JXWGFLT1RkQmFITjVYRWhrRk9reFQ0dF91YmNNT0pIVXh2X3ZXNV94dUhpRzdOOA?oc=5
+4. Brent oil may retest support at $101.13 _(TradingView)_
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxOREJzbnNheVBLMlRxQ1FkREJDZDN2Wmhubkk0ZHhidF9FZjhoUm1hRUtYQWZOckdMRHlNdkJ4R0lrbTB6d3o2RTF4VjI0X2Vydlg1eXhURlAtQzJHNm9DQjRHamdjTTJFX1Fadl82b29NUFk1T1lWSndnNjU4TDhiRnBnNE1uRHpDNjRWcHRzeThuV3NacHNpdERESDF6REp3RnF1YkdXQjlOZGM2?oc=5
 
-5. Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns _(WSJ · +12 similar)_
-   https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn?oc=5
+5. Debbie Wasserman Schultz defeats Republican Brent Andersen in Florida’s 20th Congressional District _(Florida’s Voice)_
+   https://news.google.com/rss/articles/CBMiwAFBVV95cUxOejEzVV9YYjFCYzc1TEJNellpZC1LajB2dWtDenY2RVE5anU0akNGU0daX1hrdm1Cak5LOXZwQ0FJY1YxNWNiVGE1MHlDOUpvTDVpMlFJZlI1LWZXMmV5Z0dpYi04V0FkWGE1YkhPUnk3QU0wWFI4THpNTkYtWk0wak5BRnVYQi1Mc21pbWwweEVURTlxdFB5RVB4SG5SQlUtdmJtbDNQY1M5cEg1N25FTEg0WWI0YkcycGJwZnVNWkk?oc=5
 
-6. OU football coach Brent Venables has to get next OC hire right _(The Oklahoman)_
-   https://news.google.com/rss/articles/CBMihAJBVV95cUxPZ0hYcW8ybXVKX1JNOXNTMkRXRzVHbldUbUYyT2Y1RFN1aTF0YjZPQWdnY2taNHhBVFBUSmt0V2Zvb1d6TDhndXplbUIyclg0WFAwRzQ3OTUwTUJTZnE4Y0dzbnpJQVN0M21ueFpCQy1zdUZjMGxRTUFuZ294SXVaakRuaFRZM21qLVFsU29SUTRtLXJOcjdNMEdFQnVTci1hTTc0SEFxbVJXT1A1cHJxUTNYOThvTHAwdFNILVNBRmNNVEZOWE1oSWNncy1WRVB0X2x1eHFhelJ6ZGZxNDFkdS1FbnZ5QWttdFBtRkpKQU1Lb2xkV21iWTluTXVLbW9vWGo3cQ?oc=5
+6. Oil Futures Retreat as Middle East Diplomatic Efforts Pick Up _(WSJ · +1 similar)_
+   https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjlyLUlUSFNXVDh4dnFiV1VHd0FpdnpPbFhtN2VaSThJeW9RY0FpZFFWUXBGMFhiRHUzQVQtWFM1NHprQXlfeXFQb28xNmZhb0VVb3M2bGRTbGd2NFpKVlJDWk5fRjJGLVJsLWt5WlpmR3JpSUsxdGtOOF9WRkdEcjVYT1MxMUZVYjJEUnVNTURMTEFtLTRuQzgyQ1NVZGtPYkFPVDk1cDRHVzllaHJFWWYtWW12V3drSkxV?oc=5
 
 *🏛️ Politics & geopolitics*
-1. Live updates: North Texas voters consider hundreds of contests on Election Day _(NBC 5 Dallas-Fort Worth)_
-   https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSndIVnF2Mnp4VFdhWm0tX3dGT3BFLUNzVEFNenU3VUk0UUQ0Tm5QM0Zvak5PODFKdnFUTmE0enFIM0h1WmVKZVVCblpnbVZla1czNmFjcHRoRHhyMXlVLU5kcjBhcmxXTDFQZTVySVRnQ3NWNTdBR3lNa2xwNVRidXNqQ1NTU2pXTnZ2VU1tR0hjc1NFbWhDNEZhT0ZraVR6S2ZMRFJJVlDSAbABQVVfeXFMTVFPdUxCTkZFOUQxSWlzcVlDRVZ2cXFqWU01YzNIN2xkNmRjT2x2cXh1N3RNcFdwaXNXbk5JMWtucWZJQUFyemp0Z3RBcm1rSkI5Qy1vUWwxazlzMS1NejdpY0w0ZUQ4ZnNrd2JocjV4NkJzZU5aY095Q2llUUl1XzFhbzJxUkxzdzlMbjl0OEVpQm05eTZQU0xnWHNWSUV0TjVpeVFISFBWN0pqQU5tcmw?oc=5
+1. District 214's $295M School Bond Referendum: Election Results _(Patch)_
+   https://news.google.com/rss/articles/CBMipAFBVV95cUxPUnlIMHNnckNjSC1sWGI4ZXd4a0ZVT2NXcGhFREJqUTFZWHBHRzVPM3g3MXpVR2s1V3drNW1wYzNtbHdxN1l1eTJjREVZM2ctZXhaNTFxcTEwYmxBM016M043VlZZZWg5TnlkdjFiZzItRWw0Q3hCOFJ6bjFDWV9YTUxCV2d6RTBaVnpycmZ2UXB1ZXRpZjFtbE1GSGp2cmN5bGMwdtIBtgFBVV95cUxNamdXTkFSeUtKRU5tWmptbEJDc01TYnZQZnlESjkwUTcwbUYweXVVZ0d0cnNXaWRtV2NmVmQ2Z3htUmV5VlZrYjIxNlQ0WmRXUkZtZHJwdUVEWk5OUGxxY2UySjhwWnlDSlhQMXN4azN2SjdMMFRFSTBYN0VsMDNmUHJFaGNvYjFHa1phaUtSZlVXemt1XzZJNy01bWl1WlpMZlBmc2NuZG9ZSnRVLXEyZFJvclJwZw?oc=5
 
-2. What Comal County residents should know before going to the polls on Election Day _(Community Impact Newspaper · +1 similar)_
-   https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2Y1QXEyOE95d1B3eW4wNmZUVWZQLVp0YnlOYk5lZ0FNVHpQTVlBTTR5c0l1MTN0anM5b01tVVRaV1F6TkJVRWthS0hhVFpCVEEzTTF6NkhCWHU0a0JNTENCVVM4UmZIajZ4OWtkNWZqWUJ0ak9Rbnp1Umt4bnROeVZUSk1pSlprNjUwaXd6TmJSWW5wZ0hkeGNQUUxrSk1YQ2s0NkdqQUppbmlsVmYxWjFTd29PS3drQ3ZMbWUyOTRtQU1WOWhybG95QlZMdw?oc=5
+2. What France’s unrest is telling markets _(Metrobank Wealth Insights)_
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE5zblhMS1Jnb01SZEI1REZSeW9NU3Q1ZG1vQm01MmtQMG1TdXZBaGZYaFhybDl2ejhpbmtXWGlYQ3JMZ3lwRlRjZ0d5b2VsTEI5cTdqNUNBMlNkT3A3SUJNNkpLOHJkYlJiVG5lRk1RcWt2dU1BSnZsdHl6Wl9RV28?oc=5
 
-3. AfCRA targets March debut for first African sovereign credit ratings _(Nairametrics)_
-   https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTThRSTV5NHlmQ0V4WmxiTFMwZm5vRl9QUE9GenlBNTF1cGlCQ3E2MGN5dUZtc05fUWtrYkFTSThGQlNRNDhuX2pObEJLZmgzQTBQZkpreTNlaDRua25OZE5HdnprbUFXMnN5Z0tLVjZMZUJnWnJseld1VWtObG9MMnBQQmRpeHpTaUZHc0dUSWhUUG9WMk41R1pmNDYxb01xakNjV0xBRm4?oc=5
+3. Election results: Follow live updates from Lyon County _(Emporia Gazette · +3 similar)_
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmZQbzkxeno4TTZJVEN0TEJmQXdMZHMtN1AtcUVYSmZlUi1odTdGa1dJWHduM21KaXMxeUFnUDU4NmlIVFBNOXJxb2NaUW1FdTJQc0lYYklfMG4yeGxvVjZYa2w4SVJUODNFRTZJQ0p2TEtEREI2aVFaVWZVMGYxZmg5SzVqUWNqLXNIcmdB?oc=5
 
-4. Voters to decide bonds and overrides for Arizona school districts _(azcentral.com and The Arizona Republic)_
-   https://news.google.com/rss/articles/CBMixAFBVV95cUxOYmRBN09HZDRUM3M0dThqZ2tzSmdlYm44Y3ltbktTYl9UQzZkTWRackhBSG5haXF0TmtINFRBa0toYm82eHhHbU4ta3pkNjQ5THZsT2d2cElzTW5Ud05BUzdLa2xpVXBwQUNUMFRodzA3TDRjcFlWY1l6aklYSVQ1eHY2UmN3c1V6UUVpVUxFY19VSU1XTGhLRlJ5dTFfOVMzVWVwVnl2OHVIdkhCMHZUZzhBbTFWa2tMMmlwYUplXy1lQXNN?oc=5
+4. Middle East oil supply said to outpace demand for first time since July (USO:NYSEARCA) _(Seeking Alpha)_
+   https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRITEEwajg4RG5ZcV9iM3NGVURYdTVUZmNMZC0zRVprLTA3bVZ2MjFfUmw3VU1XanNUcFdaS0xrajFEdXlOVU5XNHpfR2x6SV9ySU9BMDYySUo5SklGSHBaU3QyM2VjejgtUXJsdzZzbGhFMVZIeElwMFRaanBJRVhscC04cW1ESDEtREtaamJSWExxazh5WHd4Z19RRGsycXRiWkh3MnJ5QmhDUHc?oc=5
 
-5. Wall Street is bracing for a fresh wave of tariffs, Iran action (and potentially a government shutdown) after the midterms _(Fortune)_
-   https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3BjSDBOMTBSTE04RjhSc0RYSWJic25sS2duRTRocGJvT3RHYmtaWDYxVnMtTWM5ejNCdmEwWi1vdFkyeTZmR0lzZ2duM2V2blhMTEVzSnRIMVc2ajc1SUplUzVEMGo0N202T1pLU0FtX2VCbGEwdUZIZ0RfMkQzaWpWT3R0UUpCUTBLZFBIWQ?oc=5
+5. More intense U.S. trade negotiations have started, Carney says _(BNN Bloomberg)_
+   https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMndBMmhoYVZHdzRFRGpGTUoxSUxkNkNnTDhFN0ZrbVV5VU15cjFacnB1WjQ2MTBOUXJQZlN2V3RDZXF4OUg5b19NQm9ENHhZZURKaWgyNlZVSU0zLW5ZMWpjVzlCMHVGZ3lwV0xpV1lNcXBMRzN3VjdzdTJOZDd6bG5jOXgwUnNRWEE0Q1d5bTNmVnp3NmVMdVFiVjJjeFZ2OFdBYXFBY1ZZY1k?oc=5
 
-6. Europe Stocks Dip As Strait Of Hormuz Risks Lift Oil _(Finimize)_
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWhyNGIxSjhQdXZISHVFSzJjRC02a21Ha0lqeVZNRlRWRFVUYWJnWU9VRE42ck15TnZIYUQxODN1UjhaRzlnRE1iSGxUczhQbkNVX3NPeVJPNFdXUGZJb2dZNmVMZ3hmV2t4TmNvT3JuS1Rqd3AxZzlqYXVWMTA1VWtYaDVpVzVI?oc=5
+6. Trump, Iran and the MOAB: Oil and Gold After the Midterms _(CryptoTicker.io)_
+   https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZbXN1c0VMMGwwYTYwWjZKM1NkWWJIdXBGRFNaR2VKNUo4cGl3RkpGbm13YkxSNlRuUW9rSjI2VHVZbS02S2EwQzJVZU04WkNMcUY3NG8yTFppUGwwRi00XzRfT19LVEp6MXNobFBR?oc=5
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
