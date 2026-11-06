@@ -1,26 +1,26 @@
 *FX • Gold • Oil Brief* | Daily
-Friday, 06 November 2026 • 07:35 AM NPT
+Friday, 06 November 2026 • 06:16 PM NPT
 
 *📊 Price snapshot* (vs prev. close)
-DXY: 101.61 +0.10%
-EUR/USD: 1.1218 -0.15%
-GBP/USD: 1.3450 -0.20%
-USD/JPY: 157.86 -0.31%
-AUD/USD: 0.6933 -1.02%
-NZD/USD: 0.5594 -0.54%
-USD/CAD: 1.4016 +0.32%
-USD/CHF: 0.8169 +0.05%
-EUR/JPY: 177.04 -0.49%
-GBP/JPY: 212.32 -0.52%
-AUD/JPY: 109.43 -1.33%
-NZD/JPY: 88.28 -0.86%
-Gold: 4,084.5 +0.28%
-Silver: 51.93 -0.36%
-WTI: 91.07 +3.35%
-Brent: 99.13 +4.77%
+DXY: 101.97 +0.42%
+EUR/USD: 1.1177 -0.52%
+GBP/USD: 1.3401 -0.56%
+USD/JPY: 158.34 -0.01%
+AUD/USD: 0.6881 -1.76%
+NZD/USD: 0.5550 -1.32%
+USD/CAD: 1.4058 +0.62%
+USD/CHF: 0.8181 +0.20%
+EUR/JPY: 176.92 -0.56%
+GBP/JPY: 212.17 -0.58%
+AUD/JPY: 108.92 -1.79%
+NZD/JPY: 87.85 -1.34%
+Gold: 4,078.0 -0.86%
+Silver: 52.08 -0.29%
+WTI: 90.94 +0.46%
+Brent: 98.73 +0.45%
 US 10Y %: 4.837 -1.16%
 S&P 500: 7,354 -4.36%
-VIX: 28.18 +69.66%
+VIX: 26.85 -4.72%
 
 *🗓️ Next 24h — key events (NPT)*
 🔴 Fri 07:15 PM — CAD Unemployment Rate (exp. 6.5%, prev. 6.5%)
@@ -35,80 +35,83 @@ VIX: 28.18 +69.66%
 🔴 Sat 03:30 AM — NZD Parliamentary Elections
 
 *💱 FX & central banks*
-1. Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters _(Bloomberg.com)_
-   https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXB1cFN4S0FZMFNHN21qX2dXdHAydHpGRzlZR0dYVldpdGMwWUcweXJfeUVVVnFNbkhSSzlwaE9qN1NRQkNhQy1aY2dJSTNDLWVpOGEtM0JxXzlnNEd3Rm5MTUdQYjdub3kzckxvQXVsUWFjYVBoenIxVnVqbjVhWWxYWlpWX1ZQdjJFZlp5U1Y0a25NTmNVS2FYd0ZrVEQ4ME9kX2JkTHp2VkhEeTZjVUJ3?oc=5
+1. Bank of England raises interest rate to 4% as inflation risks mount _(Fibre2Fashion · +3 similar)_
+   https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMWtrbGdMV2E5SFRVZkNCMlpqNVlYWFd6WGlZYWRnS0twa1pVZ0NqX1hCZjNydzJpM0plS2MtbnlkaUk5d283cEFmd1JnalduU0lvM1J1a250cWpPNHdiN1lMbkNZWWg1OUVfMFZOT3BSck93cXJ3STVVUkgtX085ZDVVdER6cU50UVBTNW42ajhJMmp3Sl96YUoxbmdKRjZFQlVRd21pbjJTa3IwNlJWbzllajNaYnJBcE1qdzZQcW42V29fcU1Vd3l0LTZhMHFUOHo0?oc=5
 
-2. Thai baht/US dollar weaker on Friday _(marketscreener.com)_
-   https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHo0OHdwbllLV1RoZmhTRUJfUFRxOW8taXRPdDZKQUhCOEZjUVBtRnlJeDlYVE0yMVhQSEZKMXg0NkdRel9fZlRnR2VtMTFuY2d2QzV5aHNTX2pNbmpOYjc5Z2JGaXIzS19YTVpJbXZocFd2NDlnQkJFTFpCM19JMk54ZWFkanhFcDlBbWktZUg3Zzg?oc=5
+2. ECB to raise concerns over funding of Afghanistan Premier League _(Cricinfo)_
+   https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFNaXzI0b0xULU1HVzNvZWR3cVVUUVBicTdSWnZaVzR2T1dJX04xRkdpWklLZXNfM1NRdFpKSGFDU0xZNV8tX1N3TGVLNGZwcHNPUFZfNVRpdEtMM29JM1lMSlNZcHN6eHIya1JFMVdBS2NOTlEzeHlxQWZKTE5wR1NMM1ZqRnFxelJyb0RsaGl6MVp3bmR2TW1qNW1FcnpZTDd1TnJB0gG3AUFVX3lxTE1NMmtjYXZXSldMOXdrWnVkU1lvWF9oZXNVU3NQUVN2R1doNFRjWDltYVlZb096R2tfWUxiVUx6RENzTFFSZVdPdWNVUmJZR3NaenI4NlpJVG1zd2JibDJvUnkwOVpvN0NDcExSaDhabEdnLVVOeWxXbFZGTkVSRU81dWlEUklMTmJNT2RIc1Mya09hTVNaU0d0NVYtUEJWX291UlQ3Nzc3bGg2RGw4WTYyWmRMZUxIRQ?oc=5
 
-3. FOREX-Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls _(Devdiscourse)_
-   https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTTJIUG5XSm5XTjM3dFZGa1hKaElDTFZnSGdrSjRGOGpMdnBaZ0VJODhTTVJoZWxvRWZmbnBUZFk1TVlwLURkV0hvTWJyaVFVM0V2OGhWZmZKTzhjYkR3cWhoWkRXYk1mMGNTN1NLekdjWERhdnhOVnFwczBJOTliNkV6ZkpxUGprMVdZX1Y5b3BEUnZuSExXazlOS2xNYlQ3cXd0cElJYndDQ245WUd3djVLbXJLeFoxYjJGbnRpaHJyWVc1Z1hSSU9lbUZkaGltM3F2RFNR0gHbAUFVX3lxTE42MTNEbDlsQzFUN3dlUENDa1J3LTh0c0VNNWpWQ1JvRGUxRXhNdzh3WTNjNG1vUFBybnRJODFqdngtTG9FNUY3eDFzbEhsME5zcVJHWWlHRUpVRkY5bmRsdHhtVlNUdVY3aTZ5alRGc3hQTjZ2LUhoNnFTM2pQUGx2YVZvVlVPZ1hlc3JwZkNMUnR1UG1GNnZmMFBLMWN4QXRPenN4dm9RUGRSQVM4V2syaVp1Um1abmdNQXEwcnhQYWRNWlhabTc0Z2o1eFhqdm1kUnZHTnJOeWpqSQ?oc=5
+3. India’s Forex Reserves Drop by USD 2.69 Billion to USD 717 Billion _(Deccan Chronicle · +1 similar)_
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkI2SmU2QUl1TlV3eVMydXI4OHE0dmh6Y1lSb09hcS00Nm1MRnE4bTNNT3ZpSXRJZzhaV2IwdE02aWFxc0czS2pKdFI2dEh6ZlNoM29KN2g5QzJIVTVhYXlFdHBxeXR2ejJZV29IZFdmQm1qcEJOeXlSeWtaUUFDYkk4VkJmVFJRSERJMHBoUWpWZ2kzQnVBcVFmS204NUtWdVZYa2d4eFJDQkdILTg4Tm5hdHVVMGhKVnZlLdIBwgFBVV95cUxQeVlBSzVNdm1uR0ItajJZNTdDT2g4U3BKbDF6cU9vUUgyNnZ5ZE9LOHdEeEFENmlvX1p4WDZEN0pQZnVTdndlQ081VkFWc003NFhfbmRHV1IzVHZhVDRKZm9rUDNNTkpIYk5IejEwblZlNGxCc0dQN3lxQ1Rtc2c5dG1zc3ZqVUtTanBRemtUQzdid1c0bDBzQnRWb3VuME42Q0tuQ3MyWFo0Z01FME84eTMwOUk5QmxIZWs5R3RENS1Fdw?oc=5
 
-4. FTSE 100 Dips to 10,782.66 After Bank of England Hikes Rates to 4% _(BBN Times)_
-   https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjNKdWNkd0ppcHp2SHl5Z2JDR3JlcS1GaUduclZsMnZnR0UweUwxOVdvUEJnUk93cU5KcGJNZmRkNmJPUDFyRlF5NUdwdldyUWFfSEFEZ0lnRFlKZVdGMkNPbkdoZjQ1RDZkYWtyd0haM0hSZ2dJR19rTXUxdkczVWVkZ0c4STc4RzJtc2RaX2FSUFB6WVBBeUhZQ0FBQmw2V3lxSVFLZDU?oc=5
+4. US Dollar: Risk repricing caps upside – DBS _(FXStreet)_
+   https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVC1BLU5zNE9rQXdTOUlZYm1WTVRPVHRkbWtuMDFXd21reW9jTWZKSE1HemZyWkVBLUF4aUxoWkZkNHdRMHNrMDlJTTVGV3VqdGlNYmJ6VFliVGFCSk1wNzU2TEpQd3hMeEVIRkp5UHZjUXNFd2RsZEJza2xENk1nbjhmTXhwZXp2bFpV?oc=5
 
-5. Chinese firms’ profit margins trail global peers as domestic demand stays weak _(investing.com)_
-   https://www.investing.com/news/forex-news/chinese-firms-profit-margins-trail-global-peers-as-domestic-demand-stays-weak-5006210
+5. JCS culinary is cooking up choice creations _(ECB Publishing, Inc.)_
+   https://news.google.com/rss/articles/CBMiekFVX3lxTFBINFoyZnhIblNNQkx0MldxbHliX3poQnlHcGljVzE2RC05TGw3RzZzekVubXRUcWs0ckpCRlo1d0hZMGVrZFdKYm54YXdjN0lxZHFTS1BPX1EtcWRrVzVpakZvRmpJZjA0Yk81d3Y2b1ZMNERCaDN2RTRR?oc=5
 
-6. Qualcomm (QCOM) Plummets 10% in US Stock Blood Bath _(FXLeaders)_
-   https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGJtZGxuSmt4M1NCTTNZaW5QQW5GejVKRmdkUkc1QlFsSHk0UFBwd08xUDJBSEVPbHc0OURWV2ZCTWUxVlZxTXpYa3ZFTVBYX0FjMndMdWZNeW5HRnhzUW5JbHdxVWxIYWJFajR0aHlGanp0clhkNkpIQnlIWXoxcnk2d2hUbWFFb0o4Qy1VdjF4cktGMXc?oc=5
+6. Spain nominates former central bank head De Cos for ECB presidency, Deputy PM says _(TradingView)_
+   https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcHA5cjJvckhleEJ1U1BzNE9DM29EZXZJZC1fYThnZE1qODN1bEJ2TzQwRWxGamFSNURDTUJwak9GRGhTamtMUUJ4TVhRdThMendKY0tXYXB6eExNWTE5a3JvWFVCX0FjMVlRY0ZnOFJEbEpBRnVTcUJ2czlMcERBdmJLbS10dVd2aE02X3U5ZjVhZ1lkOHRnQTJlcExzVGtZTnpZMHh1NElBRzMtc29aWWNfSTFMUnktNHpBenFCRzNubE1MTXpsdUQ3V0hZMExHLWdxUUl4R2M1WmdpMVZIeDRzTk1mdw?oc=5
 
 *🥇 Gold*
-1. Gold heads for best week since August as U.S. political shift lifts bonds _(investing.com)_
+1. Gold price today, Friday, November 6, 2026: Gold hovers above $4,000 ahead of jobs report _(Yahoo Finance · +5 similar)_
+   https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZVdYenA1bFg5NlRGRWlVSG90cWRjeG54aXJXSWstYkZwbEN5X3FLT2ZTQ2VTNVlMZzVvOVpQYUZFYzg3NWZRYVY5dHNqeFJpa1dPT2ZmbnVaemswUWxPNlFwZTl1QnNpbWlPM1NJWUJkYllJdDRpN0RPUzVvN0dpZ0s2TF9uUWxtR051eVduTkhaaE1nbjZ0N3haWWFoT25Cb3FLWWE4d1MtYWp2TjdjZEZsMC1vTENvVW5RZXcwTVBNS2dQZDJSOUF3Z3MxQW95WDg1aWw5WDZTUmpDUDVJcFJGOVFHSkNqUGxLNVJlcjA?oc=5
+
+2. Gold price at the close of the session on November 6th: Sharp decrease, a factor pulling precious metals down _(Laodong.vn · +1 similar)_
+   https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbm1RNjR3b3A0dlF2SVZZcm5FQTJvc0VPcm5VakxqeTlrZkp4X0twLW5PZTlJN1NjdW9qMC1lWmFGaGxkSXJhZkRBN1NvNVA4NUlYYnJqU0lZNWYxRDBmc2lwOWZmVDJ3UUlnU1pTb2MyalpRZmN0VHphSjVzeHAzUk5JMzl0T3p4LXFmNjV0Z24yREhBdWRLdUIzVUtFYUJxMHVCNGNsU05RdTd5WklYRVlnNnFRM2ZI?oc=5
+
+3. Gold on track for weekly rise amid AI jitters; U.S. jobs report ahead _(investing.com)_
    https://www.investing.com/news/commodities-news/gold-heads-for-best-week-since-august-as-us-political-shift-lifts-bonds-5006271
 
-2. Gold Price Surges Back Above $4,000 – Is This the Start of a Much Bigger Rally? _(FXEmpire)_
-   https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnI0QklSODR0U05pcVVsYV9FLUV5ejR3NFAwNmYtSHBhZG1uNVBOS2NMSG5Qc3k0ODFSTVByUFBhYUNLMmYwSDVweEdlbzZYZTg5bldGS2pCR3RCWEhsR3RrUmNtRU5rRnF5bVhQTS1pc2dGZE5FRkR4UTVfVFY0R091dllNU25xZzdEVW5TZnJPV09TOVJQbGNKSEkybUEwcnZiVERVZDZmR1Q2S3RDcHppTV8xeWQxR3FpMGxsWTJwMlk?oc=5
+4. Gold Price Today: Why the Rally Is Pausing After a Huge Short-Covering Move _(CaptainAltcoin)_
+   https://news.google.com/rss/articles/CBMipAFBVV95cUxOVXd5R3NLREtJR1BnZmE1dzUwQklubVVxdVJfa2hiRWxXdWlyNDJaNVVwR1ItVS03SnJuQnUxNVZTZ0QyaS1EYWRMSVV2blZSbElfdG1BZU9RTlVnWHRuWjdpd2RueE1Sck4zRDhlUEVqQjBaNkpIcldCMjgxN005VlI3VXV4NmVhRWFPaW1hQjl3XzZGOVNWVHAwZmpPZzVNZ0d1aA?oc=5
 
-3. Dhanteras 2026: Gold Prices Surge Over ₹3,000, Silver Also Becomes Costlier Ahead of Festive Season _(theopenpress.in · +6 similar)_
-   https://news.google.com/rss/articles/CBMiekFVX3lxTE9qVWM1TzdfYzNrcVh5YlV2SGR6UGNTRHNMbGd3X0dWeDl3NWlLUnVSaUh2bGY5MFBHMHVxTkFxclM5T2NUejNxeFljbWxSckhKcHFaRUJ1OXhLekJuTExtNjJPRXhJYS1KTzFBMmh1ZHFabkdpOXdrYWtn?oc=5
+5. Evening Roundup : Daily Evening Report on Bullion, Base Metals and Energy Commodities - Geojit Investments Ltd _(Investment Guru India)_
+   https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdUQ3b3poU1VyaFNwLVhVZmk5aHBzcGE2allXVEpic0NvVDcxSkFMN0RtTzVYaGNIU050bUdGdmxseDk2TVE1Yjc3c2V5cUZWODFwNXRyZE96U3A5eWxFLWNVa1lYWU5nZk5zYTh0S2dfTWNQa0IyQjRlVHJSUWV0Sk5YX3VBby15MzB5VjBBS1VWeDM1SWhycjc1bmxlM0xoWFBjbjZ6RTB3T3FRUVRpdGNjQnNzYWtJX1NmbFhmVV92TEpZTDJqa0VaMlN2cFRUTTlvazk0WVk5NHZ2aDZSNS1DS2M0bnUtMTBzLQ?oc=5
 
-4. Gold Price Today, November 6: Bullion climbs above $4,100, gains nearly 6% this week; MCX trading in focus on Dhanteras _(ET Now)_
-   https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZ0hYMFFEX2llelZuN3ZON29kN25vZUpzOUZLZnpUVWhpd09fVWhjcVpscFpteTZZNm16aGRmdUhvRDc5bVNkc2JMWFdtcVh5WC1tRlFmcXpTZnlUTVBwYzBZbHVVSUQ4YVhQNlRwNUVRT2xvNlhhTzYyOFNGb1VWYjlrR3FfSVhValphdEpjRFQwQ3ZjRXgzZGotVmFWNTRzTnY5TjJlc1VOTTlVT1F5cVNYeFhFTGxrbE92RWR6d1NGSW5lNjVtNXY0U1EySlE5Ym5EazFIS0ZiQkszSkZvSTlmVzVQanpmcUMzMTdnbWFKVXAyY0ZF0gH8AUFVX3lxTE5vaWVwcTlrY0tZc0hXQjVDSUx3Q2hKQjE4QTdzRjV0M05WR0FVbHQ4QTlIcUd6LTdmcmpTRldTZFlMV3lOX2tfZFA1eXhGRFNVeTljNnVxcXNWdXE2NXNsS2pHQnY3azB0SFQ5cWlhY0gxSHYzbW5yc3VOd0dHZnVKTmhmRmRXXzZIRjlGZzR1SVNsRkcyMzExZnV1QTV6Z0kyenlUcThUa3FlenE3ZFZEc3BaSkVPUVA1UllLWm0xei11TWZ0UjVjcDctMFU2YlVBNm5reTllWlVXSzJfRTdPQm45OWJOeWx0LUE5QzhKRVdVZFlLdEg0U0VXbA?oc=5
-
-5. Gold Price Drop: Should You Buy This Dhanteras? Expert Market Analysis _(Bhaskar English)_
-   https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlRiUXhPdi1kTjVvZmlNOXlERUxLeDlFNVNFbUk0S0xGNEp5eWdmOUdHdzE1cjNGY2hWTngwQjlSTDMzcUJsbDdmOC1UNTlZbDVpQU1OY1NSQUhrb2Z2N1lvM0VxVDJ6OVRiYVAtU081eGo5YmhJSG54LUp2cThJcm1YbzRoUEVudm01R3RlQVNXRHhma0tUMVdodW14MHFvbHVPbTl3V2tsVTVkazZmSmRnTWRyQldMLTRLVmpQZFlnd29LNUhFaQ?oc=5
-
-6. Pure Money 13s - Gold Eagle Coin Pure Bullion Precious Metal Valuable and Collectible Stock Photo Image of _(auroradesio.it)_
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lMkJicFIwV3JJNEZYUURfZURQSVlFdnpCWGxNTm5pY1pkQlZSRmU4SFZGbWQ5SndQU1dmQndTMkl3aDBpbUxzcThUbEwwdjlkTHNN?oc=5
+6. Gold price dip gives Dhanteras buying a shine, but consumers are spending lighter _(Fortune India)_
+   https://news.google.com/rss/articles/CBMiygFBVV95cUxOa01JckFBZ1JqUi1acFNZak5fcHNVYlNud1hHOF8xbVpKYU9tNmZfVU5wdWRFNHhfZ3F5TU5RYWZYTGthNUR2ZkZpNTBzVmZtTzltandqOVNIX3J1TzB3S1hRbFk1MUdZVHZuanFXV1h0NWpNb0JNelI1NS1LTlNXcmdFdEJTeFZCM0k4UjFUWTlWR05DWXJlZXhHaFdveURhRU9QMkNDbVN6TFNPclZJSGtmbzVOb094SmVrdm1yc0FRMzl0M2dKcW1n0gHXAUFVX3lxTFB5YTJneVJYcGFSV2toWmtZSkI0TzJlQk5MSGREWG9wZk5VYk41a3B6TldOWGtNMjdkS2w1enhZUm4xd3JBMm8xdEJrSGhoTjNSbDg5dlZoUHJvMGxKQmdMLUJuSExwWk1reVkwTHdoYXBCeVNGTDd5WHRkOFIwYU5uNGdqRFNmdFdfNWprQ1hrblhPN1N2UGJBT2Zkcm5uSk5IOWRydmY0aGVzZjdfYkE3ODA0dHExZ1IwSHNWclVoR3duREZHWFZ6bUZ6UFZEVWRPcHc4NHg0?oc=5
 
 *🛢️ Oil & energy*
-1. Brent crude jumps, settles up over $3 after tanker attacks _(investing.com · +2 similar)_
-   https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042
+1. Oil Prices Plunge as U.S. Elections Shake Up the Iran War _(oilprice.com)_
+   December WTI crude oil is headed for one of its roughest weekly losses in months after the market shed $11.37, or 11.10%, from its opening price of $102.39. Prices posted a weekly high at $102.75 before breaking sharply…
+   https://oilprice.com/Energy/Energy-General/Oil-Prices-Plunge-as-US-Elections-Shake-Up-the-Iran-War.html
 
-2. Oil Jumps 3.9% on New Tanker Strikes, Yet Brent Still Set for 15% Weekly Plunge _(finance.biggo.com · +1 similar)_
-   https://news.google.com/rss/articles/CBMidkFVX3lxTFAtQi1kTkJiRjlmSDd1Q3gzMXktSUNtR01hYUIxTWJMUEE0YlZHaUx6d0tJZThPTS02YTJGbWVTYWJCLTF6SmFXYWhIMXJjSm5IQkdCZmk5NURYc05PeUtFSml2SDFudG1tTFkyQ1U2TU5jTXQ5QkE?oc=5
+2. Israel’s Election Dispute Escalates Amid Claims of Foreign Interference _(oilprice.com)_
+   Politics, Geopolitics & Conflict Benjamin Netanyahu is using the Shin Bet to challenge an election his bloc lost. Shin Bet chief David Zini, whom Netanyahu appointed, is seeking to question four Arab party leaders,…
+   https://oilprice.com/Energy/Energy-General/Israels-Election-Dispute-Escalates-Amid-Claims-of-Foreign-Interference.html
 
-3. Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Rebounds As Traders Buy The Dip _(FXEmpire)_
-   https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWlqajdoS0xJUWI4WTd5MGZ3SGZTWEw5QTJaRXh2VjViNXljbDVIQnp5MjhWLXo4RjZUYWdjSzF6NzdWWGgwSG13bnd5VVhUdXZKMUNQcGRaTTlBZ1FId0hCYy1pRnZTUEdPazVVeWxBZk9PRFE3THF2X3dMZlZCT2s0R05nU0g5XzdGTHo2WUpwYjlXN2xvMXJESE5YREFUbXU3cC1xMjdYVmIwYWY0ZkVzOUNXYndSSzMzUGN3RkFCY0t0?oc=5
+3. A New Middle East Power Struggle Is Taking Shape in the Red Sea _(oilprice.com)_
+   Israel’s security establishment, in a panic of its own design, is referring to the Turkish-led defense bloc forming around Saudi Arabia as a “Sunni ring of fire,” the successor to the Shiite ring Iran built from…
+   https://oilprice.com/Energy/Energy-General/A-New-Middle-East-Power-Struggle-Is-Taking-Shape-in-the-Red-Sea.html
 
-4. Oil Rebounds Toward $100 as Democrats’ Sweep Rattles Energy Stocks _(oilprice.com)_
-   Oil prices reversed their recent downtrend on Thursday, a day after Democrats swept control of both the House and Senate, creating a potential legislative check on U.S. President Donald Trump’s administration. Brent…
-   https://oilprice.com/Energy/Energy-General/Oil-Rebounds-Toward-100-as-Democrats-Sweep-Rattles-Energy-Stocks.html
+4. Asia’s Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation _(oilprice.com)_
+   Asia’s fuel oil refining margins and benchmark prices have slumped this week after the outcome of the U.S. midterms boosted hopes that there could be de-escalation in the Middle East allowing more oil products to move…
+   https://oilprice.com/Latest-Energy-News/World-News/Asias-Fuel-Oil-Market-Signals-Hopes-of-US-Iran-De-Escalation.html
 
-5. Oil Heads for Steep Weekly Loss as Mideast Peace Prospects Rise _(Bloomberg.com · +1 similar)_
-   https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2FseVdkSnNlWHNYeDZGNFRzZ3pSXzZEb3RrV21OeE1qRUh4T1dad1Y1M25aSV9sODlETUU1TXQza3pjTGxhMFJ2TDdhdGJmZkJCbkk0eWJPTDdLRks0Z1lVemNXRmVobmtpNzJiYzE5SHQySHItWUlaTXJGSVpZUm9rSDhiOVdyLUw2UGpGbHV6LVFaRlhkXzZMXzE?oc=5
+5. Top 5 African countries that produced the most crude oil in September 2026 _(Business Insider Africa)_
+   https://news.google.com/rss/articles/CBMiywFBVV95cUxNSEZrYWRBcXpHQ2RxUklrUUgzOFp4TnVIdE5BMXctcDF2NzVCVURUZFI3VHQ3XzkyZjVvOUFWUDAwRzU3a1lvUnlwZHdXelJQREczUmFYcEZSazNSUGt2SUdnUnhTRGw3bkdLSXdLc2plZF90ckh2R1VSN1RUTkliTnFiNDZOa3hUeGlMRjZ2dmJUQXUwYnFTNWREYWRheGdmemNhTnVrb2xkSVVZSXhXZzI4aDdpa3pVQWhjajVIOXVjU2NjNV9NbGkyQQ?oc=5
 
-6. Oil edges higher as Iran uncertainty offsets peace hopes _(Gulf News)_
-   https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZUd4bUpLbzlRU2pZWUtFUml2UUNUVElZUHBGVko0aEVYUUk3VktKM2RMVk9nMHB4cUYtaEJlT1JYV1RDVmVLUE05bmhQQTlfRU5CSFRFcWFqcmx3MHRoVDZmWmRqNjExM2M3SUxqRXpXNzNjYmFlbGxoQ3ZsY1YxbTlKeXk1QzVGN0xaS3hjZ3VRWkZMRGJHVzlrd3h2Z3ZXUndIazl5dHk?oc=5
+6. Game Preview: Bobcats battle Bengals in ranked clash, Brent Vigen chases history _(SWX Local Sports)_
+   https://news.google.com/rss/articles/CBMijgJBVV95cUxPMFduTXNXanNlRURMV2p1ZzNwY1hIU2tDLUVsM0g2ZlBLVkg1djgyVUpfdWMxVkwxWno4YnJLOEp1OVp4U3l4SnNQTUtIck9oU3M0aHEwS3BkYkdFTGJqd3dIQV93UVdTVmtlNll2QmVjc2xRMjJGVXRPNFRRaWRPTEx3UG9ZT3MyNlluN0lHbEdYY05QbjNYZG5jemRmMGJyOGdSUklzSlZVRjV4cFNrb2tYU2ZMMnM4UUc4NnZaa1lTU0hVYXJPT3FOUGRwelJGMnd3azJQZF9BT2hxR1hqYjNwTGlzd1pMbVo3WmJkZUxfZUFxS3Fadl8xUTRHclg1MzBsdElDUkNLaTRwOFE?oc=5
 
 *🏛️ Politics & geopolitics*
-1. 80% odds of renewed military attack in Iran, oil risk premium to head higher: Bob McNally _(CNBC)_
-   https://news.google.com/rss/articles/CBMixwFBVV95cUxQRUpsUnBfRmVTTU5QbkdRWEpZV1F4Q3dvbHpRN1BaRDIxV1p2aTYtZzFzbExfbl9yeTlvamJSRWVCMUM5dHk5WGlpOXItTWJ3NnMxdENjeTNiZk5oUDJCbEpVVU5XLXBOZFdkR3p5ZDVfdHBMWTVNbFZXckFzV1lnRkhFaDNHSUJTdEliNDdjY1hyRWlrb2xJb3VzZVZid3dBMVl3YmdQV0xCTTh4ZXhfc2Rsd3RHNmhjbk80MFlYXzJIY2drRUI0?oc=5
+1. ITIC’s Karen Yu Advances Taiwan–UK Deep Tech Innovation Corridor _(markets.businessinsider.com)_
+   https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSExDTmVyWlJiQ1h1SGRUSml6Wnd4Z3ZXNWlpd3FPakdub2ZULTRXLUI5OWV2bEpsYXV1SnE2TTcySXpoc28tRWpPelJ0V0k4aC1LaHg4ekJ1SkZOeW1HWHBkb05nUnBzT0hWdnpCWFFEMUxlWTMtV1hFckxfMUM1SVRTTkJWaE9zTldnaVFvMWJ5dW9pc05GSlVLRUdUcDA2eFh5SkFFWFNTYjRfRE16MmRHV20xN0RodEo5SlJVaVI?oc=5
 
-2. Trump says he and Putin are close to a deal about Ukraine and ‘all of Europe’ _(The Washington Post)_
-   https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjJDSVFXTjRQMG1LcGVjOFlhSUo3d3JXTjY1SE44VVFOaGNERmtKVmx6OWo2c19kNXhaTW1JYnJlTzJmbVJRNjZIT1FoV3NpOUVuWlJBaVRaOHVla1lmXy1aNDN0S0ttbmhVYlFnMkFTdU5ZU2pkTTQ0NlhoeDhZVjVxUXlEWGFpTjRha3VHMWZEMFNkU0RJMFduZEQ0cmdJcmZGQmNVZEtRVncxRmcwdkJvRmRxZmpaakVuOXZ3?oc=5
+2. COMMENTARY: Washington reset, market meltdown and the Iran oil bet: The financial week in five charts _(Reuters · +1 similar)_
+   https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZDZhY1FzZXRVRVhNczRmcTVIZjJKUWpudWZuXzZDZkQxcVFsRDRJUzNMNGltOFMyVmJ1VFdkV3lEV09FOGZ1bnlGT2c1R0tGcklDdTIwQXNyVUM5UHNFQXBxOF9uVm1xNVNuYkplOVhtRHBuYnRnSDljdWxLZjFuZ09IN2dlX3N6N29BWTZiRWxQMkNTM0FHc1o4NDFLQ3h0TnhIaEpEUVo0N1Fxd1IyZ3R6WmxSZk1ydVV5UXlsRUhmX3pCVFVMVHByT29WLTVrMXNCVXVPMHY?oc=5
 
-3. Tankers carrying Russian diesel change course, raising doubts about shipments to U.S. _(PBS)_
-   https://news.google.com/rss/articles/CBMiugFBVV95cUxNeWQtR0ZzX0RyQXYzUnVyLVB1VU1WTjJHa3VxWVFoYkdwdTAtSUVxbENvam1sZXBoLW5RbGUtbU54ejZNbzgwNG5Ya3E5d1ljdTdtNjc4VS1vOUY0NlMxdEdUblNmUUUyT3RMc1lhdmZYWW56RGNUeFpQSUdfM2FLNzhWazZpM3BEeHdXV09rc1A4aVRSbkN0RUEzWnBvRkt4RHMxSThQd1ZaY2NqaGhwZks4NUprT09BU1HSAb8BQVVfeXFMUFNuekk4M05kQmxrSFlzWjliTnhkcDZ5T0IzaUoydmhwNEtEeDBnd2N6VWNSa0lyU0E1TlkxbVFvTWdSWnNINXg2VGZENEltM0ZfeUpXcEoyVW9lQy0zcG5GN192TWJLT0dFdDViYlJuNlRCLXF6aEZiNjFUbkcxME43R0dQY3FnQkFVdGhxcmk1VF9jWTV3YVY0WHNBWGduUGxmWDMxNEl3Vi03TzFULXo3dEJjbmRxY0xNdnR2eFU?oc=5
+3. DataPro Says Credit Rating Gives Equity Investors Extra Insight Beyond Listing _(https://thefact.ng/)_
+   https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXZqYVlwRWE5RzA4dkVDY2N2WktBdkRYY1EtY0lMZWw0RmJVX0V4QWxHdU15MjRPb3E2a1QwMXJBX2NjZXJiOWlNdnV0VFo2Z1VMdFhFeGRLYXE4SUgzcUVEcTNoaWpiTlFmUFpJZkV0VmRFUzQ3YzdZRXEzSWhZQWU3ejl1OGhySmxnYndYeUs2Q3dMREdaSWVZZDV0cGM?oc=5
 
-4. 2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict _(Britannica)_
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5
+4. Democratic gains in US Congress put Iran war spending, tariffs under scrutiny _(Anadolu Ajansı)_
+   https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVdsRC1qSV9kU215TXZIZW5YY0FYM1lrUTF4T1lDMGJ3YllROXdtWWF1aHNpb1poNFNXMHFWNy1VeXFOVDAxdVF5cVNFajBPS3U4QU5GUmpmVDVYWGUtdUZVZGNzcDNhUE9OMFJJQm1wak5KSU5sdnRNY1NDdFZZUUhrTVBZb2x5YjNOemNIT2NqWHFiUFJMbnJPdFFKMHdUT2ViLS1HQWxWVEZLQzUxYnFXVjhvU2w1SkE?oc=5
 
-5. Oil Prices Fall as Market Awaits Possible US-Iran Ceasefire Deal _(EnergyNow)_
-   https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWlSQ0JySWhtckl3S01IdjNPcndoTTVOUWVSRmRXLWw2b1U3R3hZeTdwcFM4S1pxNnRVa2dPMXV5Vk9SZWNXaEsyWVYtd2hTZkNBXy1SbjRiaFRFT2cxekVUbTZFXzY1LXJEMXA2WkNVdXhMVnBzbGdNSllPdjlmcS1DMzZTQmo1bDl3dGJIWFhDUzhtUDN1bEV3?oc=5
+5. Ukraine rapeseed oil exports to EU up 45% reshape regional prices _(CMB News)_
+   https://news.google.com/rss/articles/CBMinwFBVV95cUxOYUxUVEhUYk1helZIVDVOUWxROW1Kajl6cEtLdnJNNHVWeEtJZzNINkVIMmxzZzN5RXdBS2RjM282cm9MbW1xb2lZU2FBOG9qVWpabXV5blZNMm1SeU9nYTVvdGpxOTRWeG0tSGlLSjI3bG5QV3JsMDN5OHc1M3hhS0dWYTBoV0N3X0UtTTZJeHhfXzI1QlNpU3FRYWtvY1E?oc=5
 
-6. What do the ongoing youth protests tell us? _(eurotopics.net)_
-   https://news.google.com/rss/articles/CBMihgFBVV95cUxNeWZjMThpQTNEdTd6eUFsMFRKaGhNNU5uYi11ZFp4dDJnbmVUQjdDMFNHTmkwSGJ5cWM2ZlFwU3dpbk1zRXZRd3lldU1NTU1qdVhBQ1NoR0xIU3FKUnFVeHllQ3RIa0xITUFqZjdrTTZESDJyNklkYkNsMzBKLWNxSU50bjVtZw?oc=5
+6. Oil Declines on Signs of Moves Toward Gulf War De-Escalation _(Bloomberg.com)_
+   https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXNmZnh6cENKbU1vdHBCWUxseFF6ZlpFenZlcFRxMjZjT0RveUdzRkdRZFpoMk5BWUN4SnNqRGJSbENOSGtlbHVDWFhOS1FmakR3WmJIRzhlNmVOYW5udGlCSGhVWW1rWU5zdVkxeFcwVEpfNG16SUIzQUswRDI3N2VSd3NKZnBtRmxaWmpBalZtXzFob2owdDZYUVJrbW5kMWhGd3loeERqdmpXVW00TA?oc=5
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
