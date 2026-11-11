@@ -1,99 +1,106 @@
 *FX • Gold • Oil Brief* | Daily
-Wednesday, 11 November 2026 • 07:29 AM NPT
+Wednesday, 11 November 2026 • 06:21 PM NPT
 
 *📊 Price snapshot* (vs prev. close)
-DXY: 102.25 +0.02%
-EUR/USD: 1.1171 -0.46%
-GBP/USD: 1.3351 -0.68%
-USD/JPY: 158.92 +0.59%
-AUD/USD: 0.6884 -0.54%
-NZD/USD: 0.5609 -0.46%
-USD/CAD: 1.4191 +0.51%
-USD/CHF: 0.8258 +0.77%
-EUR/JPY: 177.46 +0.09%
-GBP/JPY: 212.16 -0.09%
-AUD/JPY: 109.37 +0.05%
-NZD/JPY: 89.11 +0.12%
-Gold: 4,053.4 -1.48%
-Silver: 52.32 -0.46%
-WTI: 86.25 -0.69%
-Brent: 91.86 -0.77%
+DXY: 102.51 +0.28%
+EUR/USD: 1.1137 -0.76%
+GBP/USD: 1.3313 -0.96%
+USD/JPY: 159.16 +0.74%
+AUD/USD: 0.6862 -0.86%
+NZD/USD: 0.5586 -0.87%
+USD/CAD: 1.4232 +0.80%
+USD/CHF: 0.8298 +1.25%
+EUR/JPY: 177.21 -0.05%
+GBP/JPY: 211.87 -0.22%
+AUD/JPY: 109.18 -0.12%
+NZD/JPY: 88.88 -0.14%
+Gold: 4,052.3 +0.55%
+Silver: 52.88 +3.49%
+WTI: 87.40 +1.58%
+Brent: 93.37 +2.05%
 US 10Y %: 4.983 +2.45%
 S&P 500: 7,521 -0.38%
-VIX: 19.46 -2.31%
-
-*🧭 Market picture*
-USD & majors:
-The DXY held at 102.25 (+0.02%) as hot CPI and hawkish Waller remarks fueled expectations of supersized Fed rate hikes. The dollar gained broadly against European currencies, with EUR/USD sliding -0.46% to 1.1171 and GBP/USD falling -0.68% to 1.3351. USD/JPY advanced +0.59% to 158.92, USD/CHF rose +0.77% to 0.8258, and AUD/USD weakened -0.54% to 0.6884.
-
-Gold:
-Gold dropped -1.48% to 4,053.4 after hot CPI and hawkish Waller comments spurred supersized Fed hike bets. Silver also tracked lower, declining -0.46% to 52.32.
-
-Oil:
-Brent fell -0.77% to 91.86 and WTI dropped -0.69% to 86.25, weighed down by an API-reported 9.0 million barrel US crude build and hopes of diplomatic breakthroughs in Iran and Ukraine. Downside momentum persisted despite Houthi strikes on Saudi East-West pumping stations and Ukrainian attacks knocking out 30% of Russian refining capacity.
-
-Risk mood:
-Risk appetite softened as the US 10-year yield climbed +2.45% to 4.983% and the S&P 500 declined -0.38% to 7,521, while the VIX fell -2.31% to 19.46.
-
-Political risk:
-Hopes of diplomatic breakthroughs in Iran and Ukraine are driving the energy selloff by reducing risk premiums, dampening the impact of Houthi strikes on Saudi infrastructure and Ukrainian drone hits on Russian refineries.
-
-Watch today:
-- ECB President Lagarde speech (Wed 03:30 PM NPT).
-- Energy market absorption of the 9.0 million barrel API inventory build.
-- Ongoing rate expectations following hawkish Fed comments and hot CPI.
-
-*🔥 Top-rated stories*
-⭐⭐⭐⭐ Gold prices drop after hot CPI, hawkish Waller spark supersized Fed hike bets _(investing.com · +8 similar)_
-   📊 Gold ↓ | USD ↑
-   https://www.investing.com/news/commodities-news/gold-holds-near-4130-as-oil-retreat-eases-inflation-concerns-5013846
-
-⭐⭐⭐⭐ Oil Falls to Lowest Level Since August _(oilprice.com · +2 similar)_
-   📊 Oil ↓ | CAD ↓
-   Brent crude briefly falls below $90 as hopes of diplomatic breakthroughs in Iran and Ukraine accelerate the oil market selloff. Crude Says Peace, Tanker Rates Say Not So Fast - Crude oil prices have plunged by almost…
-   https://oilprice.com/Energy/Crude-Oil/Oil-Falls-to-Lowest-Level-Since-August.html
+VIX: 18.49 -4.98%
 
 *🗓️ Next 24h — key events (NPT)*
-🟠 Wed 03:30 PM — EUR ECB President Lagarde Speaks
+🔴 Thu 12:45 PM — GBP GDP m/m (exp. 0.0%, prev. 0.1%)
+🟠 Thu 12:45 PM — GBP Prelim GDP q/q (exp. 0.7%, prev. 0.5%)
 
 *💱 FX & central banks*
-1. ⭐⭐ Northwest European diesel margins drop over 7% on Tuesday _(investing.com)_
-   📊 Oil ↔ | EUR ↔
-   https://www.investing.com/news/commodities-news/northwest-european-diesel-margins-drop-over-7-on-tuesday-93CH-5016610
+1. US Dollar Rises Early Wednesday, Light US Data Schedule Due to Holiday _(www.marketscreener.com)_
+   https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2s2djhsYTBlMUJqTExidVZrMk9FSHFTSEoydnpxWHVwenF3aE96YUdPUzk1VDd1cm1SeWJnU0Q4V2RfNEJnbGZ2SXlEZVdLWkhEQ1o1WTVzeHYzMlUxVEhSNmI3dUYzVUdFdTV6Zlc5eUZQOWt6RjVsa01BUGJ5dkduTWJCWHFmVE5DaWU3WWhrWm9kY1lxcFJpZXRGT1duSU9OdDVhMGRkbjE3cEZuejN6YU5BSElFcTM3Q281MA?oc=5
 
-2. ⭐⭐ Dollar slips, taking a breather after last week’s advance a day ahead of CPI test _(investing.com)_
-   📊 USD ↓
-   https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449
+2. Keep the Flag Flying in Downtown Lloyd _(ECB Publishing, Inc.)_
+   https://news.google.com/rss/articles/CBMic0FVX3lxTFBvejJaRjVNc2ZpaUtLdmVUZ2VKNG1RMTdOdnViN0xtTzk5Ny0xaFdGVFFJRkRRcTJOYWl3dEVwRkhFWk1nemNHcnB4SUdyclFPOHFUcnVTLUJMdkQ1QkZIUzVpS3NSSlgtVzZZRGZJaXB4STA?oc=5
+
+3. FILE PHOTO: The Federal Reserve on Mayday in Washington _(The Daily News | Texas' Oldest Newspaper)_
+   https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVkVjMDRKT3dOMS1uVC1WX25DajdDSTZjeHFUeTVZaG9icUg4d3pHVGZGRDNJdkpSUnJvRElGTk1wVnpZRUEwRXNWLWcwZ1d2bUZWYVhGU21rbkRzaEZjWTNDTHQ0SzZEcktRVkhtRDVqQ1pMUDE4OXNOU21sRHhRSURUaWRQV0Q3S095ekI4dzE0WjdDb0lrbXJKdzB1em54cEptUzhzUmxWY053eThnOFNXYlhHT3I0UzRHbF83RlhJSTdWeHllMVdNS2tLYmZJbFJ0WmtzY3k2ZlFob0tZelQ3dw?oc=5
+
+4. The Fed Has to Raise Rates. How Fast To Go Has Officials Divided. _(The New York Times)_
+   https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWNqWFdDMHlSeUN3RHluTERFZlVwaVpqZ0ZEUzlURUkyeng1SjRQaG84V3ZnVURxdy1LdEp5RlpJeG5zQ25qQ1BXV05wU0lFRks2XzIyX1ZiS2tPVlZXbFVsTVFfUnpEUDVDeU9UczQ0aVZRYU85WkI0N0tGd1d6QTY1cw?oc=5
+
+5. What is fuelling the rally in the US Dollar? _(FXStreet)_
+   https://news.google.com/rss/articles/CBMixAFBVV95cUxPTjA3SkU0M2h0TlNxclYtNmNVSEg3SExBN2doLTlyNUctV1UyNkE0RkhBUy1MRF9kbFR0UXFqTVcyX1FjMG9Hd0JZa2xjZlZPRHdqbUdaZWlhSW1KbWh0Sjg5VzFBcG1wRzU0SEw3V2pmendFSGR0Z1M2TGJ2LXFXdzNKSXE1WEU0aVNrRTNoTXYxMnNDNHdYUm96SEJLLWZHUXY3OEp0ZEdrWUU2aUZmcnEyQ01rZnNkOHFxOElld3pQOE9S?oc=5
+
+6. COMMENTARY: Morning Bid: Jumbo Fed hike hits radar _(Reuters · +1 similar)_
+   https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTlFNjVidGtEa2NTMGcyZ0VaUnhIQ003dnFtaHFKZG80bVlpdk91dlZwN0I1VU84ZWF4RXNjY1YyMmE3cHhweUhsNmxkeVluOF9nR3BMcy1Ec2dHckN4aEJlT3kweGd3WEdFZmlhRzJqODlTY28xb1VtUVE1LXhlM0lzcU1RQUtZX3RWS0dVVVlFTEpmZ3hn?oc=5
+
+*🥇 Gold*
+1. Gold price in India: Rates on November 11 _(FXStreet · +7 similar)_
+   https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU9yNE9pZ0tyY0hJaTMwMXNVd29wbE1sZjNORTFlQXRqYVVwaDZ6Y0phZ2Z0MENPc1dsdWM1dGwxMVFyaEVkUGFiN05LWml1eW54NDdlalNkQUs2Qk9mZUFvdGJWNHRDU2NTLWtzR05vQ1o0VTFpQ1VRY2RjRTY0Q3loZHFmbm5yTlRrMjBPVXBlSk9uemhmTWdJS2lyZUlZbEg2YzBR?oc=5
+
+2. Gold price today, Wednesday, November 11, 2026: Gold prices fall back as inflation concerns broaden _(Yahoo Finance · +1 similar)_
+   https://news.google.com/rss/articles/CBMigAJBVV95cUxPa2ZWdnE1NlJaSFUzNWdvMnF5NXpwQzlKUFZ5MUczdFU1ZTNGZkRlRzNoUTFweTZ1aEVRVzR1cHEwWjJ4VS10R2dQYWJiaXk4a2F5UDZFLU1PX2JINGh0dnNBQ0Z1a1I4WXRiTTV5dFhPRWZaR1YxYWxJYzdoVTNCS0dWQ3pjZmJfMmlyX0ZFMk1rNXZEeGxRdWVXWlZmelR0RDA1WGtrbjZRU1FJMmMzaTI3cnJYaXBDVjF5cHJwNjZtTTY2dkpoLWprT2dOb1RENGhld3RBSjE4TU95YWNReGczOWZmYmxYLUc5cWlNQVVmOE9DRXJHRWJIbnpUa3Et?oc=5
+
+3. Gold Price Forecast: XAU/USD rallies remain limited with bulls capped below $4,050 _(FXStreet)_
+   https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUE94U3h1aGo0MlQ5bEpwRnNsM2EyNXUya1dPbjAwQzcyUnpZNlgyR2kweGZQcXdqMWZEOUFMOTAtWFIyX2xUeVQ4dUZXeEpvWVhIUktJN1k5bGxrdkpWczhrOUFNQkd3N1dsR0dlNnpOZ0t3V28zVncwNFV1ejBpY3pCcmktMWpBTmlUUTJIVGdES2x3Q2tiZnVUV2xpaEc1eGJCM3BKWE5OeThTQW9HMUlwd0E4dFBUcVZXcElINUQ?oc=5
+
+4. Gold prices steady in Syria as global bullion rebounds _(سانا)_
+   https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sbFZwWk9DczBDMV9jUVhQUnFwYUl6QVYyMU41b3FiTHRGdzVUYzVBVzFtQ05McEtlUUFaWUJxcG1nWG9LVXMtOWF3UkM?oc=5
+
+5. Gold Price Forecast: Goldman Cuts Its 12-Month Target To $4,700 _(Exchange Rates UK)_
+   https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUItU3gyQXhRM3N0Si1YdENFTjVIYkRfRXpxbUNOOXVHekZXOHJEWm92S0hGeVRhU0ZfNTJGMXpKQzRSX3BrQlV6TUR4cXdzRmt4b3NsVUF4N2o3aTUtUVZHSWdOWHZfek8wekNSSkNqVVdFWW9NS1gzbEZDaWZYTndVdkE2X0FCNHJyaXZMZjMwX0pyNGkwLU9oWk9LUVRKWFFOd0JSTlZEOEtWOU1ObWFVOFhxTFRPRUg1QjlR?oc=5
+
+6. Gold price falls by Rs 1,560 per sovereign _(Afternoon)_
+   https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVZ1TUV2WnBfRFoxSHlIa1FVbU0zLUJtN2kxdTk3d3ZkN3dCUjdQNDBzbWdzQ09zZWZ5UG43eHo1YlM1RFp3M0VkeFBrQzhCdk1RcWtFNGIwQ2w4d2dLZFhoUEZfMXBnQldiN1QxZ3ZadlZSTHRhTGl5Y2VnaV9Mdw?oc=5
 
 *🛢️ Oil & energy*
-1. ⭐⭐⭐ API Shows Sharp Build in US Crude Oil, Distillate Inventories _(oilprice.com)_
-   📊 Oil ↓
-   The American Petroleum Institute (API) estimated that crude oil inventories in the United States rose by 9.0 million barrels in the week ending November 6. In the week prior, US crude oil inventories fell by 5.267…
-   https://oilprice.com/Latest-Energy-News/World-News/API-Shows-Sharp-Build-in-US-Crude-Oil-Distillate-Inventories.html
+1. Jefferies Backs Two European Oil Stocks, Lifts 2027 Brent Call to $82.5 _(Investing.com)_
+   https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVW1yd21vZ29RbGU5bldDZXM2RWVfNTdGV3U4SG5MV3ZjRGx6MS0xREl2OVBIeHM5TExqNXU2aHRkZVhQNkFfMVBOeGZjV1VqeUhtQkxRNXp2R0RUUTZleWV3YlVYMkdPY2ZPcjFiczZVTVBQeDk0R0tia1F4R1dfN2NybUlkUmQ0eFRMQU1jSDdBWXFJX1M5OGlCRjBnLVZKa3pGSnR6VGFhX0hPX0J1UmJJNTlKMmdMeDU0Uk5UbE1vMlk?oc=5
 
-2. ⭐⭐⭐ Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West _(oilprice.com)_
-   📊 Oil ↑
-   On Tuesday the Houthis launched another major missile salvo deep inside Saudi Arabia, however Saudi authorities have yet to acknowledge the fresh attack, or to publicly assess possible damage - though there are reports…
-   https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html
+2. India Eyes 50% Wind Power Capacity Boost Without Acquiring More Land _(oilprice.com)_
+   India’s wind turbine manufacturers are in discussions with state and federal authorities about a plan to repower old turbines with higher-capacity, higher-efficiency new ones to boost power output without sacrificing…
+   https://oilprice.com/Latest-Energy-News/World-News/India-Eyes-50-Wind-Power-Capacity-Boost-Without-Acquiring-More-Land.html
 
-3. ⭐⭐⭐ Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity _(oilprice.com)_
-   📊 Oil ↑
-   Ukrainian drone strikes have disrupted refineries representing roughly 30% of Russia's total oil-processing capacity since late October, dealing another blow to Moscow's fuel supplies just as it attempts to increase…
-   https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Strikes-Disrupt-30-of-Russias-Oil-Refining-Capacity.html
+3. Current price of oil as of Nov. 11, 2026 _(Fortune)_
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5azdwdTFySFNNNk8zcWRlWUgybnZGX0NsN2hadVppWlFlSVpzQjZtaXpEaXhCaXM4NFZzUGY4VnF2dFJYTmVrUmx2VVo1cHFXUTNDYnVFVzk5TFdrTnFFNTRn?oc=5
 
-4. ⭐⭐ Middle East Oil Flows Far from Normal Despite Signs of Oversupply _(oilprice.com)_
-   📊 Oil ↔
-   Crude oil flows through the Strait of Hormuz and the whole Middle Eastern region have recovered to close to pre-war levels, vessel-tracking services have been signaling for over a month now. Middle Eastern benchmarks…
-   https://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Flows-Far-from-Normal-Despite-Signs-of-Oversupply.html
+4. Oil up 1% after Iran says no nuclear material will leave the country _(investing.com)_
+   https://www.investing.com/news/commodities-news/oil-rises-from-twomonth-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes-5017512
 
-5. ⭐⭐ Midterm Results Could Trip Trump’s Energy Independence Plans _(oilprice.com · +1 similar)_
-   📊 Oil ↔
-   The Democratic Party’s decisive victory in the U.S. midterm elections has been widely called bad news for Trump policies, but now, it could interfere with legislation that previously drew support from both parties in…
-   https://oilprice.com/Energy/Energy-General/Midterm-Results-Could-Trip-Trumps-Energy-Independence-Plans.html
+5. WTI Oil steadies above $85 as hopes of a Middle East peace agreement start to fade _(FXStreet)_
+   https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUFuQWp3QjJ5U2ZWYTZTRDZWY1FDSTRNN3Vpb1N1ZmR5OEhwUlVGNkRUblNoYlZFNFE1SENkZXFndU1BeWRvdlNLWVY4ZWZnRHAzZjZkMG0wZ1A3a0xsN2JYOUg4eTlZM1g4VXlzOGFtVl9IMXNyUC1SUksxZnAxR1o3aW5SQkFYZkdxTVRvRU84Z0FaZk5MVXBwNGxpNVZqeG1JQlRKNTNPd2hPdlF1b3IwNUhGQ3ZfUzlWRVpVU05sUQ?oc=5
 
-6. ⭐⭐ The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan _(oilprice.com)_
-   📊 Oil ↔
-   No country aside from Iran itself has felt the economic consequences of the U.S./Israel-Iran war more than Iraq. Over 90 percent of its annual budget historically comes from oil and around 95 percent of that…
-   https://oilprice.com/Energy/Crude-Oil/The-Truth-Behind-Iraqs-Oil-Rebound-And-The-Secret-Red-Sea-Plan.html
+6. Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes _(CNBC · +7 similar)_
+   https://news.google.com/rss/articles/CBMitwFBVV95cUxQazZ2WlZKeGZNYjh5YjBSZW1ORURVWjNfel93b0Z0VjAtRmJHUFJBNjRqYVlrS05ycE1qcEMyZXduQy1hci1heF9pUktMcm16LWtXZDlPM212RjNQbUJfdlk1cC1wc1N2aTVJT09iVWxYV3M5TDlUWXI4cGFKdEpMZVk1dk9lU282aHVETk9EVFItaWtzZ0t4QXhLdUlWbUljZ05uT3NQYmR1c3UyTUUwME51ZFh2dXM?oc=5
+
+*🏛️ Politics & geopolitics*
+1. Oil Futures Slide as Trump Says New Strikes on Iran Unlikely _(WSJ · +1 similar)_
+   https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5
+
+2. China says ‘firmly supports’ Cuba in opposing sanctions _(Free Malaysia Today)_
+   https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXlDV250NElNdUMxbU9EY3pJWWNBUXFsLWdvc2FsT2lmMVdweElOUnk0SkFlWHNFOGo5WDJlUVFmNllTSVRJdDFVTTFOS3RQT1lNQVVRSEFzTHUwUWJsMEF2ZWlLTHloeGpqdWZuMjFBQlhqeUt3N1ZJRENCLTFZbmxpaF84ZjJZbkt3bWlCSmUzYm5mdzQ0eFd3dU82YlpHb1JKTjdjQ2MtXzVidmFOM3M5NA?oc=5
+
+3. Oil Transport Costs Remain High as Middle East Crude Flows Recover _(JournalArta · +1 similar)_
+   https://news.google.com/rss/articles/CBMigwFBVV95cUxOWldPZC1PTGJUUjR6Y2dLRWUtNk9takJlVGJVdThzel9fbXRfd3NGVkcwQmMxNmEtLVdCZm5GMGlaUDBxNkNpc2JSRExJUTY3UEo3c3N5aWx1d1VkQjBQR1ZpRzN5cjlXeUphN0hXeU9zalBlR3dOR3pVVG1aamFWQUhpaw?oc=5
+
+4. Upper House poll ruled in 'state of unconstitutionality' _(NHKニュース)_
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5UWJPOVVZOEJWb3VJUEZKR1FkSkVBTWJsV0JIcVhjLV9yeXZHQVdSdWZpdWNlTEw0ck5PdmhOaDFZNVJwc1lXVXQyMWJRY3NibG1SbUJvM1NuR090NzVwX2FVMA?oc=5
+
+5. Nvidia stock gets a rare Wall Street downgrade on supply issues _(Investing.com)_
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxQUTl3Ymh6eWZpZXZFN1VVZHlMTlZqSGhmaEZMckt2QVBzbTdOWHAwbmtNTDJ2bjJtMFJHUnV6VW82TUZzVmF2dnJEY3lObmxjcjVTUW0ySXRwN0FBSnAtRFBGMmliQXJfbnZ3TjFCZ1JBUExpTWRrY0Y3WEZtTEZMakszUEtPSFhEZW1XdllRNFprTWtDV2tyamE2TkFhV3hzcEtOUXNiV1hWNXF2WGN1cGdXbGJKbEFBTVA0bg?oc=5
+
+6. Iraq probes oil smuggling claims against Iran-backed factions in Jurf Al-Sakhr _(The New Arab)_
+   https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUVrWUJjeUNNQWVVZ3M5QUF0MzREVWkxNkFjSHZVNlpVQzh6UEhhbExUTlZxRDV5cUhwaXFBZWZXUDZSMFNwc3J2Sl8wMXRrN2hCUU5NX2hBcnMyVjRsbHdzWktZbVp3YVR0ZVpBa1NZX3lrN2djd0ZiNDhGcHdKbF9tQlJsN1M3eHBpRnpvRG45R1Bk?oc=5
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
