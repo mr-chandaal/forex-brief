@@ -1,237 +1,254 @@
 *FX • Gold • Oil Brief* | WEEKLY EDITION — review & week ahead
-Sunday, 08 November 2026 • 12:55 PM NPT
+Sunday, 15 November 2026 • 12:59 PM NPT
 
 *📊 Week in review — prices* (weekly change)
-DXY: 102.28 +0.39% (wk range 101.10–102.36)
-EUR/USD: 1.1143 -0.36% (wk range 1.1133–1.1275)
-GBP/USD: 1.3356 -0.17% (wk range 1.3344–1.3502)
-USD/JPY: 158.43 +0.47% (wk range 157.42–158.65)
-AUD/USD: 0.6868 -2.29% (wk range 0.6855–0.7024)
-NZD/USD: 0.5548 -1.37% (wk range 0.5529–0.5658)
-USD/CAD: 1.4128 +1.13% (wk range 1.3930–1.4128)
-USD/CHF: 0.8200 -0.44% (wk range 0.8129–0.8253)
-EUR/JPY: 176.34 +0.24% (wk range 176.19–178.46)
-GBP/JPY: 211.55 +0.23% (wk range 211.34–213.75)
-AUD/JPY: 108.79 -1.82% (wk range 108.25–111.30)
-NZD/JPY: 87.88 -0.89% (wk range 87.55–89.39)
-Gold: 4,074.9 +4.51% (wk range 3,889.0–4,155.8)
-Silver: 51.94 +5.79% (wk range 48.55–52.95)
-WTI: 90.83 -12.76% (wk range 86.65–102.75)
-Brent: 98.32 -16.42% (wk range 93.40–112.38)
-US 10Y %: 4.859 -1.42% (wk range 4.814–4.968)
-S&P 500: 7,377 -2.68% (wk range 7,350–7,716)
-VIX: 25.64 +32.03% (wk range 16.57–28.36)
+DXY: 103.41 +1.09% (wk range 101.49–103.44)
+EUR/USD: 1.1028 -1.78% (wk range 1.1027–1.1251)
+GBP/USD: 1.3212 -1.11% (wk range 1.3209–1.3459)
+USD/JPY: 159.69 +1.39% (wk range 157.85–160.18)
+AUD/USD: 0.6774 -1.38% (wk range 0.6773–0.6930)
+NZD/USD: 0.5525 -0.60% (wk range 0.5524–0.5650)
+USD/CAD: 1.4269 +1.06% (wk range 1.4104–1.4271)
+USD/CHF: 0.8382 +2.28% (wk range 0.8174–0.8392)
+EUR/JPY: 175.99 -0.47% (wk range 176.26–177.70)
+GBP/JPY: 210.97 -0.43% (wk range 211.26–212.62)
+AUD/JPY: 108.14 -0.92% (wk range 108.25–109.55)
+NZD/JPY: 88.20 +0.11% (wk range 87.90–89.21)
+Gold: 3,886.3 -4.63% (wk range 3,856.7–4,157.7)
+Silver: 49.12 -5.18% (wk range 48.40–53.21)
+WTI: 88.56 -2.50% (wk range 83.88–91.42)
+Brent: 95.84 -2.52% (wk range 89.15–98.42)
+US 10Y %: 5.154 +6.07% (wk range 4.831–5.174)
+S&P 500: 7,562 +2.51% (wk range 7,422–7,653)
+VIX: 19.30 -24.73% (wk range 17.33–25.08)
 
 *🧭 Review & outlook*
 Week in review – USD & majors:
-The US Dollar Index gained +0.39% to 102.28, supported by strong US payrolls that prompted Fed policymakers to consider rate hikes while extreme euro shorts met dollar strength. USD/CAD led dollar gains (+1.13%), AUD/USD was the weakest major (-2.29%), and USD/CHF proved most resilient (-0.44%). European markets digested ECB leadership developments between Knot and De Cos as Lagarde warned that inflation is likely to stay high.
+The US dollar advanced as the DXY gained +1.09% to 103.41, supported by rising Treasury yields and hawkish Fed signals. Central-bank rhetoric was dominated by Fed officials advocating for inflation-guided rate hikes, while Bank of England policymakers stressed the need for further tightening to tackle inflation. USD/CHF was the top gainer among the majors with a +2.28% rise, accompanied by USD/JPY (+1.39%) and USD/CAD (+1.06%). EUR/USD was the weakest pair, falling -1.78%, alongside losses in AUD/USD (-1.38%) and GBP/USD (-1.11%).
 
 Week in review – Gold:
-Gold gained +4.51% to finish at 4,074.9, holding above $4,000 despite a strong jobs beat and Goldman lowering its price forecast on a hawkish Fed shift. Bullion found support from US-Iran conflict developments and post-midterms market volatility.
+Gold tumbled -4.63% to close at 3,886.3, weighed down by climbing Fed rate-hike expectations and GLD ETF outflows. The metal experienced its worst week in months as dollar strength prompted major banks to downgrade their price forecasts.
 
 Week in review – Oil:
-Crude plunged as Brent fell -16.42% to 98.32 and WTI lost -12.76% to 90.83 after the US eased Russia oil sanctions to tame prices and markets weighed Middle East settlement prospects. The sell-off unfolded despite US strikes on Iran's Kharg Island, Strait of Hormuz tanker fires, and Iraq requesting an increased OPEC quota.
+WTI declined -2.50% to 88.56 and Brent dropped -2.52% to 95.84, trading within weekly ranges of 83.88–91.42 and 89.15–98.42 respectively. Energy prices fell despite regional disruptions, including reports of tankers hitting mines in the Strait of Hormuz and Saudi intercepts of missiles and drones.
 
 Week in review – Risk mood:
-Equities tumbled as the S&P 500 dropped -2.68% to 7,377 and the VIX surged +32.03% to 25.64 on AI concerns and post-election market routs. US 10-year Treasury yields fell -1.42% over the week to 4.859%.
+Equities posted gains as the S&P 500 rose +2.51% to 7,562 while the VIX plunged -24.73% to 19.30. Concurrently, US 10-year yields logged steep weekly spikes, jumping +6.07% to settle at 5.154%.
 
 Week in review – Political risk:
-The US midterm elections drove cross-asset swings across equities, yields, and currencies. Geopolitical tensions escalated through US strikes on Iran's Kharg Island and tanker fires in Hormuz, though crude dropped on temporary US-Russia sanctions relief.
+Geopolitical focus remained on the Middle East after Iran reported tankers caught fire from mines in the Strait of Hormuz and Saudi forces intercepted missiles headed toward Riyadh. These security flashpoints fueled ongoing regional conflict concerns across energy supply corridors.
 
 Week ahead – Key events:
-Monday 09 Nov: GBP BOE Gov Bailey Speaks - guides Sterling expectations amid UK inflation pressures.
-Tuesday 10 Nov: USD CPI m/m - core inflation reading shaping Fed rate hike expectations and the dollar.
-Thursday 12 Nov: GBP Prelim GDP q/q - gauges UK economic momentum and policy flexibility.
-Thursday 12 Nov: USD Unemployment Claims - tests labor strength following the payrolls beat.
-Friday 13 Nov: EUR ECB President Lagarde Speaks - sets eurozone monetary tone amid sticky inflation warnings.
-Friday 13 Nov: USD PPI m/m - signals wholesale pipeline price pressures for Fed policy.
+- Monday 16 Nov: CAD CPI (m/m and median/trimmed y/y) and a speech by Fed Chairman Warsh, providing key inflation readings for Canada and policy signals for the USD.
+- Tuesday 17 Nov: USD Retail Sales m/m, crucial for measuring consumer demand under higher rate expectations.
+- Wednesday 18 Nov: GBP CPI y/y alongside remarks from BOE Governor Bailey, testing the case for further Bank of England rate increases.
+- Thursday 19 Nov: USD FOMC Meeting Minutes, offering detail on Fed rate-hike debates and inflation assessments.
+- Thursday 19 Nov: AUD Employment Change and Unemployment Rate, guiding RBA policy expectations following Governor Bullock's address.
 
 Week ahead – Political events:
-Middle East conflict: Strikes on Iranian sites and Hormuz disruptions channel into crude risk premiums and safe-haven gold demand.
-US-Russia oil deal: Eased sanctions on Russian oil channel directly into crude price benchmarks and refining spreads.
-OPEC production requests: Iraq tapping OPEC for quota increases channels into global supply balances and energy pricing.
-COP31 summit: Climate conference channels into broader fossil fuel demand sentiment and electrification trends.
+- ASEAN Summit and planned Quad leaders' summit in Manila: market channel via APAC trade sentiment and regional currencies.
+- Strait of Hormuz tanker incidents and Middle East military conflict: market channel via crude supply risk premiums.
+- APEC meetings: market channel via global trade sentiment and cross-asset risk appetite.
 
 Week ahead – Themes & risks:
-FX: US CPI will dictate whether USD/JPY tests 160 or if EUR/USD tests its multi-week lows.
-Gold: XAU/USD balances hawkish Fed rate expectations against supportive geopolitical tensions.
-Oil: Crude faces heightened volatility between Middle East supply risks and downside pressure from eased Russian sanctions.
+- FX: USD strength versus G10 pairs following US Retail Sales, FOMC minutes, and speeches from Fed Chairman Warsh and BOE Governor Bailey.
+- Gold: Potential tests of the 3,856.7 weekly low against elevated US 10-year Treasury yields and continued ETF outflows.
+- Oil: Strait of Hormuz naval security and tanker mine threats balancing against market consolidation between Brent $91 and $98 levels.
 
 *🗓️ Coming week — high & medium-impact events (NPT)*
-_Monday 09 Nov_
-🟠 11:10 PM — GBP BOE Gov Bailey Speaks
+_Monday 16 Nov_
+🔴⚡ 07:15 PM — CAD CPI m/m (exp. 0.3%, prev. 0.1%)
+🔴⚡ 07:15 PM — CAD Median CPI y/y (exp. 2.0%, prev. 1.9%)
+🔴⚡ 07:15 PM — CAD Trimmed CPI y/y (exp. 1.9%, prev. 1.8%)
+🟠 07:15 PM — CAD Common CPI y/y (exp. 2.5%, prev. 2.4%)
+🔴 10:45 PM — USD Fed Chairman Warsh Speaks
 
-_Tuesday 10 Nov_
-🟠 02:45 PM — USD FOMC Member Waller Speaks
-🔴⚡ 07:15 PM — USD CPI m/m (exp. 0.3%, prev. 0.6%)
-🔴⚡ 07:15 PM — USD Core CPI m/m (exp. 0.2%, prev. 0.3%)
+_Tuesday 17 Nov_
+🔴 04:35 AM — AUD RBA Gov Bullock Speaks
+🔴 07:45 AM — NZD Inflation Expectations q/q (exp. –, prev. 2.34%)
+🟠 12:45 PM — GBP Average Earnings Index 3m/y (exp. 3.5%, prev. 3.7%)
+🔴 07:15 PM — USD Core Retail Sales m/m (exp. 0.4%, prev. 0.9%)
+🔴 07:15 PM — USD Retail Sales m/m (exp. 0.2%, prev. 0.8%)
 
-_Thursday 12 Nov_
-🔴 12:45 PM — GBP GDP m/m (exp. 0.0%, prev. 0.1%)
-🟠 12:45 PM — GBP Prelim GDP q/q (exp. 0.7%, prev. 0.5%)
-🟠 07:15 PM — USD Unemployment Claims (exp. 194K, prev. 189K)
+_Wednesday 18 Nov_
+🟠 06:15 AM — AUD Wage Price Index q/q (exp. 0.9%, prev. 0.8%)
+🔴⚡ 12:45 PM — GBP CPI y/y (exp. 3.6%, prev. 3.5%)
+🔴 01:15 PM — GBP BOE Gov Bailey Speaks
+🟠 02:45 PM — EUR ECB Financial Stability Review
+🟠 08:10 PM — EUR ECB President Lagarde Speaks
+🔴 08:45 PM — GBP BOE Gov Bailey Speaks
+🟠 11:45 PM — NZD RBNZ Gov Breman Speaks
 
-_Friday 13 Nov_
-🟠 01:15 AM — EUR ECB President Lagarde Speaks
-🔴 07:15 PM — USD Core PPI m/m (exp. 0.3%, prev. 0.7%)
-🔴 07:15 PM — USD PPI m/m (exp. 0.4%, prev. 1.3%)
+_Thursday 19 Nov_
+🔴⚡ 12:45 AM — USD FOMC Meeting Minutes
+🔴 06:15 AM — AUD Unemployment Rate (exp. 4.7%, prev. 4.7%)
+🔴⚡ 06:15 AM — AUD Employment Change (exp. 25.2K, prev. -39.3K)
+🟠 07:15 PM — EUR ECB President Lagarde Speaks
+🟠 07:15 PM — USD Philly Fed Manufacturing Index (exp. 19.2, prev. 20.9)
+🟠 07:15 PM — USD Unemployment Claims (exp. 199K, prev. 200K)
+
+_Friday 20 Nov_
+🟠 12:45 PM — GBP Retail Sales m/m (exp. 0.0%, prev. -0.4%)
+🟠 02:00 PM — EUR ECB President Lagarde Speaks
+🟠 07:10 PM — USD FOMC Member Waller Speaks
+🟠 08:45 PM — USD Revised UoM Consumer Sentiment (exp. 52.1, prev. 51.0)
+🟠 08:45 PM — USD Revised UoM Inflation Expectations (exp. –, prev. 4.3%)
 
 *💱 FX & central banks — this week*
-1. Sun · Dutchman and Spaniard in two-horse race for ECB presidency _(The Japan Times)_
-   https://news.google.com/rss/articles/CBMiigFBVV95cUxPYXlTNlM2emtZcGxIOUt6Z2VxUWduV3BpWHkzLTU5dGNldXFSb3JJUktVWHV2eDJ2ajVTcjQyT2h2YTdDWWRoLUFfOTBHbk94Rk1lQkpoeFBBUUVoMmQ3RU1NWDNhX01tNTBQOW4zT2QxUlk3SWJCX3g0TUJnMHFQTjUtT0VYWHZxUEE?oc=5
+1. Sun · Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province _(investing.com)_
+   https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639
 
-2. Sun · Nasdaq 100 forecast: Tech stocks rebound but AI concerns linger _(FOREX.com)_
-   https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGxDYVNQUGFRdmtuRTBuaEVnV0tSSTlVUnp5anBFNE5jYWVqRkE3VkFLclVzdGFmZDF0MkVMcHo1NTY1cncteGtNLTRqM3g1MkwwaUZTNmxKanhkZlZhS2N0TDdOdDdtZHRxZmxzX3laSkk1UFNsREJySlQxWEhzaGlzb054bGhkME5uMF9MdEk2T3hBM2ZUN1RSRDBYMWhZQmlnSkVQV3k2Zw?oc=5
+2. Sun · China's forex reserve requirement hike takes effect _(China Daily)_
+   https://news.google.com/rss/articles/CBMifkFVX3lxTE9MZER4TkdDWl9iSEg5WDlKV2FoRDR6MUFkZzFaVm01bERIS2xFV2E3S1pMNE45ODVSdXRqQVgwZmJHZTJhUzNoRy1jWjRTUUVTN2JQMndwQzdJbno1dmZlWlNzWU5URVpSVko1M0xROXlfM1JnX2hwRWZ1QmF2UQ?oc=5
 
-3. Sat · ECB’s Lagarde Says Inflation Likely to Stay High in Near Future _(Bloomberg.com · +1 similar)_
-   https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjNxNHB3bnV6QkhJdWVmNHZpeTVVUVVqRG5vV0MwdHVzdE41TWtFd2lJcGlLNTh3ZzhDZ2tFQkVOakVkcm5xcndlanN1UnIyQ3V1bnVPZldQSW11OVFfWjZuMFZfS192bmVNLUR0cl8waHFuZ1hmWUdQNlpKc0xuVXl5MGF6aHVJVXh0ckhSQmJiOFBzTDViQTR0NmlKNmhzNFhNa2xvS2VqbDRyWWRybW1jN3o?oc=5
+3. Sun · Federal Reserve Warns of AI-Driven Stock Overvaluation, Debt Surge _(조선일보)_
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTB2YzlHWlA4UHJ1d19RQ0lkaU1MbTVKdGE4UTFKZWpZaVN6ZmRWNnVSQl85aVdZNVN6bDdGZl9RaVhHT3Zsa2FEbElFZjdfUGpJQTFJeWNZNUNOaW5zM0tuQUlxV3p1SjFlN3dHeEdtbDB3bDg3NXZ4VFRTVXRiYUk3UEtxX05GRDBiT21R?oc=5
 
-4. Sat · Chris Tuten joins Florida Forestry Association team _(ECB Publishing, Inc.)_
-   https://news.google.com/rss/articles/CBMihAFBVV95cUxNWk5uYTBmU2ZFcDk2MzJLdkhBeXhwaEdXaTFQc3ZWRU9LYUJ5SXpsM25YUGUzUllQSk4wY2Nkc053NFIxcnhtcnM0MEhsejZHLUR0clQ1ODdJMTR1NkdlVmp4MWg0Tk5jZGNJY1lXbjlFUGhXb2dJLVBoeGZuaGZuNTJRZzA?oc=5
+4. Sun · BOE’s Case to Raise Rates Again May Strengthen on UK Price Data _(Bloomberg.com)_
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTVWYmlSSkRLUWpBSHctZE9JWHZQVHhpNnFLellld3NXYzJiVl92VmpBWEViTHBhVEd1dGlyYTdFSXdOSTdfWWJGLVVsNXg5NEQ4S3RSZlhzR0hiUmRQTmpnR1lPU3BVMjZBNVZ1RmFQRmN2Q0I4WGtqdDlNM202dFJFZmMyRjhicXdnR1U3c3QtUUJpeFFwNVFfQ2Y1QzZvT2NLeXVla2hpRDg0R3d5WDBxVjQ?oc=5
 
-5. Sat · Opinion | Trump just lost his ability to take control of this part of the U.S. economy _(MS NOW)_
-   https://news.google.com/rss/articles/CBMic0FVX3lxTE5kYzJ3ZC1VSWVqby1jNVNvblBOZTNfWk5XNG1TZXVVTFB4TkVON3kzS3NaTnVYVFExX1U1LUJtT05KWmxPQ1dsSk9kX0pfY0ZMaFBtc25VODZ0bFNhanV1SEpEelRmMzJzTHpwUXJRNVllRk0?oc=5
+5. Sat · Further interest rate rises needed to tackle inflation, Bank of England’s chief economist says _(The Independent · +1 similar)_
+   https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSksyY1A5YkdBVzhxUXJhZXc4aWNvWHptYjBteXZ3SklIclJpVTI1czVaejRMU3JBNUlXN3hHT3F2N3NYWTQ1eHRBQlNESXBLRmlvaUl1UnFhMWRxMXM4SF9nUU90aEstcUNGZzNuRkdERGJLYzZzai0wbU93SW5lM2VGSnA5bkVfRndwMEIwb0FIcXpOQl9WVHhyWUxXYkZ5eFdLa3MwRzhoMGFSY1BqZ3JXWWstWi1u?oc=5
 
-6. Sat · Knot and De Cos Are the Only Two Candidates for ECB President _(Bloomberg.com)_
-   https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhsT3F5U3JXeGxsRmJOSGNMMndFRUVQbmVsMzJaa0FxVHJkc2xCYzh3SnM2Zl90NVJMQWoyVEpWcHBQMDNJblpTM1pFdXBZZjNwRDZhZkpMdE5nbS10X3ZaUlR0N2pTd1lmSzFXUUdWbVphOHNXZktKaEE5bVZ4ZThTT3dDTTNFSGtzRS0zczQ5Y3FmN29WOHB4REpLU0ZubU1OcFl5ZlduclVhSXRGNkZB?oc=5
+6. Sat · Keep your car festive through all the holidays _(ECB Publishing, Inc.)_
+   https://news.google.com/rss/articles/CBMifkFVX3lxTE5wem41eWN5bDVPY1BYaTJYQnpXNXl2TUlKOW1IX1NzSjJzU2x0LXhVYUhWUXNNNDlkdlNuazRKNXE1TEJWZG5ydXNlM21jdWRRbGJkcDBqRUY1SHVnRjdqbEZfWUZ4am1WQkpqWTFKbXRONkJVTEJPVDRLajZUZw?oc=5
 
-7. Sat · President Donald Trump Just Proclaimed That "Inflation Is Way Down," but Federal Reserve Economists Have a Different Take _(The Motley Fool)_
-   https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB?oc=5
+7. Sat · Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate _(Bloomberg.com)_
+   https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmxPcmNNS1JISWxpNy11VFVWNUZsdi13QmZIZDNmT0Npcno0S1JMYzJtRnlqckY4bGU5U3JlczcyeVJTYzZhRlpWeDBkeTR0TGw3Q2VHRzNCYUM3eUZQVHdPUmUxOXd6NnJMSnZSS01EUjFSdTJIeFhXNlc5cThsNXdMZnRzODZMLWNiR0N5QVR5RWFhMzFwUUxPYlYxOWxDTi0yOEg5ZjdLVlk?oc=5
 
-8. Sat · Extreme Euro Shorts Meet Renewed US Dollar Strength | COT Report _(FOREX.com)_
-   https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnFYajN5dFZhWDJtTlBHUlBfcVFxeThpQzFNZ21lYkVLZndINXE1bHhNVlJ4bHBsUnB3UHljcVA4TTNkcG9nQVdweEFWT0lxTUdaMDloTmJoeFpBQ2Z5X0IzWVVyaFJtZW44Y2FWS2dUdXZVeE1VMlZpeUNBMnZjZF9nWi1SQi1mSjlzckJfOVRFakZaeEgyZG5ZUF9YZEFqdmFaYzdrdzBySk84aFHSAboBQVVfeXFMTjFMYmt2Q1FFNVVxdzBqUEw5UDFJckp6WmJfWEJEWHRIWDB2bkxPamtQanc0emE1WlRPaU1VdUY4MGxYOHV6ZkxaOE1GakpyUGlIZ0g4dzFkLWJ4cG1ERFNEVlliMnA4X043T1VjbnpGemRuRUtUcWcwQlB1cHktU2pFWU9IemdKT1dhT0UyS0piMDEtRVliaUZJOUx5TkVYaVdBcHdxWW16M1FiX2VuUmhBZndONkZWN2J3?oc=5
+8. Sat · BoE's Greene says acting proactively now on inflation would 'screw' things up the least _(Reuters)_
+   https://news.google.com/rss/articles/CBMiygFBVV95cUxNM0szVHlEQVpiTXpBWkZXclIxQ0ZXaDdjQnhSdlZVdUt1N0ZXUjdLaXo5a3Y2TG10a3p5d2w0czgwSGcxTjl6a2ZnR0Znd0hrc0dDajZDV21ZX2tDcnRScUswd29RWlFRSl9PNTJjRzVRd2JyT0Z5NHp4ZWhSdDg2b2d1Z1RmNTJMLWZKM0g4NE4xYTlIYzYxNTR2V0NoWE5wenhxXzM0UzBBQXhCV0RaMTdXQXJKeThRTHItZU9kZWpQT0F6cVdZMWl3?oc=5
 
-9. Sat · Post-Midterms Market Rout Spreads to Europe Ahead of ECB Decisions _(Bloomberg.com)_
-   https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlY5Y1B4NlVGNGVXRC0xRHJ2ckFVc0VTb29zNUJkY01YMGZGNkwzNzVDdWhWYnZnUWNnc1AxVWN6dGJmZTcwOWFHUUlGMUNxSWVNbVdfOFBQTlQwcC1pRTFWWUZXTy1WTTlmRllZX01ic1FUVWZiclpIejNadnNfZHNDdkJBVTh2OUNrSkpJS01Bcks3LVFtYnlHYk12aG9KS0hEc1l1QnNBaVBqd0Jvdy1fQUM4eUxHTkZJQg?oc=5
+9. Sat · BOE likely to raise rates further in 2027, Pill tells FT _(Reuters · +1 similar)_
+   https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2ducEF3N0xMWVJrb1FlVXpqcEZURldrX0dKNUZlWHI1akMtZmNyNTQtUkNCc3AxSVY4b09hY0QtM3J2QVdpWmE2TXdidUZOcDFBa0JfSFpndWlKUzFqZjFlN1V5MW5XckNHcVF1M1J2NGNvSHRqOGpGMU92Z2dsSU1fNTZIdnJSMXg2cmVfMU5Jd01sVDBsUGp3?oc=5
 
-10. Sat · The concentration of AI spending _(CEPR)_
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xNGRaZVAwaEVoQU9PX19GbnNCWHRIY016Uzh1SzRrRzA3NXd5RWZ0Qlp5NzRKdVI0NE1sNFpnSjR2bzhHeFFybWxERWxid1lXXzRvTThkcFNJRlhzMjlwMlZJX01pYUE?oc=5
+10. Sat · MSD: U.S. Dollar-Heavy Portfolio Likely To Weigh On Returns (Downgrade) _(Seeking Alpha)_
+   https://news.google.com/rss/articles/CBMingFBVV95cUxNM1lvNjZCeWI4cGpBVFl2cElTMk14ZDg2cExEc2VwU0NZckNKdkNqMFZWMzlFam1SMDF4eFg5S210eHEweGhEMlRONWZVcmQ2a21fQ1pGUS1oTk9ZcDlCVTh6emJDR3ZfQmJHRmE4eGRKRTlYb1Q4VWFwU0p2b3FSckNHSzZMTk41NmVTSDI0T01BdlFjXy1IUGhMZms2dw?oc=5
 
 *🥇 Gold — this week*
-1. Sun · Bullion may remain under pressure as markets track US-Iran war, inflation _(Business Standard)_
-   https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2xDbjRHR19fS3lpV3FKNnNVSmYtdk4tYVVSSFJvb1lTeTJPTlNJOWJqV3ZfTmowbEZGUjBNSk9aV2JHbjMxRWtmbkhidHk2dlRkQzNoNzB4TDF1Z05WbFc2WkZWcHoxUzMtY1kzbmJtZHhRWnlhd0tfZ0tRWWN2NDZPQUU1SGgzVXlTbEV5dkFfSmNIVEVFRlJwejZMaEdmT2FlanlMLVhibzk5c2hWUndHd3lpWk11RUQtN2RkMzc1Z3JyNS1aZF9LNnhrTVdlV2pFNW4wWFU0Ync5MUpz0gHkAUFVX3lxTE9uRkhMRUloQ2hjYWMzUmZuaXVqa3dXcjFGUjZEbVFJVnNaWlUwS2kya3lubGpuOFdSLWdBQmYtNDNXZ3V5Q2hEdjVvRm5RSEQ0RWVVOWFncXdEdVNlSlp1ZFd4emVCTThjdExJZEtJMGhvSDlfQjZGSWdPWHZFUzFZcE1qaVVXVEh6SFZUUXZQVHJTMS1FUDlzTjVOQ3JCX3liQlNPR0hXQ21MOWttZTRQWS1XUmtqVml5VHE2bHZJRVE0NENKV3o4T3JJLUdtNjBxTXJRb2VvajZkVnFyNlFvVGtmQQ?oc=5
+1. Sun · Gold price today November 15th: End of week in red, experts forecast new week trends _(Laodong.vn · +1 similar)_
+   https://news.google.com/rss/articles/CBMi0AFBVV95cUxQODBmOHdaQXJJNWdRSFY1dm9jakRob3U2ZzgyTDhuTUdJS3RRME5xMW05QkpvaC0yNnBKejcxSHQzNUJVbnJ2OTRKWC1lWTRNa2E4TWVJVFJVQWZkWHdlWEZXSkJaUDM5cEx2TkZHcGRqUFByNnR0NHkxMmxNQWs5Y0lnYmdVUHJYOGlkeUM3cFpqNlozV2xpRi1la1FPRmRtMnBOdTQ5RWppbzEzSkN3WDBXM0pWMmRhNjhTbzFEZjN6VFlCcFRhTFU0eXd5SUUx?oc=5
 
-2. Sun · Gold, silver prices today, 8 Nov: Check Diwali 2026 retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Bangalore _(Livemint · +5 similar)_
-   https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUlGNUtYNXdDX2ptQk1VQTEyOTRaTnVaT2hXNTFCVi1UaDVDdHkxVzE0NE4zMV94emxQTFV4R0hxM2pKclpzWlRCYjd0V1dWTVY2WnlkbXVidkc2X2ZfRjJFNGZnZy1TVXRNNkRCa2tvTm5vVlB2X0pPRjRkZUVOX2ZJQ1Z2NGJoVTJqT3RsNDBDMGZrZlpEVU5BVnhjaERmdTZoZkRuS3F2UTY3R3BNSElZWHFjNk5BeVU0YTUwamRxQWx1NEVZLUFZOVoyNERvc0tSeDY5NE5yY29RNG10RXhYaUdYY05WdWdVRl9NODh4NUd5THFwUWZteG9rS1HSAYQCQVVfeXFMT1hpS3BITGRzMFlJYWhZeUhYNV9VcGN0QTdUWVlHUmdZNGVSU0FzaWwzZmsweUNpU1drNS10ZnZxUTJ3WGl6ajd3QWt1MHdyRE1aWmJldS1nYWREdGp0WDE0TEhiMUItY2JLcFRvZkpqdTZHU19yWmtwQ3VoeUJ5SlF1TW1qb28xSmQxVEpsUGN5TnNzbDNlaWVxV1djVmZZOGpleS1zVHdKZmFXVWpNMzV5MkUzV0J0empuT2hSWXFCbkkzUzUtdzMzWTlrV3FiUUwzNTZYend1R3ZGVTBrTnhQdC1ydGxGekQxVWRNY1hUTDZTWmkzbkJ4bzc1Y0M3N3BGZXg?oc=5
+2. Sun · Gold Price – Today’s Chart – Historical Data – Outlook _(thebull.com.au)_
+   https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGczUWdqT2loTW9IaEhCeWxuSHE2OXQwTm9mUTRFVHBDZmlWQWx3WE1STVotaVJhUzk1LU5nY05SX0pBRXdEZzU2MmtteWJSMFRVWGNLSTFUaUpOWFIxdENMd0pxbFM4VVMtWmN5cXVFQUZzUGRDb1BjR19Tdlc1WVBMWQ?oc=5
 
-3. Sun · Lao Bullion Bank joins Japan Bullion Market Association _(The Star)_
-   https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0EyNThDMzFxcXhDaWZicEU2MEVMYzJoa1ZwZndoaVRvMmQ3Q240ME00TlU5WGdkNlhwWGx5Ny1xc2NISGJvS1UycllaZTVVSnNwWTN2STcxUVFlY0lHOVMtMDZxVWcwaHdiMFNNR2pabXlmTXA1aTNZMXlsV3RzekFDZDhGSGx3Nk9pXzY4MFlDNlpPS2liaHg2OGE5VkVSakx6anFzcU9UZlVSZzZJZUZraWpPNmtGUVE?oc=5
+3. Sun · Gold price update morning of November 15th: Week of strong fluctuations, hitting bottom after more than 1 year _(Laodong.vn)_
+   https://news.google.com/rss/articles/CBMivgFBVV95cUxPQllPRVRMUEhzM08yNmxjN3lCZ1hKUHltakx3OW1UbkJZT24yRk8yNDdiNUJFNFRfQnFUM2dzQVlNaEtvUkwxcTNzWVZRdlhuOGZDY2tLN3o1M3VxN2xhYjAyX1Q1N1pLSnhNUUpTY3VUaldNNXM5TVFzQWVQcWc5Q2dxb3lnbTh4a2tMeWdIM0x2WmttaWtROXc2MDZ2VktyVDJfaDBSOHdxWTJ1RnNqUElMam9sdEQ4VUJTVlhn?oc=5
 
-4. Sun · Gold’s price tells one story, ETF flows tell another _(Mining.com.au)_
-   https://news.google.com/rss/articles/CBMifkFVX3lxTE4wY2pNX2V4LVlMUFA3bXI2RVhMWXYtdTJtb095aDJGWWhhVnhFcUhOdVF3TkdzZzh0aDhXbzRHa3hKZF9GdmZfb2JaazMwUjZNZWU3aHoxUHNxNnNrcTVZYXFJeWZMX1lJc0w4Vi1EaUd4NnpENHlqbVpEU0FSQQ?oc=5
+4. Sat · Gold price drops again by Tk 2,217 _(New Age BD · +2 similar)_
+   https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGZOQ1VCUEkxMmNmTnhOdHR4YzQ0NmtPUXpEMGM2ZFNlUjFwUUtfX2JLUWhyejVCY2c1c2RqU3hwbUVHT3BzSHVfNzZWLWdyajRidzZPSFZmdVM5UmE4NklQNWxEaEhXZVlYeHZoLVBHRG1VY1JNYndPNDdkektIaEMwczNHQ0ZaaHFKTkIycXppam42?oc=5
 
-5. Sun · Why gold is losing its shine: Goldman breaks down the recent sell-off _(investing.com)_
-   https://www.investing.com/news/commodities-news/why-gold-is-losing-its-shine-goldman-breaks-down-the-recent-selloff-5010022
+5. Sat · Bullion Cues: Bears hold sway _(BusinessLine)_
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkhLelBHcUt6TFQ2eVhMZFBJa2VzZ2R5ellpSFl3bXF1N2wxTnhPSE9RQ3FPT0lSNHR4TXpCNkhBTHJwVDNYcmJLWFdLdy1Ebl9RY0M2N1NLVFh4bFduQWFoV3YwLXdpd0dNalQyNi02MVVRSUtmUjB3N3Jncmt3UHRVQ3J2ZnNrT21uMGRYRmNWSFk5N1NQemNwbXpxemVrcGI3Y3oxNEUxSDZ3eGV0aEZOTjTSAbsBQVVfeXFMTW9HVXNQMnNVdkNzRldNNGE0akk3MGw2d1hCelMyRUJGMy1Kd2p0YVAtc0Vmek5EcC1Wa0p1eG5tWjQ0ZzNSWkpGR090d0pEUFJoWHRoY1dCa090SHFLNW50dU5LbjZncm9yaW14NlB2VWlVQS00bTJ3UjE0NzJ1UDhyOG16aE1GWFdheE1URVhacXVFeF9IbzZzbDU2VGVUVkN0THdfZHc1OE5qY2U4SkZ0UjdFQVlKTHhxUQ?oc=5
 
-6. Sat · Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data _(FOREX.com · +1 similar)_
-   https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3F0eEpPdmd4NmRjNFZ2MVJNaHRhVE1GM29XbjJRLV9WV1JCTkRyX0hPTkVJVXJ6dnkxWkZiTHF4YTBzMlJ6X3RoM0xqLTZFSkFudzZUV3Z1QlBSWVhTOWJzSnNZU210dVVMcHZOd2hqMXpBaG43RzV5RkwxZFNrYzZrY3djUGhRc0lmUmlZMGsxOUtMamtOb3h1U1lXQXhrMmluaXlKbWYtZk1QTXJmTzZyYVhQQWl4SkY0eg?oc=5
+6. Sat · Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build _(Benzinga)_
+   https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSGM3TWZaYlNGVlJHRnV4OXNWNG5iWU9SN3hQYzRibnprTldmMU9oVXlwYVBXWWlfSTd3MXZsMXFZZGw2Ui05Y0xxTGVqRUhLSThyUWg3RDA2LU1SUFVxRVR4OWVWN0lZQmRMbjBRWXpQdTc5UzhMVDRRTHdxVGVINGhwRzdzS1hhQS1IaWxnYTZYN1NDRGRfN3NEVWhlclRRY2VfQ0Q4SDlGVnUxa0NDWEdfbVJWQXY1dGFDN3VYaTNYOEliTFl2SFRyZ2dLYVF4YlE?oc=5
 
-7. Sat · James David Bullion _(Brownwood News)_
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE1taXZoQmo4cmZVT0k2YnRmUE5rWEdHdm91dFNNeFl0ZFZGaVRXTzVDcG5jZ1Q2UUVMTldSMkNUN0U0ZzA3MkVUZjZvVl9OWEVidTNpemlxRGJnMlpaa0VwSFNlLVZqWUg0anZFc1Fn?oc=5
+7. Sat · Gold price at the close of the session on November 14: Gold rings sharply decrease _(Laodong.vn)_
+   https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHRtV0hTaW1NUE9teWVlYUVvVU1zdlNKZzR2T01YNmdYVkJBMDJuQkQzS3k1Y0owQXFGeUtueUhZT1RXdnpqcWZjYlI4eHAtSkt0Mm54YWx5QUNKQnluNjdqYUFXOGVtc3hoVlBQeXhyVEhWRWhaV3lOY21XOFlFVEZJcmpnQndyazByTnNSWVBKa1pVckE?oc=5
 
-8. Sat · Bullion Cues: Supports fuel a rebound _(BusinessLine)_
-   https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTh6VzdmM3JYcHAwd0w4RUdtYWJiUGx4Qy0tTXhuSHJzSGFaNGFPeVhJVzR0UUZUZmFERWlnZVVZb21tR1M3Njc0UzZpUHZjYkdrMWNlNkJGR1FlVVpwZGNtODhfOFpJMXZ4THVvaVE3ZnJGYmZyVjFDVVkzMFY5cDkyajQzTm5fRGFoREJoU1g0cjc5LVdYNzBQdG1mQ09sc3lvNFItYk43YjdyaUVCYXYxVmVMclZDamRCRUNvZ9IBxgFBVV95cUxQVmFzVnBPcGhYUUN1b3Z3eEVUcDFQZnFaTXRheXlXakE3aEtLWHh6V1B0YzdOMzF2VEx5QVFrRUhqQVdqRHdJeGVYQ0E1TERCdVoySUNPSy1fSnA0eDlGeE0yVGdoNzloc3NWVHpMUGlEM3BiWlJOc3ZJVkZONkNXdHhMaEpNZ2ZtMU80aG9ZOVRyWDRCNW1femd1UFJ6SDctbzVqRUhoM1IydldtNExaRTFmdXlsbjRVV1hXMjhiNl9rbi1DVEE?oc=5
+8. Sat · Goldman Sachs just slashed its 2027 gold forecast. Here are the new numbers _(investing.com)_
+   https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310
 
-9. Fri · Goldman lowers year-end gold price forecast on hawkish Fed shift _(Investing.com · +6 similar)_
-   https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5
+9. Sat · Gold price reverses at the last minute, the 3,900 USD/ounce mark is still challenging _(Laodong.vn)_
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEdoRDJ4UEJCS3VlU2x1bV9qTG9WLWptSDJRWnphdF9KcGNQSzd6cllCeTRJVzNDakFua210S2hjdVc5U0ozMW00NkpFSVd1WFFuLXpLX3VmVTNld1lSelVZa0EtVEhERkhQM0lrcjluQUwtMXBFazNQQ2daUF8wV0VITkhVUUdxeHV1VVJ2cHJ0RlNSdkRPeXRmVDZhN2dSQjVHZmZZNHZBMlJ4S2F4RGRR?oc=5
 
-10. Sat · Gold Price Forecasts Trimmed, As 2027 Outlook Continues To Shift _(TheBull.com.au)_
-   https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVNKWWh3dV8wT3hUUW9iaVRvaERKRGdjYnRCdzJPN01sVFdMQlJWTXU2LTg2cGFSQ0ZMTWdRYi1YbjM3bjNQY1pEUGRzN1JQVHV5SlM5WWZGYnlxU2Nfa19KQTFVV2xZamFBT18zWTR2QUN6WmZwNUxSLUh1U3NQekppNkhZNThEdjdTS1lQV003bVpuMEMw?oc=5
+10. Sat · International Gold Price Plunges 4.9% in a Single Week; Chinese Jewelry Prices Fall 77 Yuan per Gram in Four Days, Saving About 10,000 Yuan on a 20-Gram Gold Bracelet _(BigGo Finance)_
+   https://news.google.com/rss/articles/CBMidkFVX3lxTE43bGpDb0ZIaXBIb2hlVFN0VjktSzVkMHdTeVg3MkttdUk1X2hFcVFsRHZHTlRERlVxZVRoWXROdHVjYklXc2s1MWZNcC00U1pyOTV0M08xY2FiaG9oaEdaVnlmYWhjNDhRU01xNl82QmlHRVp2Tmc?oc=5
 
 *🛢️ Oil & energy — this week*
-1. Sun · Oklahoma’s Brent Venables gives Sooners props for rebounding after ‘blistering’ by South Carolina _(Yahoo Sports)_
-   https://news.google.com/rss/articles/CBMijwFBVV95cUxOZFJVamw1Rm01OFhEUzh0TmcyT0tUSnpBNEZmdFRwMlE4VDMweGVWeWxzTjI0dUxNODB2Z0EzMHhDalNtelZ4XzBmNDJLMHM3ckhSWENPRl9IdUhJZXJwUldVYzh6Q1JralBLY1BDSVoyR3dtX1B6RmpHamZBVm42dTRDSVZTQi1iaEwtbExhSQ?oc=5
+1. Sun · Montana State beats Northern Colorado as Brent Vigen sets win record _(CBS Sports)_
+   https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd2pHZWpiTkVtQ2dvUkEtbEI1N0N0NU9YVkdMYmRFaGpaUDR6M3pPZDQ3VWk5dnhUZVkzVW04ZWZZNUNnSnVGMzhSb0g0MG5QT2pzNnRZTzJpdnFHVldDVWFBemRnaUJzbHdJeU9FWkpQNVFsOGd4RVFldzhNYkliMWNwTzRtSnlLZ1VkdXIwT1FYUEowTGE5Wk9IZVA4NTBUaVQ3N2ZmQ2RTWF8zcERaSG14ZHdkdXRC?oc=5
 
-2. Sun · Iraq Taps OPEC to Increase Oil Production Quota _(Egypt Oil & Gas)_
-   https://news.google.com/rss/articles/CBMihAFBVV95cUxQaV8wS2dXNmszYVF0clY3OERCak5NaDBZTTVwODdiSnNIV09NZi1SQTlPQk10OTZSZWdndEFFdk5ORkNMNng2cUNic2RZVWVCVGdIbDBxeDBDSDE2WkQ0M25nQTBlZkpQWU13TXp5dW9xZWV3d0NtY3V6b2RnYmUtdzdqZko?oc=5
+2. Sun · Rob Gronkowski welcomes Brent Brennan as Arizona arrives _(Arizona Sports)_
+   https://news.google.com/rss/articles/CBMizAFBVV95cUxQanEwa3lmQmpWOXN3WFlEcm9sQ0NHdkVOcXBUQWd6dXd5ek1WZUpicnh1LWVMNGdXUnRmZlN1WDBqT2JhYS0zN1NBUTVCSmw4bWowTnRGcVZZSXpQbTR3QnA3SFM5ZWVybFBjZF9Fc3pyVVlWRmFZRTM1b1VWS0RzdXNCZjhxU1ZEUHB3emloUUVJQWlDTUhTaEFHTjdCWERWYjVMdlVSakRmMV9mNDdxREFVb3dmaUlSM19KSWp5b2NpT2NZRHZ4R09uUlo?oc=5
 
-3. Sun · OU football coach Brent Venables breaks down Sooners' win at Florida _(The Oklahoman)_
-   https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQkV1NnJhQzRBN01MN2dFSnF0LVQ1Sy15aGhYZGk3LUU5Yk10RWhnM2MzQ2d4Zld0X2Ewb0YwR2NQN1NPTkFwOS0xSGs3U0xjRy0tc1ZneDJQbnE2UERFWDJ0NWJ6M1R1TFlpalhJaU9MMWpibUNJb2g5R2pxdUZTcFZVQ1Z6ZzBINnlVRGFfS2ZlSU9ral96UHBENFJIMjFSdldRN0k2a2M2QkIzZk1LcWJ5X1dUVlBEMDNQSWVObEtjdDVRY0dSeXE0emUwYW1UZERQSGdWOUdMclI2ODlLTQ?oc=5
+3. Sun · Oklahoma, Brent Venables beat out Oregon for talented 4-star LB _(Yahoo Sports)_
+   https://news.google.com/rss/articles/CBMijAFBVV95cUxQcHZqRnVjSzk2THpYTGRKa3V4ZjlmaVhlVFhsSkVDVVFTVGNXMmFKY25wNnhYVXZjVnMtNWx4Y3pQcEJicWltMHQ5bXpkaGZfNF9VbE1ndlRzUEh1bEZ4dFhlTDJlUThTQ0doZ0taaDlHUGdxd1MxRXNiR2QyQW0xb3ZxM0dxUlpxcUxGMQ?oc=5
 
-4. Sun · Brent Vigen after Montana State’s 3-OT win at Idaho State _(Billings Gazette)_
-   https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUhfOEFYaUQ5Z0VBWDFaNlRGNGwzNjlCeW43YS1ESE03RlV1dS1NYU5tTWlsclhWZU5XSXF2dnBVUnpQWWUySXlFSE93Mk43eWlNNmJiSUs1RXliN0k1U3B1c3Y3QVBlMmhoYmN4WklvM1RxWGlReFJUR3U4U2tfOQ?oc=5
+4. Sun · Postgame Quotes that Matter From Brent Key After Georgia Tech's Win Over Clemson _(Sports Illustrated)_
+   https://news.google.com/rss/articles/CBMi2AFBVV95cUxON2VfRldwSURpMkE2ZldHX0RXeVcwTjZIc2puZzhrUFdrT3k2WXpDSDFpbm5UYW9aeU9JOHZRd1BBMzVvcmFYZmxiQ2NMdjM2VFk5YVI2Qkk5bHhWQ0NsN2psUlN0b1pVN0kzSExGOXZOZkFXZ01xbXhjQS1KY1dmSXV3YWF5dWJFQ2VqNFFCWHFfbDVCZ2RGaVlrVlJuM0xDYnNXWHNIYVlocGhOYU5tVVVIU090MTF4azA1OXZpRDZWblpkbDNaR2M2bnRsbzlGUzVnTFA1ckk?oc=5
 
-5. Sun · Wars May Spur Faster Electrification _(oilprice.com)_
-   The wars in Ukraine and the Middle East have prompted an increase in EV sales to avoid retail fuel inflation and gas demand destruction in favor of other power generation sources. With COP31 starting next week, some…
-   https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html
+5. Sun · France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive _(investingLive)_
+   https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1pKRXNsRjdPSVBDWmFidjU1SDZ2ZHFtNjdqa3NVbUc4bmVBUl9DX0poX19qSDdtbTNPOUVNWS1fTVVwVzZHSFFXTnphazc1RVpGNDBaSnFINmEzSGh3NzY4REpyQzV4aDVNRTc4YndCQkh4T2JweExXckVXN2hMd0xJSEowTGJYcEZtTXNTeDFOOW1jajRta0JERnd4TE0wdnJFdGJBS293bGRKSFA5V3pFWV9KZGxpUVpnVEwxaG1sUQ?oc=5
 
-6. Sun · The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It _(oilprice.com)_
-   Finland and the United States are exemplifying two opposing approaches to managing the mounting problem of spent nuclear fuel. Finland is about to open the world’s first permanent nuclear waste disposal facility. The…
-   https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html
+6. Sun · Michael Cunningham: Georgia Tech stuns Clemson as Brent Key earns redemption _(The Atlanta Journal-Constitution)_
+   https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFBiUVdjcXRXN0cyb3JxaTl1V2cxbXVma3R4VUFSdl8tUEdpYkRMTDU3VDlCS0lOeWU2OVlqQ2J1UEtiVlFSZ1NENTlvLUp1cjRIbE5RMWRjbUxBNGJkNFdqdmlZRmpSLVRhdEJqMDZlQ1I2d052WXNvZFYxVHM0bEszYkQ?oc=5
 
-7. Sun · W&T Offshore, Inc. (WTI) Seasonal Returns Chart - Yahoo Finance _(Yahoo! Finance Canada)_
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2ZGtqcGxiQnFybF84aFpLQmpBRVBmNm1vS25pTjd3S25xVXBsaHdFaGZkMHhHWTdkY3d3NGcwOEgzYWdmeGItQmRsNGRHRWx2Y2NucUJIWk5DYkJFMS1WUg?oc=5
+7. Sun · Electrifying Ambitions Meet Tough Reality in Europe _(oilprice.com)_
+   European Union leaders are among the most enthusiastic proponents of maximum electrification to reduce dependence on imported energy commodities. A lot of EU policy pursues precisely that. Yet EU electricity prices last…
+   https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html
 
-8. Sun · Egypt Eyes Billions in New Investment to Revive Oil and Gas Production _(oilprice.com)_
-   The Egyptian government is doubling down on its plans to accelerate the development of its oil and gas resources. Egypt now aims to achieve a production capacity of 6.6 billion cubic feet per day by 2027, supported by…
-   https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html
+8. Sun · Caitlin & Brent Bring "Nightcall" And Cinematic Strings To KEXP Live Session _(That Eric Alper)_
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTZrNlROeDUzWTNBTVhiV01qUmVhR0hTLThHUWRRTGR5b3BMdFd1b3l5d0F5bDRrTzZTZXlQMUlSM2pqTkpXQ1NsSWhvS1U2ZnhiT2t1dlBWT1pUUFBtbjMteVN1d0x5MHhIa2RCWHgxM1ZqVjcyYnRtU3ltYkdZSU4yMU9CMVB4RG5uWE90MGtHSlNoT1hES3BmaTV5OVF2NG1CalFXdnNVZVNkYy0zQjN1STc?oc=5
 
-9. Sun · DEP: Spill Of Just 1 Barrel Of Conventional Crude Oil From Storage Tanks In The City Of Warren Impacts 7 Miles Of Allegheny River _(PA Environment Digest Blog)_
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHdpQnB4eC1IdmZwZ01tWUVyTlVabnQyVnc2ekhzUnZDMHVRVHJLTHRvR0dOX2hwdmpDRW9mc1lwV3JlQWFqYnFDTHY1cWZVVUNqSVYyYjRhbmtyejJoRjFxVzBxUjN4UGs4aGhBWDljMVhsVFFFN0lUdWhtQVlmNTlPZFFjVjhp?oc=5
+9. Sun · Nvidia Without Huang: What a Pause in AI Deals Means for Metals _(oilprice.com)_
+   Copper slid to its lowest in almost four months on Friday and was heading for a fifth straight weekly loss, with traders blaming Nvidia’s (Nasdaq: NVDA) loss of Jensen Huang for the latest leg down. The exit is a…
+   https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html
 
-10. Sun · Mastodon Moves to Dismiss Claims in Brent Hinds Estate Lawsuit _(Law Commentary · +1 similar)_
-   https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDFfRGkxa2FxZTJheks4QnBpX0I5MUhxbG9QaVlFTEY3V1JGQTdmamhxLUlRUVl6LVpPTzNYbzZQUWFHUFlqR1dKT3FiYkhhNjNaajJMSV9GSU5QbmdlU3Z3SzNNUEZaZWJvczEyOVZVeklMMExZNm55V3ZlamlwVDNBd3FSSkFMTHhvRVBndTVUSGRKUzhB?oc=5
+10. Sun · Avalanche Veteran Brent Burns Set to Join Exclusive NHL Club _(Yahoo Sports)_
+   https://news.google.com/rss/articles/CBMiigFBVV95cUxNbDRZSVI2Rjd4VnNJbGgxYmxlV0FObS1uNXhQQlBHRjF6SVRvS2RiZWg0R3pLVnB0QzlmMmlFREFNb1FMNkxsa1M0ZFhDRVR5eDBnTWZ4WjJ4MDZTQzhpMnhFY1ZNeExBZm1rQkZHeFdxV2R6SDg2bTJGZmNmRkdQbTQ1cGs0eTk4cEE?oc=5
 
 *🏛️ Politics & geopolitics — this week*
-1. Sun · Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement _(WSJ)_
-   https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB?oc=5
+1. Sun · Working to formalise Quad leaders’ summit next week: US official | Hindustan Times _(Hindustan Times)_
+   https://news.google.com/rss/articles/CBMizgFBVV95cUxNcld4S3dLY0hMQUpDMU53RDlYWHc5S3VzWGZYdUJZbk1pYzNyZmhESTVkYXZYcVZ3RFBZWlEwTHFBdEZndTd2Y2pLRkx6ZU5SaHlUOGxEUWZ1VHFmZnE0Tk92dXhDZVpMN0NGTHloZmFZYlB4S0VOTzMwVkVvXzNSaW1yaEplQl9iclpBWGxPeXNrZGFraEpiWmJZMVFYbHJoZzFxN3lmOFZ4LVFLQlY2ZFUzWmJQSzVkbEt2ZUN5eWJwZUtiTm1Oa1VmSFNBQdIB0wFBVV95cUxPWENrTjAwYzhpakFMYjBrZ2prM3VrbndEM3dKMGpfOGVmZmczbnRqNV9WT1dsNkdmWm1qN1VLVS1MRUZ0ZFNjQmdsYnFUMVRraVhkOXlQS2JOLW8wX3RCVi1iZGhVcnNDN3poWDRVVTIyQ1BDNjBDODdENzRpU3EwRFBtM0JINUREbFBFY3RfRllibFVkRmhxRTJPbzZ6YmlYYUkyeTdOd2RDRHA2QmZRNVllR1JkZDVMUTJkMy1fYWpjVTE0VTNYaDdfcXlKSXViMHBB?oc=5
 
-2. Thu · Iran Reports More Tanker Fires in Strait of Hormuz _(Crude Oil Prices Today | OilPrice.com · +6 similar)_
-   https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2FLdDVOeWJVV01aTzBoWUdfMzI1bk8yMVVLS0tGQVZCOHNMeVg0MWhZaVJRUnJ2R25CdHZIZXNmTFRhMFJfNE42UXA2V3luY1hYQ2YydC1lSEVEM2ZWMGNqd0JZWS1kaFhsSEVjUjlzeFJGN3FneVhZdWdzY1NyX0RIaGdWVmVHR2ZINUZsVXlCb0tuRVV4RzFuTXZnaXFNZWhpV0o3Y2h0d9IBrwFBVV95cUxNeWxVOVdVaTVNWEtCYTVDWTJJNkotNDU1QTFmS1MybkY3ZDlzR1VXbXVlMGxwZkFsbnNKWm82V2FneS1ScGYyZk1HRVRhdWlUc0J3MDlaUThNcWVaNG9qdVZBU1FkeHR5bklXbkpmcU14MnRDOXpsaDB3d3NGSWpTdnVlaWREanJnVlh2NDc4LWtCZTRUbEdIbTFjZFRKVWpvVTBaeGJodFR3RlZZQXZB?oc=5
+2. Sun · US rejects report of Quad on 'life support' under Trump, points to planned Manila summit _(The New Indian Express)_
+   https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRUdqRWRRNXBnZUMyeDU4cFEzRndkcktDdzdfSTF2Mk1fWnJtcFB1T1Jmd0RFY1p5OFRvd3NZX19wOERMODRpVWRrUXB6bndSN3F2VVBMSUY4ZVV1QzBsU3FwUVJHaGd0RmpqLUhNQ1gzMEFwVXByWTlyQTdZMHMyRTZ4dEluUEJyY1l0THJnMDVJajFUcHg1WGh2SGdEd2xmSmZ2X1E0X2hITHZRR2h3c0EtdVRPdTY0YkhqdzVKdHdQTFlTenJhNjdUUXprbEpyd3fSAd8BQVVfeXFMTy1fMVRieTVlcnpBd1hHYTRQQzRYSmMxQjVsLU1saE9INXU2QjI2aU9wbzVIVG5CVGRpQ3g0TDFJYXR2djFGVzliQmpMZ0RkcW9TVm1wbS1fT3kyNlZ3bHhFanAyRkt4czdzNTdkazFscEpzOWt3cS1Kc2M5LVAtTVNWTWJjaW1fLUpzejVBaEtSZ0VrR2NvdEV2OXVzcWticWlWTUNsenQ2UVlWcnk2enJsbFNVMVllU1BkMXJ4WHlHejdYTWhsZFEzSVNsSlZ1TnEydjBUVjVpXzNDOFNoZw?oc=5
 
-3. Sun · Large hail, deafening thunder pound Auckland on election day _(1News)_
-   https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVNESmxFOG1QSEtuZFo0UVpsYWJDYWlmU2tiZDRDWUJuSlZPd3VMTGktYlMwMF9ELTVfOTctSEhhU2F3cG5sTlIzRVlNNjRIQ2ttTU90ajM1Q3hUYzZZVE1XYnVzU3pMXzEtOGhRVmVlcHNVdnhDUm9JSll2Wl91QkF6MDhwX2hUSC1hXzNnRXdJeUljQlN4ZVdxZw?oc=5
+3. Sun · Texas 2019 Election Results _(MultiState · +1 similar)_
+   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuWlpIWGpqRUVhUWdBUE9kSGRxTGEyZDZQVzFibnBYUGVYcmt6YTBZMXdvQnVGVGtnLXpCdkpJckVQTzVnOXkzUTUtV0trekhQV1RqYUdBNVozSUViNzNMTHBfN2E?oc=5
 
-4. Sun · 2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict _(Britannica)_
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5
+4. Sat · What is APEC and who will be there? _(Reuters · +37 similar)_
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5
 
-5. Sun · Explosions in Iran’s Qeshm, Houthis say targeted Saudi oil sites _(The New Arab)_
-   https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXlaQlJlNFdJVmtxUE1jVzdMUDFnZDNJZHVtLUl0WUJkRHU2TXpvQXo5bU1Ic2QxSEhjS2IwUXptQUxfenBzSmlFaUk1b0hRbHZXejNOeGZCelVoRWNwSk1ZdkRXdHNRdGZyRnY0QWJhMFlBOGl5NVRZZ2d3aWVrbGFnZ3RDQ2hsR1NjdEFXc3dDdw?oc=5
+5. Sun · SHOOTING: Euro Confederation chief Ratner removed from ISSF Presidential election ballot, is appealing to CAS; this is all about Russia _(The Sports Examiner)_
+   https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYjV4NTJqR0N1SThqb3NRN1IyNGlxdW9rcHRpbmNTREZIcGowMHU4b3daeTAwQzlaX290THVGLWRMM3BQNDlULUVaSTV6NUZ0NTlYN29hT0V0Ylp4UUlVQ04wMmYyTzRqa0N1dF9WN3l4Z2dUUS03eHpLODVwa29YQXpENUxlT0hsTExhUmNNMm9fSVdnWVhIV3dvMFpEOTdWVkROdzljRzlNWWljRXhfQ19JNExkMUZvQjctN2JIUXZMWk45cDItVG55YXExZ3BuRGVtX0hWTDl5TUdPUUs3YWNJM1JBdUJwSTlYdXkweWlTc2taQlBmUmlWNA?oc=5
 
-6. Sun · Dollar-Yen May Test 160 Next Week as U.S. CPI Battles AI Stock Slump; BOJ December Rate Hike Bets Also in Focus _(BigGo Finance)_
-   https://news.google.com/rss/articles/CBMidkFVX3lxTFBtWGtqLXJUZXFVSzg3SGFDMkVndU1MOHVwUEJYVER4dGNwWkZxRUU5OFFCQTAzSUVGLTBESzU2bTJ5RWpId0tMdXUzTThVbnNtZElQSG9rT19HOE9KSlVZYkFlUTAwdEU0MHMxTVUxcjlHRl9ibnc?oc=5
+6. Sun · Global powers converge on Manila as ASEAN summit kicks off _(The New Indian Express)_
+   https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFF3SDlmaUlOTUg1OVQyenhpbWhudURQSnRqV2R4WTJyNHdRWHpTVEFSUjY1T2dBU192NWtFUWhIVWhiT2tRVUlnOG0xZGszQVBWMFVVajUwcENJVHNXOXJVR2x5MHp1ZzBaa3hGOEF2elNSU3VpT3R6RnVzQzJwTFE1S0lianVoUUk3TVJ6UTFFcU1oalRsM05Kd2swQUk4bFhXVkVlWjVRS1NJZUHSAbsBQVVfeXFMTXZ3eS1qclVCYnU0bEMwZHFpUDM2SnJGVjdhOXpzdVhBSWxYSmtpZ2ZOakQ0aXV1Wjc1VnMtaWZMamFDbWtGVF9fa3F3ZjRtYWREWGFQdWJaOEZaWTMzbHBvcDhYT19sZENlZmVkUnVXNnQ3RWhHb0x6RzQtdnliamk3cHlyM0J0ZDdxbkpyRjFBTTRvQW1XUFdIZ0p0bVFGTE93Zm4zUFE4djBmLUxBWkFON0lLUndDRlQzSQ?oc=5
 
-7. Sun · Explosions Heard on Iran's Qeshm Island and Southern Cities, State TV Reports _(Haaretz)_
-   https://news.google.com/rss/articles/CBMimAJBVV95cUxPSS1td0xGQ0VGWTROUnB5cVVXVVU5enNKcGN5LTBYc1Y2NHB3S2RvdDFFNTVRY01RS0pMTHdkSEZLTjVUTEc2c1dFTnE4c3ZTVVpxajEtLXZzY0luM0djVHdDQ25sNkstNWp4bXcwbXRYblItWDFFUkt2c0NNRFdnbk81TWhsRXkxSWVqMzktTmVIakhWTzM0WE55ZHB6Y3JyWnI2RmJiU1A3akJiSDVscHF1T2FVUUgxUnFBYXAxRi1CV0ZXS3BRWmJxYmNqSHhoZHdfTW1MWnlrSzVpcFhaNHlHMHFMRnFBRjdPUlplaGF5Z1g5cldFd2NLdHgtNmxhX0VoSFdhTFBGcXZRMkNLdWp0a0FaUmZu?oc=5
+7. Sun · Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold _(Al Jazeera · +1 similar)_
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDZjU3JHX0tQeTdEcGVQQ1FCemd1cmpXTTRVdEFjY3ppRFJvRjRSeWFnUVV0enhEMUZnTlI1ZGx3cXhXN1BIS29EbTZjVGI2WVplby1peHc0eVNERTRZWGRfX05XaDVKUXlISGRpZUhsUXJZMllhbDNReE9sNEk0SWdpdlZ1RDRmSUVyeXdQSFdmSTVIdThtd0lhWEJZSmtvYUluTmFxQUxxTnhIMTNRWmJR0gG3AUFVX3lxTE1jTXhkZHJTdzhxME1WZDEzcFFGeVd6bnB3WDNHOTFJTGhXU0RwQ2NkUGdSNzFCZU9ObFFvZzlsLXhGcFdWNU9mVkJMNFo4UkxlcjF4Xy1JTTBSajdYTzJRX1ZnLWZldTRMSy11YmhiRmM0QUlWTWY1MEd4cDE2T0hia19DZFZXWHlkMDRBaFA5c0JhUm9TLXpGVEQtRDhvb2tvMndaMFlWb2hJcGdybVBEYWhSMkVUUQ?oc=5
 
-8. Sat · Schools and hospitals must prepare for threats - Minister _(RTE.ie)_
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMOUJ1WEU2bVJTTmt2bEw4ZDI5WHRYV05LOF9VeHozSUtyWlhoS0JGQ09Gam51WHhfUldiNFhoMnFVOWFuY0xaTy1vY09NTUVIdXdNWnNMbVR0Zlo5dW1BX2Z3?oc=5
+8. Sun · Anti-transgender campaigner Katherine Deves runs for NSW One Nation _(AFR)_
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEowYlRUb1dvMzhhSXI1cll1U2pyVzh0MkxJaW9tVGhRWmZCQ1E4Yk1KbkJITXk3aTlmbEY2VEg2MGZsMnZNQnNndWgtY2JUWFNmMTV5aXpoM01QSDFlMG9VU3UxZXNJMXV2OTZKMmpIaXFmcEVKZVYtSWVIUUZNWVRETmtKYk5QeHZEMFhtdW1XeUhvLXV0TEI2R1BBcHByZ25GN1gxcTFTYmJ6TWVRWWt3?oc=5
 
-9. Sat · After the midterms, what comes next? _(www.israelhayom.com)_
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9LMXlULVdQQnRtNUN1bGczZmVmMHdwWVp2Z3BpZEExSi1Ycl9iZVhDREdpdVVVeF9DZVA2djgxR1JnOGM2eTV0Tjcwa3k2aWRyUTQyZUE3WEcwNURXLUxOS0MwWUlodUtsVXRkSTRBckkyWFVoUHNlWGNDdzVabTQ?oc=5
+9. Sun · Markets Next Week: Key triggers that could move Dalal Street — Return of FIIs, Nvidia earnings, inflation and US trade deal _(Business Today)_
+   https://news.google.com/rss/articles/CBMilAJBVV95cUxQcnE5amhhblNZaE0yZnZfbV9rR1JaeFdNbVJwbDJIbG1SVGRfN2hhZGpWWkdoS2dILS1ZX3o4SWFOYnFpSVZaNFVqamNnNUNqLUpwX2g2VnJvNmdWODJoSjR5SnhfNzZtSVRGYWkxMmhGd0NTZTdIUWhxLTUzMzJwRXVlUmN3UVY1anpDS054UkdtMFFUVXl3cXg1dkU3WlNQU1JMalBYVFNwaXNCSEdhWFhVcmFETUx5NlBXdWpPVHNGZ1piX3ZVeVN6UUFxeGlMa1ozdTRLdGpOakE2R0xvcURvZWROYWMtWEl5U0s2SzljWjFBai1uNC1HUXJqY01pZkVHREdhWkZWcEtGXzcyNFJQMDPSAZoCQVVfeXFMT2VoazVDNFhoQ2pPSU9TUUtlTG8xTlhrSUFGS192TTNOZnJaR19TQkpHUDVtM0k2UHVEQ1h3MVdWZ0Q5S0k1cTN6am0tQ1ROYlNNeWFvUkZlcFZKeG5FVTViTGR4a0hNeEhaOUM0MVA0NC1hTkxCNk1rREdTRExYNnFwQndKRzVKMVhGVGNZcl9Cbnk1MzBxOWJCMHkyNWRHQVViREhKY3p4aW9nYlFNYnJzb2lJVkZjaUpCQXhsbW1rTTQzZXNacWcxaUs5c055WjQ0aVg2V0JMVnFmRmxVWk0wQ3NEQ0ZFTG9tTEZWQjlfZXBYdHBwSWQ4aWcxTHl0bVdCTl9uUWR6emdiYXJHdXF5b3doa1ROZTJ3?oc=5
 
-10. Sat · US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration _(CNN)_
-   https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGdGeHgya1Y5SDZ3ejIxcmRQVmVyeGpqSmNTRlJ6ZGVvZjBxZUZJR2UyR3drbHNvM0NHVjdPV3dEejVYSTl5RnFxTERVUWZlcFBNYW1RUU9aLVhfd3VRSF9ZX1NOcmNvRzN5UUhvbTFkcm9zYUFTSWxnV0M1dGktUVU2S0ZqVV9qXzloa2JDX3JmalpJQ0RqZg?oc=5
+10. Sun · Russia’s oil empire under pressure _(DW.com)_
+   https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbW1vYUlCanBFTlhzMjR0b2Rfb0RkYUZDUmZsMWlMenZsc0dkWlp5TGlnWEJidklaUW9sQ2JWcUZLbVQybVdMbVpZZ3RDemdyU2F2RXJzRHpQdWZvQUFuM3pVX2lqaU9yc2h5M3JWckk5YTdoRWdlTFA5ZXRSa3BiU25nTVN3VFhub1ZyVkhTSEJmOXp2R2haMlVRUWVvQXpqS2lGYmVPd2dlLVJiaENCM2FaaHFZZFotVUo4bjI5b1gyaUk?oc=5
 
 *🔭 Week-ahead previews & positioning*
-1. Sun · Silver Price Today: $51.89, CPI Tuesday, $55 or $49 Next _(FinanceFeeds)_
-   https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0drcENHNEdhSHVwQmV3Q29XUlQ3bE9DajEyai1xUWVTeFRQZm1NOW9uQnI0Um8xYTFFTHJGRVdCaERNTUVzTFZvb2pBXzYtRkEwY1JwcFFhT1UydEFnQWdTZXVndV9Wb05HTjNkTUU3RlBISndTYmRVTm4xNmZWbnFYZGl5NUVFMy1EV1dDU1JJVmVrcGtOaW0xUU1taHlJYjlWdUd5VEFvSTdWU0E?oc=5
+1. Sun · Brent Crude Oil Price: $95.84 Sunday Before the Futures Open, Iran Mine Claims, Bull $98, Bear $91 _(FinanceFeeds · +3 similar)_
+   https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVN2NXRkckxzTEk1eW9xVE1JTkgtTU01aHROaDJiNEFYbDJwLW1DQV83RkZZRnJ2NU1MUFJQLXdDanN6WTZVUlJyUFpKT3MtNk0zWl9qeWd2aEVlVFNmNno2QXZJeGFRWElJU1o4SWtCYTNYNDhia1FzcmZYMjlXM3J3ZFdBOS1VVGhLUFkxT3dfUklxampZajM3OVNkWmxZdUZHdWtHTExZd3ZhVS05Mk81ZU9fQ1Vl?oc=5
 
-2. Sun · ST Engineering Stock Week Ahead: Technical Outlook for November 9–13 _(JournalArta · +2 similar)_
-   https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2VTcTRBalhfeHY0OXpQUGtEYi1Jck9zX01PNEVxbVg3Q1JmOFJ1VWFYSnVlNWN3RHJrSEFISDJBMzVkbFFHUnRfTWp2cjUyekVwLTF1ZWVEN203bHgwUUxlaEtfUktNczlTWHFDM0hrdUhzSzhsc1diQkNFeE9lSEhITW5rekN3Z3h2NmY2UGV5bks5QWkzNUVpRXBmdEl4ai1CUnBZSXJVQQ?oc=5
+2. Fri · Week Ahead – Fed Minutes, Inflation Data and Nvidia Earnings to Guide Investors _(Action Forex · +1 similar)_
+   https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdDhQd3BxdXJTNzNYQUZwTm5CWkF3ZHZhbk5YbWlXelJCMmNVNWVndTR6MHNGVlZWRlQweE9PeFlkNm1EdWFHdG92RnZNNlJOaXpGdHQ1RnhrTmh0MzR5XzZGZ25KbEY2dURSLVBwTlp6d0lZMGpoOWFoLVpJRWFfdl85bWVJV0VLdjZJOThwSUJPQzZkTG0yeWktU3QxSmRlaVc2UVdrOEpJbk9MZTZjd2I3ajhXMHVYVEJCYkRLbFhQMk8zOWxJX3cyZ25jTWg3MzRYZWhQUTB2Vlk5Rkdz?oc=5
 
-3. Sun · Euro Technical Forecast: EUR/USD Five-Week Range Puts Yearly Lows on the Line _(FOREX.com)_
-   https://news.google.com/rss/articles/CBMizgFBVV95cUxQMG1Jb3Q0WmlxYnNwa1E5V05MMUw3dmVWMi0wblNBbU5pZExjRUt3VjM3YjFwX203OXBScmJrUkJ0LXpySGQ1dWpPODlsMEp4V09OYTZiaDJMVUNoWUpQeTBpX2Q2OWdSTkdXOWdiaUszNjBMUVAxOW1FUVFDeWlFa2I1dUozWVE1aW9zRUtneEpEYWpPUktXOUFSZXJKUTV4cGdDd0xMTDF1bkdBTGJndnhFUXQxMDhUZDNnNEJlSDMyR0FMU3ptRG8xcjN0d9IB2gFBVV95cUxOUms0R1h6UVNYcG5xZlBaU0NzV1djSGJheVZzS1hMeGVEdG5zMC01MC1NT204MkdaZUMwUU5vWU9qWl9tbEUwclZvRzl4azk4UTVIUnotclcxMjBvbGFGcG9yRXNiaTBhcjJDQzJkQjR0UE9GaWJJTXBCQ2kzZG03UlpsXzZWaW1WVFFueGwtMDY5a0M5MS1pcUhhU3VCMHpnRm9hYWpnX0tkOTZYRXlUSlFIM1JRMXZVVl8xTWx3Yk9LdHJXMGUybjZvaDRLbzdhV2NSYUo1SFU3UQ?oc=5
+3. Sun · Stock splits & dividends: Oil India, Cochin Shipyard, MRF among 31 companies turning ex-record date this _(The Economic Times)_
+   https://news.google.com/rss/articles/CBMiigJBVV95cUxNRWE1ZnFDelg1TWpaZklac2RvblRBd19FdlhHOU0xeXVJLXFQTHhBWnVubC14eHlrYlVDcUIzYUJwRFRnWDRGUDV5Qm5pTXpHeHFUbkl6aXJXQ0xOUXVUdm5aVDZWS3FuY1VuLU9TWThEQk5aa1dOSjVEQy00Ykt0ZWIxaHM4bXMwQ1BhY1RYNlBIWkx3TU9iRW0ybk1ZNUZlMDRUZDM3SUg2SVFwT25KTGlodXlmaGxWTk84VDZOTHhTN2JrZndDd2RMeGtqNllWNkdfZ1V1SFhhZkcyMXZ1aEhCZUQ0TXhkYjBfQ1dJcUhqaUIxTFhuTTBQWGdrdFJqRVhaSGM3S1o5Z9IBjwJBVV95cUxObnVkMkU5WFByaEZXUzlxR2xnejU0Zy00V2w3bG5SVEdpX3hIXzNjSlBzRTI5SUdhZnJkSnpIeWpmbmhucldXU3h2cGZyTmJLRGF3YVJSRE1Sa1diSVlWdlFvLVkzTGhRNEtLcnRocGZHc1I0ZkJkX2Jnck83eURjdzVxN01hNDVZVDRsNGNkT25NTlc0NGNaRDltSTQwZjZwRjlCUmNQQjQ4STZ1d3JuWnpON1dtWXlkNmpxd0ZCZGpmMHNhbU1saVcwR3lQUlBSdnVnWnJMSVlILWhCQ0lBRWxPcmljVzBEWlJYQWQtd3U5eDQxZjU4bVpOZUVlM0c2bFhTdUduVnBwd010d2FV?oc=5
 
-4. Sun · Week Ahead: Fed's Focus on the "Accumulation of Information" Takes Thunder from CPI _(Forex Factory)_
-   https://news.google.com/rss/articles/CBMijwFBVV95cUxORW81SlhUN3dPNnFZTnRmZTVHazJIcXdvNGt6bkNTemFtcjhnQTJ0MzhaVWt5aEJTdkc4c2Y5MndkT2E1bXl2VU9OWmJlTzlObkNvcDZVZTdSSDAxa3l0R2RmMF9RSjN4b0luQUNxMXpEcW15eVMzZWV0aERhTi16dThWNGVobTVkYm5oLWgwZ9IBlAFBVV95cUxPeU9ZVlN0SFVzWWhxZndlV2IxSDNwaUpVNWNQVC02MU1VVk1VZW5qTERkaDRELWtUU2ZqX3Jxd2FWZnIxZ243R21OTVRVUXdiREpSQVNQUmQ2M1IyX3pLa0s3d0x5UENxd3FkRDRRV29oYkQ0OEpvSHNFY19MdDdLNVFsenJLcG9vZER3OXNHRmprY25n?oc=5
+4. Sun · Will Sensex, Nifty continue their bull run or consolidate? 4 factors to watch out for this week _(The Economic Times)_
+   https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYzlYZ3lsM3BwLU1MTTNUSk55QlFZOTlIY3FHSWtyREhoQXJKbUQyRW9xdXl6akdHTEI0ZXI3VFJEaVI1UUdjcFdDUVlUaXRhSHhITkg3QUc3TEdDSmFibklCZ1dnZlkzdGZwVnhTMnljeGRaRWFOTlkzMUF0XzExRS1FdGhtWXg0aW8zZy10aDY0MEhHVUFFXzZoZkd6VWVNQXVaM1VickdpNldpMjJ5Qm1GTDB6enBvYTg4a0pZZDZlMTltMEFwX3ZMa0FlRFFGTXZLdmtZN3lIMndPSEwyTjdKa2VNZ2NWa242bGNEWGRmeEhnM2tnWF9vSdIBgAJBVV95cUxQOG52UTBkNDlYME8xVEdjTkxDTld3RFRxcmhSRDFRVkVXQ3FheERGWWxVbUdxWE5KNU1XRGstbk9LazR6c3FsUUVGRkdMN3MxODdPQ0ExT2hIUDhMM1BlX3hnSXNUQmN3cHhENFFHWUswajNVeHVqOFd0UlJ4VTAyV2h5WEZYcHJVUXczOENpVWUxM0pSVC1wNThTV0dtODQ4ZE5VN04waldCY0x0TnBpek1LUElYOFVnV2tabGotN25BWjF6MzFLVmstU2VYZXFlU2N5bElqTVJHYVdoOE9LaDVLbDRJb1dONTQ5ZnJLSkM3VGdHaW41XzN6Qnk0bVBz?oc=5
 
-5. Sat · GBP/USD, GBP/AUD: Sterling Rally Faces a BoE Reality Check _(FOREX.com)_
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmoydGVhUHdJRElNWExCRE9qaHo2MDBqeEluOE1EUXVpek1XQ2ZlLWNiZTlwRHJoVE0zNGRKMzZvNloxdk55UXUzczVEUjQtY1htWnhvOTF1Q1lFcFAzU2pVMU10MVZGTW5SVVZwbG5jeDliUWRiVXBxY0U5anFrYW12TG41bVJwc0oxSjRPOVJ0WGZLMWd3LXNfX1JLZzlCU00yaUZ3?oc=5
+5. Sun · USD/JPY Weekly Outlook _(Forex Factory · +1 similar)_
+   https://news.google.com/rss/articles/CBMicEFVX3lxTE1aZ21MdGItYzJ1cWlqWmxsOU55aFhZLW52ZFA4RkJEdzhNck8wVnJ3QnNKWHhiUDlvVWpINlFaQ1BHU1F2OHBGd29Gb29aWjdNY3FYTWxRR3N3NzJ2TjJvMzdFTHJPSzFwQmV4OGdScDPSAXZBVV95cUxOS2NHeUtheC1XUXppT2NOa0dxOU5LYzRKdXc3eHduOEZHRUdfVnVLLXpXVU1OSWxwSzZGTU84VlRTTDA4LVllMUtZQnIwenNiYkFIUFRBaWpSTUgyem9Wd3hHYXpDai1manZJY1hITHZUS25leHV3?oc=5
 
-6. Sat · Glencore Stock Week Ahead: Levels and Scenarios for November 9–13 _(JournalArta · +1 similar)_
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2hKZmlFZHJEeExLQUNTaG9JZVotem9paXdTLXo1ZTBSQ3UwU29FbEdjeWNoeXRYQlpXNklLcExxNlVielBxZjlFRkd6TVJuNWZ6UFlqNnhOakxIU28zUU9EWnIydjIzQmQzUFlCUHdYRklJWVhuaHU5LTgxSG5YMGdkdEdNY042WDlsd092TlJqYzIzSVVQOVFuTFY5ZXV3eDFZbml3?oc=5
+6. Sun · The week ahead in numbers: wholesale inflation, Fed minutes, Anthropic IPO _(Livemint)_
+   https://news.google.com/rss/articles/CBMirgFBVV95cUxNV21uN2pPQnRHM2RYYWZTa1hxVjNiMEdtTG1WQkpXVTZkQ0RMaDNCb0Z6clFxMHRCOUR5eEVSRG9DNkpralQxT1hfTUVWdDAzMVBiZ0s2TU1sV3hjQzhGVmRjT3FLQUlCdFBJWE8teks2S2xLM3hkYkdMMkZBeVcwd3JrbENlcWUtU2xrMUlXUlF4aVdNTjlOMEozVjFJQTNjWmt2eTJlZ0x5RDZtYXfSAbMBQVVfeXFMTlMwR212czlQRnFyZjBka2Y1dGZOVUlqWkx6Sk9yR2o4cnY3Y0ZtM2hsbC1OekpfSlVSbFpNektYMkxpazNqYkRXNkZ4dGUwUDQtVERuYi1RbEdlVjN1UGwtRG5UTDVNOVdzTExpX3JWZTRXY0E3TkMta2xWc2FLYWI5NlJMZ0dKemJPTzNtWExGOGZRZk93cnNQMlBDa24yTHZscEZyb01SNTZkVDVkQWZKbUE?oc=5
 
-7. Sat · Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed _(Rich Picks Daily)_
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxOaW52UC1UZnRGTDhiOG8yU2hpSG9fWkl5YlJrcDF0WmFJNkp3U0NhYS10RnlpbGQ0aXJUWGdYbVNfQktTRXZBSUlrdWNkeVFhMUI2dTJiclRWVVZFaHZibDNoQzRFYnI1NlAwc1R1ZDBqZDNhNHZBTTg5TzVxQWZCMk03U0E3TENKY3JxSkJPSjRBZWhnNVlVV1dpRGFWOERQdkJqYktn?oc=5
+7. Fri · Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signals _(investing.com · +1 similar)_
+   https://www.investing.com/news/forex-news/euro-yields-hit-multiweek-highs-as-hawkish-fed-shatters-global-bond-rally-5024281
 
-8. Sat · Brent Crude Oil Price: $98.32 Saturday as US-Iran Deal Bets and Tuesday’s CPI Frame the Week, Bull $105, Bear $93 _(FinanceFeeds)_
-   https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTFUQU5ROWp6UF8tVkl6R3hHMkdnVnkwYi1pZzUxNnFiVUFITEdxTGNacTZpaWtZWWdGRnJweXNNRThBWDI5N1J4TURpMk9RdEJMNER1dHZLR29GdGJJOWdSdmNUM0dETVk5ZHJ2dUk1aTRKclprSmtfNDktN2lTLWpyNjRyYl9Sb0FCckRSR2VPSnpiYWxtclRZSDdlUE9Xdm9ZMlVPZkNIdGZ6dXJXckhOUkQ4NUdvVHFqQWl4b3ZiUQ?oc=5
+8. Sun · Nasdaq 100 Forecast: NDX rebounds as oil prices fall and ahead of Apple earnings _(FOREX.com)_
+   https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ256c1FseDd6LU91UnJ0THlRZlVKRTk2aWxERTdfUEoweF9pZF96VjZOY045b2ZjbDJPcDRXTkpXRHVodmRxTXlyVUJEekhnZHQzMDdoVTdPUGFGUk54WFpvVHVjV0pjZlAxT0Q2b2NNM0ZmMjFLTU9nZElldGMyTmhoazNrQ01CRlZaYy1Cd0FDT0V0SVhYMlhmdndRMmtCUk9aMDdEOHlSd3pzcUdQMG1jS1VoeUhlaV9vMDNJLUpIcjlM?oc=5
 
-9. Sat · Gold Price Today: $4,045 After Jobs Beat, CPI Next _(FinanceFeeds)_
-   https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGUzNFVPcloyUlNLU2drZWI1ODFBdEdRYTRkYUdEWGRMRTlybXBrcHFiVTcwNTJBTV8teEhwWDB2OTJEZ0Y4dVhvelk0UFhqME5vaG5rYlMzM1dMN3M2STRINWRqWEptMWNtUjNGdUpvLVdSSTZXRU5OWlFMWmpKQ2MwUnp5TllEc2FiYV9ZUXpCVVhKYUhLejR0Y0hLSTZneEgtdnQ1N2V4Q2RzZ3hQb2dhSzBtMkJGdHk2OWVqaTRKdDZPYkpwV0FTNVZwSXVZd0ZwYzYwVQ?oc=5
+9. Sun · Gold Price Today: $3,879 Saturday Week Ahead, FOMC Minutes and Retail Sales, Bull $4,000, Bear $3,800 _(Forex Factory)_
+   https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUxxZE5neVNCMjNzR3lLSHNDSGpwOU1oeV9GTHl1eFNQY0FOVDV6ZUFPRXphcGRFYmZDS1FrLVN2LTZTdkJJSnJMV0R2OUtGRWVKNG9NWE9LVHgteUtGUnUwSXZJbHRvMmwyNHRtbU14VldheklGUGlpLTdNdlVqYlZOOHFNaFVndmhRNkFoX0w4QdIBlwFBVV95cUxPRURKWGRzQWxUTjVfZmUteVByRTI3d1RxQTVJMWNqVkpWRFZRemdSem1aZ3pWUnRpVlA4U2E0WXZ3dVZweTZTMGdXOHJQS3VYWkswaS1JakVScldfckVNei10QVRyTTduRDl2eENvc0NkaTdOQVVzcU9LdW1tdl9uUEJVS2lrUWRvYkdCNTBWalJUampwRnU0?oc=5
 
-10. Sat · Four Market Trends — Stocks, Oil, Yields and Dollar — Remain Unsettled After Midterm Swings _(Action Forex)_
-   https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOHE3c0JoZ3dYM05SVWdlRFFBcFZiNWczMDZFQnpHNlhtWlZHdEt2TUxEYU5USEsxZE1mcG9scmVBNFM2dVRUWkQtNFprRGxDekNCcjhlc2E1cWVYdldGQWNmNnY3RGFoLXk3aDlNVWw3MjlDQndJR2hFYjdveTQ2cGttRjlXYmQ5cE5EbF94emZxVGFVZi1ZUGNGVjBpeDBGZEt0ZjVhVDhSUEVsVXZaaGJIcDZvZFcyS2NVaWptLXM1czhOS0RKeGpFeWxDZVZQYUpkbmFDMnBuTUFuRXZXX04xWDNlTXJ3V2dTZFBXWTk0UUQ5am45bG9R?oc=5
+10. Sat · S&P 500 Update: SPX Records Its Biggest Selloff of the Year Ahead of NFP _(FOREX.com)_
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDB5REQ4cHl2OVliLWxaN3lYX1BCd2VScVFvM2pnU1ZOcHFGZGtPd0pEQmFfNW54QUNqMTd3emdfTTlYSHU2LThaNDF3UVB5eTl3enRBU0xwbVhDRVlXZjVDVXA3Mk5Hd2dyVl9uQm0wemRWNjdPSmUyTlV2LVlfMFZZTXRyYi1rd3pfbC1vSXlOT3VqRWFBZ3VQVV9YVXZSVlZ6MTlnVThNb3F5RmpkV2lXbnJacnpyRThjZw?oc=5
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
