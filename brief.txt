@@ -1,111 +1,106 @@
 *FX • Gold • Oil Brief* | Daily
-Monday, 23 November 2026 • 01:58 PM NPT
+Tuesday, 24 November 2026 • 04:39 AM NPT
 
 *📊 Price snapshot* (vs prev. close)
-DXY: 103.67 -0.13%
-EUR/USD: 1.0996 +0.24%
-GBP/USD: 1.3126 +0.30%
-USD/JPY: 159.09 -0.39%
-AUD/USD: 0.6650 -0.09%
-NZD/USD: 0.5476 -0.10%
-USD/CAD: 1.4317 -0.18%
-USD/CHF: 0.8378 -0.75%
-EUR/JPY: 174.90 -0.15%
-GBP/JPY: 208.81 -0.09%
-AUD/JPY: 105.76 -0.50%
-NZD/JPY: 87.10 -0.49%
-Gold: 3,613.1 +2.78%
-Silver: 42.34 +3.19%
-WTI: 83.12 -1.02%
-Brent: 89.58 -3.23%
-US 10Y %: 4.912 -2.77%
-S&P 500: 6,910 -3.70%
-VIX: 35.89 +26.20%
+DXY: 104.34 +0.51%
+EUR/USD: 1.0904 -0.60%
+GBP/USD: 1.3040 -0.35%
+USD/JPY: 158.97 -0.46%
+AUD/USD: 0.6632 -0.36%
+NZD/USD: 0.5453 -0.52%
+USD/CAD: 1.4365 +0.15%
+USD/CHF: 0.8415 -0.31%
+EUR/JPY: 173.33 -1.05%
+GBP/JPY: 207.18 -0.87%
+AUD/JPY: 105.37 -0.87%
+NZD/JPY: 86.65 -1.01%
+Gold: 3,634.4 +3.39%
+Silver: 42.99 +4.76%
+WTI: 80.25 -4.44%
+Brent: 86.72 -6.32%
+US 10Y %: 4.918 +0.12%
+S&P 500: 7,237 +4.73%
+VIX: 26.62 -25.83%
 
 *🗓️ Next 24h — key events (NPT)*
-🟠 Mon 02:00 PM — EUR French Flash Manufacturing PMI (exp. 49.8, prev. 49.3)
-🟠 Mon 02:00 PM — EUR French Flash Services PMI (exp. 47.4, prev. 48.4)
-🟠 Mon 02:15 PM — EUR German Flash Manufacturing PMI (exp. 54.1, prev. 54.2)
-🟠 Mon 02:15 PM — EUR German Flash Services PMI (exp. 52.4, prev. 51.7)
-🟠 Mon 03:15 PM — GBP Flash Manufacturing PMI (exp. 53.0, prev. 52.8)
-🟠 Mon 03:15 PM — GBP Flash Services PMI (exp. 53.0, prev. 53.1)
-🟠 Mon 08:30 PM — USD Flash Manufacturing PMI (exp. 54.5, prev. 56.0)
-🟠 Mon 08:30 PM — USD Flash Services PMI (exp. 55.6, prev. 57.9)
+🟠 Tue 08:45 PM — USD CB Consumer Confidence (exp. 92.4, prev. 91.7)
+🟠 Tue 11:10 PM — CAD BOC Gov Macklem Speaks
 
 *💱 FX & central banks*
-1. CBSL rates: Sri Lankan Rupee appreciates slightly against US Dollar _(Newswire)_
-   https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWZsVUx3M0lPSm5pN3duYVBqazlfbHRPYXk2N1N5a0pydnJoQ0pKZXVxbjlxQlloSmdiTTNQQjk4R3hPN3gzdmhDLVdVNjB4bEVIZlZUemhSOXZiRk9valdJaDhrU3lwYk5VM0pwU2tsY3ZycmxESzB4WXpyVVlaVXcwb0EySzhQMU5WMTBLazBMVW9QdFhLX1lEcHFWcXlBVlJaag?oc=5
+1. Dollar at nearly 20-month high as AI trade reignites, boosting growth prospects _(investing.com)_
+   https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324
 
-2. Forex Trades to Watch This Week: USD/CHF and USD/JPY _(Investing.com)_
-   https://news.google.com/rss/articles/CBMimgFBVV95cUxPbE9VTTl4Ml9jWWY2UVh0cEtYX0s4OGxFMlVYOElOeXRhd3NyZWtqcDFKZi1kMkZYbFZsc3NsNjc5bkFzYlJGNkNxYU45dTVuU3ZPamhiRDNtM2UzQTB1cWo0Z0ZnbVpLcFhjMFBIcVdqTkIyRUgyaWI2TDlPSWJHWUtVeVlpZk5UTzFDVUxHNzhTdlp6c0tmdl9R?oc=5
+2. Fed’s Williams: "Must act" on inflation, sees 2% target only in 2028 _(www.tmgm.com · +1 similar)_
+   https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0ZXNFZOWWREb1ZuUTFodG9UYXJoRVI1Vm9VLUNTbk5OckFNLVpDbUxqTzdudzgzN0tkcy1Ec3pXdW5pSFRsejRwN2ExdFZldUlkWkJ0Q1UzcmJ2UF8tMlNnVFBRcG9jc1E5Y0JvUG9ZSUtVbzJPckJCZU43NjlsZHZGcVFCbzZUSEZENndUT192QUhocm1YTVNMR2NPWXUwWElncVJQMnpjT3A5c2lZNVhkWjBsTVRHUk5qNy1CMmhhdEhuY2JrMXhaNA?oc=5
 
-3. The Rand Got A Lift From A Softer US Dollar _(Finimize)_
-   https://news.google.com/rss/articles/CBMifEFVX3lxTE4yM2tnZkFSVFJqQlYxbVN5b2UweFo1QkNfYk1waGVDNHVhcE5VTzdpY0FWOFFaM1FWRUl0VTZRWFo5R0NfVkw4b2Fja2JxYndwS1g5MnJFLW5WYl9yVE5QNFRYd1FDWFFnRXBzUWRFSHBnbVNJU1VQUnN5elU?oc=5
+3. Bill Ackman says Federal Reserve is 'about to make another mistake' _(Fox Business)_
+   https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE9HVW1nMUdjOGFRNk5ndXFqUmZRZTRQYnlaUnRZdDRCcFI3RXlUNWNKQkRfeHREMDUtb0pyUWRBTWVra1hjVUlSZzhMVGxiSTExVmIzUWtFTk9wb3VuOHNOVkdyNXRURjFUSTJpLTRaUTA1UUd6S1JfMkpLVUQ2Q3VJMkQxN1FQa0ZFMXNyUU1takl1WlEwRDBNTdIBoAFBVV95cUxNRHNsdWxrWGhsRlFiSDFZclhXNWFfMHY5Nks0MXdWMzh2eWdjNHFMaGFzNjNjODJkTmJWN3FnU2NzQVA4d2x6NFM3VjRCUGd0bF92b2xlNVNiS3FaOC15clZxM1daOXhCai1IZXRRUGVuRzV3Ml9pamMwZFRiSTN4Ull5bk4tQnpISmxWYjBHZjJ6WGwwd0xQalA2dVJzN25W?oc=5
 
-4. Sri Lanka rupee at 332.45/60 to US dollar spot, bond yields rise _(EconomyNext)_
-   https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjN1ZGNKX2NuNk5kSlBtRGJOaUlEUUMzWTFBcWs5Nm05NnB6cXI0Z1l1dDhrTnRLSVIxUERvVzY0alZDTFpwR2xVMTZJbG95aFp1cENxdzVjdlBoM3lrYVR3TGJnVDRWcy1UREpOT25KbmhCSzhMcGlseVhSc3BxT3k1a0wxazAyZ3Q0SjUwX1h5a3VYT1FXM291WQ?oc=5
+4. How Fed Monetary Policy Shapes the Housing Market Today _(Darden Report)_
+   https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2lDZUVGSGhEOFNXS29oUFRobDhjSWZnTzN3eTltaVJqNEZNcnJscm4tTjJrRTloN1psd1JPaUpCaGQ4b0ZCMzM4LWthMFl1aFZFUE1YY0FRWExHcGF4TXRMRkFCdVcwenlVWDJkOE5BcXZOdm1uQ3RmMmtoVGRjT2h3eENNejJjRXYzbXJzaWNJTUtPZHp4RGs0QmY4VHR1S2NRX3Z2VmNvZGFsclY0UmhnS2Y4bFJTSmJlY0h6ZDA5U0dSWnB3ekRqR1NGTEVWejdyQnJTbw?oc=5
 
-5. Korean won hits 2-week low against U.S. dollar on risk aversion sentiment _(Yonhap News Agency · +1 similar)_
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE81di1fZGlUbnFOS1ZVOFhkQTRQbFRmQ0dCeGc2dVo2STBxRTV1OG1taTdYZkJJcGhRX3JWYnF3QUdlSXRINlNTZTViclZQNGtqanhDSlFpbzFsQQ?oc=5
+5. Monticello’s ‘Storybook Christmas’ is downtown Dec. 5 _(ECB Publishing, Inc.)_
+   https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0dKTGd0QVB5QVpqTTE5dldxMEd6SUphSW81NjZTOWI0bXBrcUVVQzVfTzc3T3Q2djkxNktQRG5GQ0UyYXpRRTdMNjdGR3AyQTMxU1NRYnN6N24zRkFkLTFXU2JaTzFrNmJyVW5Qa0VaNnIzUkw2TDNjT1loN1lBN2dn?oc=5
 
-6. France and Germany to take key ECB roles _(RTE.ie)_
-   https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXFWaDZSRnVWcUF1QWFSTzhMSzdYZ0tzU3A3MGtIOVVWbUxTNk5LSG1pSmQtRXdNMEtOd2FMTkxkWU5GU3NTeWk2QTNQTnEzOGs1eDFhQXo1ekZVUzhTcTJEb0xpOVJBa2xpVkpYSkJYVS10dnprdnU1YTBOWExkUXZaNlZBWGg4VnhseVNRdmRhMHJZOHpZ?oc=5
+6. Federal Reserve signals higher rates over time as inflation stays above target _(Traders Union)_
+   https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlhoVnNzOV96M0pNN01qOGZiMm90Znd5YkZsYzdSZXF1Y1VlV2lMODhzOHYwaEQtOFFyTDhiTUhMUlc2b1prczJJLU9CdnhhME9UV25fTFZ1NWxWOGg1eDZ5Q3VWeTVZcE12MlRrTzdrVmZIdlNOUGRfcHBQaVptbVZmdXpVc3c2VjctRzM5SUhHeHRaTUU3dg?oc=5
 
 *🥇 Gold*
-1. Gold's rally is losing its shine. The worst may be yet to come _(The Economic Times)_
-   https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWWduRmM3SWdxQklyVzQ0eXVRanVQUWk0NzJVRjkyZE5mU1hVbzY4amlfNlJFdHJZZjJMTjZIQU9RQmhsUXRjZXBRVWE0UllwYnBWRXpGSWxXM01mMEZqcnlreVdNYW9iVG1KS21pVFlMaXUxNUpBN3Y4bFNSZ3hjZWRDNjBXUEdWeFZuekNlZUtTbFNIZEJPZ1YxY3JDSGxTSDQ4OWJPenFXdmFFYUt6SHJ2YnRTRHh5XzFYakRRTndiVDhlb2ZWWXNRZ3gyX1NGc0Y1Ul9YeDlMZnExSC1QeXBpbDRLenZqbHhneEp2c1NSUUxSR3ZBU3pQV0o2Z9IBgwJBVV95cUxQd2xDaGxoWFdNcE0tYmthd3IwdjhWODR4V0pBZV9iQWdramlTb2R3VEUxdV96ekFNN2UtRllraXRROG5peXBxWmVQV1R3eC03N0VEQ0NWV0JIajFWRDdaSFJDWDdBRU54SjJ5T2lsZ1pSd3NTVXBmb0VQUFc2UUpiTEFWRzZNR2xlMjhnMFZRUjQ1cWFycGdJclZTc2I1YjQ5RU5UaFBualI0LXNLVEFRLV9MLU9LVzhzRzVUbTI3WE5aMm9ITjdyOVVzMkdTWTVKVDBVRmEwaHNTQ0MyQm96c3N1aEM1OEM0OHlqdE5oMWNMaWFhSTVhXzl2ejFqQ1YwRXJF?oc=5
+1. Gold Price Today: Gold Rebounds to ₹1.23 Lakh, Silver Surges ₹3,090 Per Kg After Massive Market Crash _(theopenpress.in)_
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWthZjN5OWpQX3NyVk54eHh6YU14TEJnTVBaWFBERFM3eFUyVEh0MnJPS0VLRThCZ2ItUzBKaHIyYThGSzE0N01ndVBxUUU1czlucnNwaVNOUkxaaUtzZURyNk81MmJiNVFwUExnMHBocWdTck5QelBJNVRJZFRTTEhYVUdNd1BYQzJmb1Bn?oc=5
 
-2. Gold prices drop 36 percent from record highs amid global market pressure _(Daily Times)_
-   https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmpiZ1BickJTc0Z1MDlXekJmSkdlcUxXdU5nRVJ4a0dPLWJDbWxyMXkyRFloZl90UmFkV2tJc3lpcjlmaGI3aDR2VklFZkt3Tm5xWTNiMG5tUTB0ejF4WmVpTGU1TzdlbnpNbHBFcjBndnNVNFFjUXM5TGVQSFd6NlhXeWpfdDRYbExiU3h2VFJ6eXBXM0R3TjNVdllSdUQ0RlBHRTFYUXVKTE9k?oc=5
+2. Gold Rate Today: Gold Prices Recover After Sharp Fall, Check 22K and 24K Rates in Major Indian Cities _(theopenpress.in · +2 similar)_
+   https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDN2Mi1qeWJCVWNubnlCNnFQUUsxU0RfemFTMklXeWpqWnJWc1RPRVhTc2RyOHNZMzE5YVpZNk1zRnhrN2hFenhjVWM5S1M3M01UV1lrUmZ4VFoxTFJZRVVlZnFsSTAzd3RLTWtWVFZVVFRPc0docmFCQzZwSHk4VVNMa3A?oc=5
 
-3. Forex Today: Gold rebounds above $3,600, US Dollar retreats ahead of PMI data _(FXStreet)_
-   https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFVnWGd3U2lOSjBhQzFyRHpkVW9sZGJSbVhVYng2dlA1RnJCUXNOZzRidjYtR00xeEpsX04yMGRNN3NGRXZDSXlCeGxjV19KU2JGRkhzVXJjelRleG5WOUVkUG9LbEFTSHRiQ2J5cEF3QXpGcmFfeWNTc25tb3lYZFZxOU8xNklzSGM2bjNLNHlwSXFvZGpzV05zN1FSejBqSWFaT2xFUkI0Q25VbnJmS2dKM3cxVHhZ?oc=5
+3. Gold price in India: Rates on November 23 _(FXStreet · +3 similar)_
+   https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmc3RkpleXlvR3J1enB6b2dyZk45cC1lc1J6WTFMQzJlNjBja0NTd0gtejVUTTYySW0wcTlDUG82UVdETExBT1VzS0lfVUpUNENOLWZlWWl2U1Q1ZGczMG1HR2ZKTVdfdktKRW1QdHBUVlpCYXFqZWlYTUV0aVdWUF9BZXZQOC1FdngzazduNTFVbVFrQV95R2VBM0YtUkNyblFoREdR?oc=5
 
-4. Gold price crash with 31% correction: Why investors should wait for November 25, December 4 and 9 - What’s special? _(Livemint)_
-   https://news.google.com/rss/articles/CBMiiAJBVV95cUxObTVVQ09hYUtlTjdESktxVC0tUktiQ3NEUy1FUFMybTlmNzRaM1ZnaHpZS3VfMDEwRkVCTmE2aVlocktRVTVxNWlldEk1MS04Vl9sNkdualJRdlBMSHpkek9uMVB5ekM5Q0FDcndMRDdtYzBMcFdWTDlfR1BmV3FQWmZRR2cxTUQycXctWk9wYi1ISkNxcWhrZ2h0WXFnelJaOUUtX3plSk01UklZU0VqTFRvdHJWLXRCMXVxZzJYU0NvVmo5VWJRbVZidzRKeC01Y1A5VFNXM3ZvSzREZ1hPWWsyM0pFOWhtX3BzdGlGOUxNckNMRHdSM0IwQkFHNHVsMnE5TlZjaVXSAY4CQVVfeXFMT0FMVEo0YlQ2TGlhT3VDQjVvd3hyTjFjR25IM09YeUhjQnM4YmotTE9iTHFRODJpN3UyWWljTlkxMUNCQnRIeV9paWJXZzg0V25Zb3NvT0czei1zaUVFUzVJbkozQkRvZVFaSHZqN3otZ1hBOWlfWUYtVGhNTzVSUEtZVWN0OGltNGZ0ZzgzODFkd05Sd1BBdHZXalRha0xtVF9zYmdORnpxYkIyVkxzZjEzeEltNU1DdjJEa0hPQkNyN0RWR1N4Y25SWWJpVHhQU2lSUGxHQW9oNEloOVRHWDNhX3JDUWNnTUQxc3dWbnl5U2M1STRhZ2hKRlVmQXVuSWFDekZHYXMzRV82cFB3?oc=5
+4. Gold (XAU/USD) Price Forecast: Bullish Reversal Targets $3,900 Resistance _(FXEmpire · +2 similar)_
+   https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHQwWnIxQVBoNEN4MDNUdDhrWXZTUUpVN2t5UmlIWTdTMktLMmk2eTNzMnF1RmdRRzZoYkdOMTVCa01XOGZpWnlHSWYzZHdPdFhvU2czUHRpdll5Wm1RSEc0dXB6aWRJUlpwZ05Zb0ctV1hLb0UtenZPMUV0SFlUYVZpRXlLQ0VRbTloZXUxd3lMUEZWcWFJN3BTX1kyalRfcWh0OTRhRExvcFp0ZnpPMEhZd0VhdGhPWVFF?oc=5
 
-5. Gold rebounds from 14-mth low as tech selloff lifts safe-haven demand _(investing.com)_
-   https://www.investing.com/news/commodities-news/gold-rebounds-from-14mth-low-as-tech-selloff-lifts-safehaven-demand-5044271
+5. Gold Price Today: Buy Gold Now? Prices Rebound Sharply After Recent Crash, Experts Watch Next Big Rally _(theopenpress.in)_
+   https://news.google.com/rss/articles/CBMilgFBVV95cUxOVG53Qk0xR1dmQjhXYXNwYlJUTmMtOHY5RVpaQzNpMUVneGZkZ3M5Vzg3ZHdNY25saDBHWnpxSjVQQ1lEV1dKRndDZXhzcGVIMzhjLXVodEMtOFUyUzhHX1ExR2lfYWl6SUhNYXlMaDg1SFJWdHc1N2N6QkQ5M3V0TWVTUlhLRzBNVG9neF80elRTbDRZSFE?oc=5
 
-6. Gold and Silver Prices Today: Bullion Market Rebounds After Sharp Fall, Check 22K and 24K Rates in 6 Major Cities _(theopenpress.in · +4 similar)_
-   https://news.google.com/rss/articles/CBMieEFVX3lxTFBfUUZHa0VWMGRhX3c5eWVkMUpjbkFWeUJlWGxpNnNnUnFDWTY5bjZjZ1czamtRZkgtdGdza0NrbmF2R3VGb0o0el83eHZsZUJKTnBETXJqSzdfMVNIQlJpdHFFQzlOdGZQejJvR0J3Ukdzc0FuWmZVVA?oc=5
+6. Barrick Tells Holders to Spurn a US$26.40 Tender as Bullion Stages a Sharp Rebound _(ad-hoc-news.de)_
+   https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGszd1dQdEtQYTRHTGdjb2Rhb3lES05tcDdHUm5UdWIzWnVfSE9yckFHSXlHRE9vN3hxMGJuejZkcnJJZC1SRUxxQTRlSjEtSzJ1U3lSVDY0YVNSMXBvcXJUNE1DUVUtQXhWN1A4WTNFYmVrQW9rNDJfdlhrNjFYRU9DdGxQcmJrTHY0YVpCSDVacVFkSXBQWWhEY2JWMWVUVWVnTk9TQ2x4N3hqT1M3ak9lMWc3dmhXWklYRnIwdmlHYmFhdUdXVzA4OS1DQlZwN1lwamNCVzV0SEo0ejRZakFSUUFYRG1HTVE?oc=5
 
 *🛢️ Oil & energy*
-1. Oil prices slip as global market sell-off outweighs Gulf shipping risks _(سانا · +2 similar)_
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tVnJ3Yk05dldFdWhucy1CNE1aNnZob2xrQWNKN1E0ME5oeGZWb1BnS0tKcHM3QUxWT3lfVWlqVTRzV29TTVkzTWtUNmI?oc=5
+1. Jon Heyman talks Yankees signing Brent Suter _(MLB.com · +2 similar)_
+   https://news.google.com/rss/articles/CBMiekFVX3lxTFBvZDUtWjhQZUJyNVl4VnRiN0dKMXJpQ2h0T1FnTWV1R1BPNU0wQmJYeWRrdDNmRzR1LWtWRzhCMnpfVTdfTzFpSlk1NlpMSHJMcTdWVEs1ZngycWRUUDRFak1vSTlBMTgzeUVWd3BoZFFRNXEyX1I2TnRR?oc=5
 
-2. Flint Hills reports leak at Corpus Christi refinery _(Quantum Commodity Intelligence)_
-   https://news.google.com/rss/articles/CBMimgFBVV95cUxQbE1GMlhuZUNhQnlPR2Q3Z2RiYi0xU1Eyb1hrcExHWUlwNU9mZmg1N2ltTzRnWEEyUHByS1pqMFhXLVFQbHNoUEs5eVllS3BEVmRHTGZub0Nla0dIUXVjUFZlZHhBVkxqZTdlVVBNa2JQTDVxMC1IWmxFR0dfaDBURk5ucEZURU41MWhmbFhjaU1Mb2h6OFRSQjln?oc=5
+2. Brent Crude Posts 3rd Weekly Loss, Falls Below $89 for First Time Since August _(https://houseofsaud.com/)_
+   https://news.google.com/rss/articles/CBMiZEFVX3lxTE44LUwxb3RpMm15ay1iLW8tOFl4b2RPRnl0X3NkSVdDUzcwaWJESzRHaWtTZjVJdDlLVl9ueXBUYjh4WVBXMDc3cllRQlR1NHZGdFplWDVkTWI0SVh2RHNiQzhnTTM?oc=5
 
-3. Oil holds in tight range as Gulf attacks sustain risk premium _(investing.com)_
+3. Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart _(investing.com · +5 similar)_
    https://www.investing.com/news/commodities-news/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-5044242
 
-4. WTI Forecast: Vulnerable below $83.00 amid surplus outlook _(FXStreet · +1 similar)_
-   https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVcyTkFjQ0RZZDBVUlFsTk0zV1BHbTNFNkt5RHB5U3FnZG1MaGx0SnlWWXM0aHJxMXIzR2RHVGFKWHJ4SGFfWk1ZZ3RMNjRJNG1OZC13Q05xY0pBTVY2dWRxQ21XcXljV1NoMTdCb2NUQUhSaXQ4cXlIcTYwZmwyeW82U290SUpwbU4xTVBudkp0TVJiOEdjNEpsSTNRUnA2LXl2eWx2M0c2dm92QVAzMEZNTQ?oc=5
+4. 5 Energy Stocks That Can Shrug Off a December Fed Rate Hike _(oilprice.com)_
+   The Federal Reserve will almost certainly raise interest rates on Dec. 9, and it will do it without seeing the November inflation report, which the Bureau of Labor Statistics has scheduled for 8:30 a.m. the next…
+   https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-That-Can-Shrug-Off-a-December-Fed-Rate-Hike.html
 
-5. Troops Discover 4,858 Litres of Stolen Crude Oil, Illegal Refining Sites in Rivers _(zagazola.org)_
-   https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmpWNGNiTDk1TjBKeGtCT1VXVU9jYVI5RldZekNrd2l6bzdpd3FZcEpDaEJWZG1NYlQ5SUM2Q1l1RE9XUlBpUjZpT0dFeVFsVC11aVZIeFJPeDAyVHRCNGdDTHMyczNjRUpxdGlCYXZ0ci1tdFZiVTZqR1g3S3Axc0RFM0U5eEs4amdwaUNRc1plY1g0ejRBc3YtWmFPZ2JfX3A2Z3F5WmZzMGJ0dE0wb0F2aE9uMmc1dWJ5WWVHUVpBa01F?oc=5
+5. What Brent Brennan said in his press conference to open Territorial Cup week _(Yahoo Sports)_
+   https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTJHOE50WG0xVVlfRFN1NW5fLWZOYUVMLXg5amVGQTlkT2VOXzJhNlNVeG5STDIzcVQ3aVhXZTJGNnFMQjViRTY5Y3d5SGpZMnF6akFabTJWVjR5bjBiTHROUVo0bmRoc1VBOXAxZmVmUVowWDhUVm1rNXAtcE5ObDNac256X1h1ajN3Zw?oc=5
 
-6. Why Is Crude Oil Getting Cheaper Despite The US-Israel-Iran Conflict? Brent Falls To $92 As AI Bubble Fears, Weak Stock Markets And Shipping Risks Collide _(The Sunday Guardian · +1 similar)_
-   https://news.google.com/rss/articles/CBMiogJBVV95cUxPV05rWDEzamkxOWgyQkZkSzhtRG1DRm4xTVZoYloyYWcxMGJJTkEzSDNFUTU3RVJHODZNdGRZREV5SmN2QmIyYTQ2SlpTYm96SmhXUW9YQ0wxaXNPTlRfMm9ZVFlpZ1c1d0lXQkMzMjRUS0FPQTZjRnVITExKcDAtUmlkR2RCbFltX19WaldjaXZkTk9McWpRRmtyZzExOWJKSzNKY0h2MjE4NjFsNHk1aUlBV01DWkUwYjdSc2lZR0JWMkxnd1B5czlaeGlBd3BQSzVGWVdidktBOXB4ZGJjb25KNVc5MnB3WDNoSVRkZE56TGx6VWhHVUptdGpwaXZ3Ry1XNWlWLVh2el9wVTJuR2FCZGVtTnBfVTJZUjZRMzU3QdIBpwJBVV95cUxPZkd5cUhTRDBUWGZTaEhhSm41TDBZSXg0cHlGeTVjdENjeTZEeTRHUU5sYXBxTDF1ckVmTFRpZFV5MWlVSlpacDBZc1otZTNsc2NaUHQ3TVZmSG9BYXR3RXU0Mlp5UlFXUlVad3RmMnJ6UFF3N0RjbzZQb1JFdHM2cmRkSWxiRHhRVnQ4XzlRMWVPWDVVcmgzVDJrcXBKVDJMNmdyYUlaZU8zTTlQZVF3ZS1VYU16UzFLazhNM2M5Y0NMSUlPRmRnSHpudE9mMlVuNS1nWk9hODJ1UXdnUWozcEEwVWFQSmNxTlhhYVhZajJMUHRUd2lUbWxXeUtjcDJHQlFzX1R3NUlxM1B1TER2UTFOOGpMQS1aU211QTNsTGNwcm5ic3Vv?oc=5
+6. Yankees’ Brent Suter Signing Creates More Bullpen Questions Than Answers _(Sports Illustrated)_
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTlnQzVRWWRQTnF1NDJFWXAteHVidnlGOG45SWxBRUhEOC1OVkk1ektEem5YOFRDbU5meVZrdERub05SUHBLb2VIdWNYUEhIdG1NWko4WW4zbkNXeEhBd2djaXFJa0ljazRjUDdtdzNHTnhIZTBremJtaVFGb0U1X3hZTE9CTEdMUkVsR0Rjc0Vmbm9MNHdWN2lIeDliM3U4MVlJR1VZTW1QS0hibHgtbDZ6RDJmRmZWS1dNaA?oc=5
 
 *🏛️ Politics & geopolitics*
-1. Indonesia, EU Sign IEU-CEPA, Cutting Export Tariffs to Zero _(Sekretariat Kabinet Republik Indonesia)_
-   https://news.google.com/rss/articles/CBMiigFBVV95cUxPTU1rQUZGUC16SWVwcE55V3lsRjVWMER3NDdYQ204V19kMWY5UENIdFdvdGpFb2FqT19FX1B2N0R5NWpuYnZ2dXNPSjBaSHM3S25PdjJzMkhLWFVmRWtvbjdzc1pJSWFtLU1VUmhpV1VzUGF6cnA3NGRRVjBXSzBKUzJxdXVWdE9hNmc?oc=5
+1. Anthropic’s $900 Billion AI Spending Commitments Put Its Credit Rating in Focus _(Eurasia Business News)_
+   https://news.google.com/rss/articles/CBMivgFBVV95cUxQanlqZzhNVjdjYVpTRFZGcURwTkpwa3lFbXQ4U2pQTE1FN3RpQlhFLWFmeWZjVzBkVnRjUmhIT09vWWs0VERBd2xwWkcyQ0NxTWdoNldJeGJqXzBIMXpOQ1plVzhwcEJIc2JHZ3Q0MjNiN01PQ1NSWFJhamZLcXNJdXlRbVBIY3cwZFZNdmRqOU8xS0ZrenV1SjJ1S0pHMF9ROEhveVBfRC1oOTA2djJod2JvZjJoZTY3TDg4d2l3?oc=5
 
-2. Asian Markets on Edge as AI Selloff Deepens; Taiwan, Korea, China Step In _(BigGo Finance)_
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE5pMXhyR0Z4dDZZaGtjNDMxMHZDU3BBRHVYS2QzbFMyNWlmU3B3SVJhdVFxdXNPR1lTc0liTjAxaUpnT2I5UkJicnpwWmF5Wms2djhsZUVuLW51LWd3c1Q2MktxLVY5RzNvT0JkR3JSb29EZl9RNEE?oc=5
+2. Rising U.S.-Iran tensions could shake oil markets by Christmas _(Ticker News)_
+   https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1BTU3p5bmo4Z3BNSXdTUnVsNUxpcU5QT3U5VTNyWWdGMkQ0bC1vSkVyOW82SmNBai1JVm9xZHBIaXE0dEF6WlBocjdLRjlSTVpwbzZxUVV5MkMxRjNEeFBseE1sM2dESFhHQVhJbHgwN3E1VlgyQjRJakVhckxiaGxNaDFtM3RCRUpVSA?oc=5
 
-3. Woori Financial Group Issues KRW 240 Billion in AAA-Rated Bonds _(TipRanks)_
-   https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3VtaC0wQTZyZ2JiSTZrTXBqMTVXeFVYSzRHdFJXV3A5V09EWVhJbWN2bGJTWUkzbDZRdS1FUVk1WElyRlJtM1FtZEJqbjJwV29KY2Y0WFh3MnN0T3AwZGxpVHVoaEQwaDRfbUJfWC1UaGR0WkQ4Z3FLSXpXdEl1cExoRm9GY21KQmFrZlg1bGdEaXdGUldxb1g0ZFhySExDY2lvZWNBZHdPV192ZTUzaEFISXlGZw?oc=5
+3. PolitiFact: The impact of the Iran war on oil exports _(WRAL)_
+   https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTl3ZV9uLXFzaG1hbGxYYWFjRTRseFVtWmVkanJQVTVhdDRjb3pRV1RGU010REhsSUo5dVBXWjF1eGZranlabWxENGZ6MHpsV1ZhOWRfaTAzeUNjY0NRQnhZTzJnRVM5eHJwemIyQ2pqZ005VFpXeGhldzcybXoxNGFfZG1ZN1BxNndHck9xdw?oc=5
 
-4. Drone attack on Perm: Lukoil-Permnefteorgsintez oil refinery on fire _(Цензор.НЕТ)_
-   https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXZBMXhHTDFTVlItWmZGY0dxV2NfRkJBbVl0TnVLNDVSWWZaemk3UkdBSC1qTDlsRXBuRkYxWjg4VGg4QU5HeHhyeVJVN2swOXBERWhsdkxlRjhieFZwYzVoZ3JlTk5wdWZrb1o0cGdCWHBSMWdPNkZwVV9hU2hINmdMc0w0M250MGNfY0lZanZYaGU4UFAzNzBmeF9NUmJnV1MxU0Zfay16NEdsU015LXVRU1VRQVJjcHc?oc=5
+4. Trump says stock markets fell, Iran grew more aggressive after Democratic midterm wins _(Florida’s Voice)_
+   https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmlsTERaSGVSSVE4T01sN0RKbEhqbzZGX2Z0UmxJa1gtQjg0U0xQUUp6dE1ySk5rNWpIaDlTSThVQWdXSFFlRkNLR2RBckV3ZzhkeExIWGlHQy02eFVtMUhyTG9OT0oyVWJZR0NLSmNHMlFvU0RVb2RZQzBoVHpHM293SlpuNkJ0SUJaNEV0cG1NaWgzRFV2UjZFWGhKWV9LMG1oLVV0SUNPRWFNTXBZ?oc=5
 
-5. Japan’s ruling coalition calls for defense spending of at least 70 trillion yen _(thechronicle.com.ph · +1 similar)_
-   https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1hVV0pyUjJQVlhocmRZNktYdWl6TGVxcHozSDRpczhPTTh1d0FzXzltdi1Pc2hJb1lQTER3RTlyUldNME1JOFVxWG5qbWZCdkJnX05Mby0yelo3Vmw3MXY3Qkg3cEtUTm1CUjRGY3pYQ2Jyb2hDSDlzUlpTaFFBQTVoajRFLTIwRmtaYkNhQmxvZ3RGMWJKNnZLWEMycHNkdWRiZ05IdDFkVm8?oc=5
+5. US Sanctions Iranian Financial Networks Over Billions in Transactions _(Limapagi)_
+   https://news.google.com/rss/articles/CBMidEFVX3lxTE8tS2dpcmlLdk9oRGgtSEU4ODlaeVRka2JsaVh3cEtkUGNoX2ZWaWdrLWlwZWR0SllUUzN1d3YtdVNza2hIYjZwcWUzbVh4eHdNRUlPWGdFT1d0NTZxbEUtVU9uelMycVRCVFZ4ZlFMRDZRdUUx?oc=5
 
-6. Egypt signs Weatherford deal to revive 100 idle oil wells within 18 months _(Oil & Gas Middle East)_
-   https://news.google.com/rss/articles/CBMieEFVX3lxTE1hNzRVbmtQVzV3cWFIR3MwcTY0SzFFSHdvd00ta2dzOXZHSlI4Tzg1VHZxcjlua3I0dmdfTzQ3SXExc3AtSzUzYTF1bXF0Vk9VSDJVLVZ3VFVFOTNTbFU4aUJGbUVIMDY4LS1ReENYVWVvVEU4ZUNiNg?oc=5
+6. Iran’s Revolutionary Guard Corps Navy says mine blasts set 3 oil tankers ablaze in Strait of Hormuz _(Anadolu Ajansı)_
+   https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdk5VNk5GVlA5aXBGZ21rWHFrQW1DRGdRMDFzdmQtVkNwUHYwU1RWYlVERGFqSkg2d3ZXY2syWXVHX1BGNUc5VU1ocnUxX19lV05FWTh5VGpwRTc2Sk0zOHkwLUo5LTFlOTRSaFJnTGMxc1lUeHNIV3lzSmRxa3Y0R2lXZWY0VXhDY1licmYtZVhYdFdmNzE1OTFIWmxGTEV5MFJqLUtDRlZfN1BSQVNETTFVeDN6cFhveGtTN3NCcV9JLUZKYl9WRzd6d2JTYkJyRk44Tlpsbw?oc=5
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
