@@ -1,111 +1,107 @@
 *FX • Gold • Oil Brief* | Daily
-Wednesday, 25 November 2026 • 03:15 AM NPT
+Wednesday, 25 November 2026 • 02:53 PM NPT
 
 *📊 Price snapshot* (vs prev. close)
-DXY: 103.81 -0.48%
-EUR/USD: 1.0969 -0.02%
-GBP/USD: 1.3115 +0.16%
-USD/JPY: 159.23 +0.19%
-AUD/USD: 0.6643 +0.03%
-NZD/USD: 0.5485 +0.16%
-USD/CAD: 1.4269 -0.49%
-USD/CHF: 0.8355 -0.65%
-EUR/JPY: 174.61 +0.13%
-GBP/JPY: 208.84 +0.36%
-AUD/JPY: 105.74 +0.19%
-NZD/JPY: 87.31 +0.34%
-Gold: 3,549.7 -2.79%
-Silver: 40.59 -5.94%
-WTI: 81.43 +1.57%
-Brent: 88.29 -1.21%
+DXY: 104.00 +0.19%
+EUR/USD: 1.0945 +0.34%
+GBP/USD: 1.3080 +0.35%
+USD/JPY: 159.35 +0.21%
+AUD/USD: 0.6575 -0.83%
+NZD/USD: 0.5461 +0.19%
+USD/CAD: 1.4276 -0.62%
+USD/CHF: 0.8342 -0.86%
+EUR/JPY: 174.37 +0.53%
+GBP/JPY: 208.43 +0.57%
+AUD/JPY: 104.77 -0.61%
+NZD/JPY: 87.00 +0.40%
+Gold: 3,560.9 -0.03%
+Silver: 40.62 -0.34%
+WTI: 81.52 -0.65%
+Brent: 88.29 -3.40%
 US 10Y %: 4.904 -0.28%
 S&P 500: 7,201 -0.50%
-VIX: 26.36 -0.98%
+VIX: 28.10 +6.60%
 
 *🗓️ Next 24h — key events (NPT)*
-🔴⚡ Wed 06:15 AM — AUD CPI m/m (exp. 0.4%, prev. 0.8%)
-🔴⚡ Wed 06:15 AM — AUD CPI y/y (exp. 4.7%, prev. 4.3%)
-🔴⚡ Wed 06:15 AM — AUD Trimmed Mean CPI m/m (exp. 0.3%, prev. 0.3%)
 🔴 Wed 07:15 PM — USD Prelim GDP q/q (exp. 3.5%, prev. 3.4%)
 🔴⚡ Wed 07:15 PM — USD Core PCE Price Index m/m (exp. 0.3%, prev. 0.3%)
 🟠 Wed 07:15 PM — USD Prelim GDP Price Index q/q (exp. 2.3%, prev. 2.3%)
 
 *💱 FX & central banks*
-1. JCPL welcomes Ashley Garcia as library director _(ECB Publishing, Inc.)_
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1ycFNyeVZXLV9ZdzE4dFFENl9xT1JlYjRJRFJIanBib285Uy1nd1M1RGNtUFJ3TkYzRnE3dzdkOUtlVW1BcFFjTWlWTTlGYnM1TU1SNnB2MzI1LW5mZE5LaXo0Y3N1LVZhVmg3UXF3ZGxJSGY2QXlDdmZHOHFDNGs?oc=5
+1. US Dollar Index Price Forecast: Struggles to extend rally beyond 61.8% Fibo retracement at 104.65 _(www.tmgm.com)_
+   https://news.google.com/rss/articles/CBMi8AFBVV95cUxPXzBIWHJTUG0wQW8wOWFlZnZSMF8yS1dCSjU3REdlSHpiUG9mVS1HZ0k4UjctREQzSTlrc285RWZFQ3RZVG04ek1yYy10WjBsWGt2MXd0OGY1bDFKcklELUplV0hBZ3k3VE9CS05vVlFBRDB6Z3BtdmJlVWhRamFfUlRiSl9PYlFjcjBpeUx0Y1VZdENURkdEYnZkNXh2TlBjdkxYOVh0OGtiaW41LXVpaEhXMVlJTHA2OWU2UXd0dXhlcEFHYzRsVzBMR3ktY2psZjJDbWtVQ2tPTHNUd1A1eVQxbTB6RnkwSzlVb21CTU0?oc=5
 
-2. Dollar retreats from near 20-month peak, set for worst day in over two weeks _(investing.com)_
-   https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-20mth-high-on-ai-rally-5046950
+2. Shilling weakens to Sh130.20 against US Dollar on importer demand _(Capital FM Africa)_
+   https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHhvWld2MDhKVS1LM1Y5X2FRdDZlV1A2X1JZR2k4Um5RcmgwX0RDMklrbzJBMDZmcXltU2V0ZFBOZUlrTHBabkxLZ2JzenN3OVNiblN0enJ3WEtvaXR0bUFsdHJiVXczWU1fZzhvUTFYbUFtU1M3dVhFMWhFaS01Q3FTVHNUOUlRZGEwWFpUbk5rRjF1VVE?oc=5
 
-3. U.S. Dollar Retreats On Tariff Hike: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY _(FXEmpire · +1 similar)_
-   https://news.google.com/rss/articles/CBMiygFBVV95cUxPTlMyek1mSThBNVF3VkR1OTRfcnl0UXVxZjdDRElBT2UzMGdkcE15c0F4dkJfLUZRcDU3NmxETG5BMmlUZ2gwbXY4VGNIcHZ6Y3hJVXpISjJLdWZFTl9HQjlEVTBlNlhQeG9YSkN0TUxjdnkyNFJ4Vm1MWmNYd0Y2bzdFdW9wV0xXS08zMGZ1cUFMMEFYaElicWVKMkJPRU9HMC14ZVZpVUwwdGJ0TFZaM3hud2JJNnR5OVVLeVhxNmxVUHZGZkt2czB3?oc=5
+3. Why is Indian Rupee US Dollar stock climbing today? _(Investing.com · +1 similar)_
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxPWTRjNWc0bGRBX1B6MHpIanZuX1pLNUcwbFVrendsRDZHRTk5Rm9GUHBTdDFoWm1ldDNsT3hIaDlnX3FhdlU0cjd3TEdpSHcwdjcxMmxpY1MwSEY0NHpSMHpxeXFZdGlzUkFwR2pTb0tHUEtjMUFfZFZPMkFMUWtfbVotYlNWY2hyUTVVbXZ6cF8yOFlsXzNtcHVSZDdvRkpwS09DSWRWV18wWXBPd2szUzl3?oc=5
 
-4. ECB expands role of tokenized assets in traditional finance _(Yahoo Finance)_
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxOenhVdGotZUJleDRqU0VYa3B0STM3YnFhellBUjBYWVRpNE9ubE50b3pqRjFadmJmekpOeUIwN1ZmdEV6cUZHS3paZXRMY1dDQmV2UFE1eXV6cHFxM2hrLVpyLUE0dVhHY2dOY0RkcENwSEZWbm13UHE2OTdxeXdoTE1sVmpqYVk?oc=5
+4. Dollar firms ahead of U.S. data as Aussie slumps; Asian currencies mixed _(investing.com)_
+   https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-tariff-risks-aussie-hits-11month-low-5049767
 
-5. Bitcoin Analysis: BTC Slips Below 60k as Demand Continues to Fade _(FOREX.com)_
-   https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnpnTWEtQXVXN2dMODI3ZmdRRTVVb2FzRVQ0aHJpWG9RNFkyWmt4Y1RtQy1CMHFsUVJ2aUZkZUVJUzVPeFRYcm9kZTNGbktGWnpqaTBBaWJmTUJIWUwxRU4yM0ZVbVBsRmptb3QtUXkwbVdIVjVqZmcyVlpvTUJsQzBOTGhxX0pfdko5OXctTDBlTkxBYUw3Y1dkZGIyQUJuV1J1c19mdDl4T1dCRmJfeQ?oc=5
+5. US dollar to Swedish krona prediction: Buyer support underpins near-term consolidation _(Traders Union)_
+   https://news.google.com/rss/articles/CBMihgFBVV95cUxQRktZbVdpTDRWMnBJT2JIQjdIQkQtTk5jd3lMLWhPQnhiYWEwNUEyUENJRExubFpnUlUyTXBwdTVJWkhVODhhQlZfNlhRTTVhbU1jb2g0YlM3R1B4MUhOdU1jaGNIQjdCQ1lhX3ZhTlJIeGROQzV6SlJOdVl5ZUhNYnlwZy1wdw?oc=5
 
-6. FOREX Dollar slips as Nvidia-fueled AI rally fades _(Reuters · +1 similar)_
-   https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk01SnRnY1hzWHBOdlQ5eGdldmlIQkd5QUM4SFJ5S3Z5YWtVQnlYWVp3LXlqajM1QTA5UTBBSFNrOFdjVGdWME54WUJYdFRGUXJDYlVmUDFETjlITTZtYkFiWW9IcU9sVTM0R0otbjlmMXNCdC1HSEVNOXJMaDlIMC1YUnFBUDZNMXh6RlRwMVM5MDFRTy1YQXc3U21zYU0?oc=5
+6. US dollar to Mexican peso rate consolidates as bullish momentum persists _(Traders Union)_
+   https://news.google.com/rss/articles/CBMiigFBVV95cUxOUV9BcTM3NVBxdUJjNi1Yc1o0Y3ppUUw1dW9sSlhnNUR5LW5BM2dvUVU2MGcxcUFCQjdVc0dEVElIejd0Vl9mejRqMXBURVpKZXUyWTFfRFZQM0o1bS03NDlJcUVQOHRBaWNNX0EwSmxzdXBBVWJ6WTFrajZXY3dMZjh6VjJKaW9aZ2c?oc=5
 
 *🥇 Gold*
-1. Gold price falls 2% on hawkish Fed bets, US inflation data in focus _(Mining.com)_
-   https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5
+1. Gold, Silver Rate Today: 24K Gold Falls To Rs 1.20 Lakh Per 10 Gram, Silver Slumps To Rs 1.41 Lakh; Check City-Wise Rates Here _(The Daily Jagran)_
+   https://news.google.com/rss/articles/CBMikAJBVV95cUxOcHdoeXhDam9qbklSdldxUWp4YUd4T0hOeFN4Vko2YkxXQUtOc3M0eXdxaHJrSE14TjdzeHJ2c0VYQ3o2dUJnWlc2dFRjWjdEWjBNV0JEbjRBdmJVSGszWWJBTmVEQ05FN3RvZk9tWGFmeTNqQ2p2bVZpdnNnNTBYcWs0MzN1czVDUHFlY3dGWGRoNC1GOGpUT2N3NFBMZngwUFU0Wm10ZGJvVWxMOWZ4cXFWekdPbFVER3lMS1RtcDdJWnBBQjhpUE1jYWFCbVp0cGNmOTdHelhNeWdMaXBVeXloSFFjZ2tGdTl5a3NuM3YwQzVfdG51dkdjSjhDM085Z1NlM1psODBkMUlleURIM9IBlwJBVV95cUxORFhUbWc1NzF1VGc4bEE3a25Ha0NEQ3RzQkRSRVhGMUFrRVNlTXV5eTFPNm1SQUZtU3FmVU1zTWtkeEFpU2tFREFCdzVhOUVuRkpselNWakF0NzhpRGhYTDdxM0ozRzdiM1F1azNkS0s1WE9WWVFSUnkxS1RKT016Z1RsR0RWRDY5RVRzSDBVMnlsUDhFQmpDWXltSWFzcmlLdkV6SXlVdnppWFQ3akNkX05aVFR5cV9UdDg1RkNuVmlkZnhTc2Rvd0pGdDR1UUhZNG1mNlg2RWhpUXNvU3BzWWlqeTBOX05ITThMR0Q4WlNqREpfRjJYQzRPNXV1QWJOb2tSWFc4eVNQVWhiMC1JaUlzcGJZRk0?oc=5
 
-2. Gold ETF options draw neutral premium trade as bullion tracks stocks _(Traders Union)_
-   https://news.google.com/rss/articles/CBMilgFBVV95cUxPNnEwS2dUWWttUVAtQjNuUHBYcmpwU2luNlVuVkJsME0xalQ2WVpuckd4Sm1sV0x6SDd5d3E2VlJzVmhZM29kRFhldUJpV3dVMkFCVWdoTF9aU2dQNm10Q1N3VEJrSDRxM1djdzItZXQ4ZmFDaVdYdHJ2a1hEVHNCdURJVlNPTk0zR3JiMzI0Q1VNSXI0aXc?oc=5
+2. $40: A level whose breakdown could expose Silver price below $37 _(www.tmgm.com)_
+   https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEpYaUFXOElJaTV6RGR5YnBnTlZZeW5MNVU3cHduSWJtalY4Z1lVTkF2OEhxc2hxU2JuZk5zLVZ1bWpwSjRPWEJ4NF9KQjFRNjc1T3dqQ1NvLU02TFA0RFB1cV83Si1BMVQ2T0hkejdOaHV4eTZhUWxxTTV0V18yaW5sMXYwTVFzSXpRdVFITksyVTJqVE9kcTk5RzZMSWlnbF9lYnZXeUN5bDRfVC1UMldHYy1fd014NkRwdEdJV3ZMbkxDNE0zekNn?oc=5
 
-3. Evening digest: Anthropic stock falls below IPO price, gold price falls _(Invezz)_
-   https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEdURTBhMlhoczB1R0FZNnRUMEVPZVNPeEJvMHkzU2p4aVpDMFVhMG4xbUhMUjVrNDhlaW9EX0dVYTNBLXV3ZFA4ZFlTLUNCcHVtU0MxRTBObW0wWHByV0VORjhIYTlKYVhuamxVcHUwcXRZNEJRWW1qZzVJNGRMSzJma2VfUlpjdmJoTjVCUXpZODAxbTZfbmIwVXJ1eE5TNWlnY1lTdkFhQm1W?oc=5
+3. News by CNBC TV18 on TradingView, 2026-11-25 — cnbctv:11f0e2cf0094b:0 _(TradingView)_
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EUGNOTjYwbXRuclRmNWxzSTFmQWxuWnBfSkVVeDVQcWtpTVVETDZZNzlwajJEQUcyaWNJR0NuSUNOZF9uTzB1ZDdPV0tKNTZIMGNNS0loaTNpc2doV0liNU1JNW92ZGs?oc=5
 
-4. Gold Analysis: Is the XAU/USD Recovery Running Out of Steam? _(FOREX.com)_
-   https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUo4UnluY1MwZXFwemhvM1ctdGJTZ0xrSFhuTlFsSEpEOEM5dVFjWWd6MXFiUnhtdV9KYzhCakE4TEowbHhaaGU4elJSWnhNaVhDVU9HMEhzTUJYLWpkZWRCbDdQMV8tWmR2cFBTQ3BfSmxwQ1puSVV2UjV0blAxbHMwb3dFM3FzaGpKNk9nWW95eGhTN0c3dVFpT19xcVlkR2JDMUxhUUs?oc=5
+4. Gold Price in Bangladesh Drops by Tk 2,858 to Tk 196,830 per Bhori _(https://www.businesstimes-bd.com/ · +7 similar)_
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CaW1SRzQ5cjdkMW9LTmhleC14dVRCcThIWjl2enVkTmVaRDZQSTVlQ29RRjhGOFEtTm05b1l2RjdKMlp1T2tHNDhSb3UxNXRkVDlCRFFGdkVEclA5YzJwdVJsc0NVdw?oc=5
 
-5. 8 Best Silver Coins for Your Stack | Silver Stacker Guide Building a silver stack? Money Metals takes a close-up look at eight of the world’s most popular silver bullion coins. Explore striking designs, trusted mints, and what makes these coins favorites among sil _(LinkedIn)_
-   https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUlzUEpkcnJPcUFLamUzMVpFV2tFZ0s5eGpNcXpNb0dxRnY5YTNuYmZCTXdYYkwyMHlScVl2cGFaVzJwdWp3S0U1M0c5Rjdvbmk3MUxONGZNd21qdzlaWlJNZV92b3IyekpFb3ZQV2Nva2RxTEd0TWZYQnhDalNHQ29OcjlvdklfaFdiVGZGcFoyRXJlRzEyQ29PSmRBWDVsTk1tcEZFRG1UeFV0N2NUeHlPVGhadHZjZkY1dQ?oc=5
+5. Gold Price Prediction as Gold ETFs Have Their Biggest Weekly Outflows Since June _(CaptainAltcoin)_
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxORjBEbmxUZjRLd2sySGRYRFZTUkhMblltbHV4aGJ5OGJ6RFU1dUlJaEE4U0VnOWdpdWtReGxkeGlvV0ZRUUYwY3JtSWJNNkgxQ1JhRGlGUlJJSExSUEZTLTZHT0d6VGY4TWQxNEJhcnN1VkExN1NGRUpzbnVWM29LTDQtQ1NpQWRJNURSbUQta05vbXp1X19Md1htUURoRlpyRnlzSS1jZDRGS0Et?oc=5
 
-6. Gold's Safe-Haven Credentials Fade as Bullion Trades in Lockstep With Stocks _(BigGo Finance)_
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE44aUZlT1lMMVJmaEtadXFDR2NHbE9yeHgzQU1TOWp1Vk1CUkNFR0xQbUw0Q0J4RWw3R2N0TDlaQ2lkeVJ2WEhZTTFMeUotUmRpQ2llRmNqVFpyZjJrSWJVcVg4QmNjcGZOVlAwZEk4b2JZTEcwWmc?oc=5
+6. World gold price hits floor, investors face great pressure _(Laodong.vn)_
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3g3TWQ0c0hlNVYzcld2dldfZDRlZ3QtQ3dVd2o1WVUxUmRYZGRrLS1vWFQ1WlcxeVZfcG1zYzFqT0xOeFpueE5tSDlvcnJJVU4xeVFXRS0yUG40SlpDUEJpZlNNLXNPQVRhUnpZZzBpOE5nOGJKeENNUWpCZnFaUkI4dmpWb0VYWTJ2SWVmc0UtUkVNM3g1VG5LZkpUSnFKY190QXlQYWk2a05V?oc=5
 
 *🛢️ Oil & energy*
-1. Brent Venables eases worry of Sooners suffering flood of devastating transfer portal blows _(Stormin in Norman)_
-   https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEtERlZqRUI1NHc2TXlMSUNhQkRMWWtlLXAxM1JweDVFc18wdHZMT1FlOEFvNER4YWdlLWo4X1RKbG9aUlBtYjZMUEUwS0lQMHVZbzVXLUh4VUFHMmM1V2oyVGR0ZGhzUU5idWpEd3NKQVoxc0NNN0ZFX0pISHVzbVZkRFlDQktBYVJ5MVRyMVJxanpmZkk4TzRacHN0SGwyUWxDUzREOFlIN0hZWTY3X0x0dFFOZ3YzaEE?oc=5
+1. Iraq Rejects OPEC+ Assessment of Its Oil Production Capacity _(Bloomberg.com · +4 similar)_
+   https://news.google.com/rss/articles/CBMirwFBVV95cUxPalAzWlRlOWZNWE5rTXFHTmp4TmNfdlZOS2VJa0pZck8tZmczNGgtSl81VFB4bFpTcXVHMmwxV0ZuRVhlOGh0MUtrWTIydGo1NlYyVXZsNXdxSXdEbEpuY3ZacjRlV2hUOGJER0ljZzUyMDk1TVFkbXhwZktvQk5aSDBPUEdTRVYyaVR3eVdDaVdWR1RYOXB4UmJfOUdvY0t3bk9rZFlFUjBBTFYtdFVr?oc=5
 
-2. Where Does Texas' Data Center Boom Go From Here? _(oilprice.com)_
-   The first data center permit Texas issued after lifting its freeze appears to have gone to SpaceX, for a $24 billion project at Starbase, Politico reported. The Texas Commission on Environmental Quality had gone back to…
-   https://oilprice.com/Energy/Energy-General/Where-Does-Texas-Data-Center-Boom-Go-From-Here.html
+2. Global LNG Supply Crunch Set to Spill Into 2027 _(oilprice.com)_
+   The global market for liquefied natural gas will remain relatively tight next year, Malaysia’s state energy major Petronas has forecast, noting the continued supply disruption in the Middle East, which will keep prices…
+   https://oilprice.com/Latest-Energy-News/World-News/Global-LNG-Supply-Crunch-Set-to-Spill-Into-2027.html
 
-3. Brent Venables on how Rocky Beers contributes to team _(OU Daily)_
-   https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlE2MGh3UzB6TldGUkpGd0lhOEF5cEdTYXIxbVp3b0Z6Zk1taUowY0M1MXZGb1dhNjVHbnFHZU1TZFF6UHZ6enVqd0NNRkdPZWhfTE5YUFZoUnIwTU1sNS1wNjgtdnlSeU1HX1NkLWN0dGE4ZGNzNG5aMnZLUmZkaVN6aUZWMHYtdDM5TUtUd0FhOXRqU3A2UkhfYVVPbnFhZHRUTG53MGJTc0d6ODVkWWd2M2UzUkViVGV1RTZCSm1Yb0JITFlwZWotYUVkTi12V0E?oc=5
+3. Eneos restarts crude unit at Negishi refinery after maintenance _(Quantum Commodity Intelligence)_
+   https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSllwb0ZUamlQMnNlYTlxTEswaG51MnE5amlwOS0tZ0VXeW1hN0lsc1kyRWQzNTdwTGJUaWFEd0NOZnRSaWtoTnpLaVlJbmxhUVZBbHhpV3lkOTJWc3hZQ3F2UzRjdzVzOVA1eGNwVjcxS2xzbzdTTTRDV1JVS2NsVnluOXVrOEZfYnIwaGVWNi0yQTNyZ01JLTN1SEZja0lJeFdldnkyVUZzZw?oc=5
 
-4. Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity _(oilprice.com · +1 similar)_
-   Iraq is refusing to accept an OPEC+ assessment that says the country can sustainably produce less than 5 million barrels of oil per day. Baghdad wants OPEC+ to recognize a capacity of around 6 million bpd—an important…
-   https://oilprice.com/Latest-Energy-News/World-News/Iraq-Refuses-to-Accept-OPEC-Assessment-of-its-Production-Capacity.html
+4. Three-quarters of large oil tankers now transporting crude amid high earnings _(Crypto Briefing)_
+   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWTQ0dlBJdzRwUHFfSVFXUlZMV0tDWHN0SEJWamoyekk2NmY3bTNWeUJNYUloM1Bac3ByY3RnRF9YVXRueXRCWGo4M241VkNubUlONk9sX3JGLWFNVW8wb2FGWHM5MDZkZkRmSFZDTjVoSDlUOVBQRGtCN2xwaWRiM1MzS2dpWWdTbUVtN0VUYVV5T3FseDhJZlNDUTN0c1JNMkswakpIQ3Y?oc=5
 
-5. Gold price in India: Rates on November 24 _(FXStreet · +4 similar)_
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlFKSE9lY0xoTzhQcGZyWGxVeC1UNGxsZ0lBVklEbnRIQk9KS0ctZVpENTB6eDMyWjQ4SkpNS0tSM2VIWHItZHdsZi1KZUhTRDlwdmo0c0djdFhDQ0pFSlRYcHI5Y3FrbFNUR1h3M3NSa2Fvd1BFaWpBQ1ZwMlhEeUFWaThobk5zbFdZZTVBOEhLOWE4elJkb0xxN2RpdVpaZkk0QU1B?oc=5
+5. Iraq to contest sub-5 million bpd OPEC+ baseline allocation _(Quantum Commodity Intelligence)_
+   https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2VnYXc3ZGdPaVJyOVJXYU03aXZOYUFRdThxY2JjWjdwcEFQYXZRVHFyT25DZG1zektmSHBvNHlvMzN4NTJmcnIwNkNab1RsRGE4WmNSUFhWR09kbXR4MEp5OUY1aE5uX0lEWTlPSWlKSzJyLU9kRXJmcHJsU1BTM2lRbVVXRFpkUGMzSXNBd0VpX3lMTGxNai1RNjI5MUQxdHJF?oc=5
 
-6. Oil Prices Reportedly Rise Over 2% As Brent Settles At $91.40 _(Forbes Middle East)_
-   https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFNzZjBvRVE2cHJDcUVwX3ktc1RWeklzbnQ4TDM3dUFadTc0R1FGS1BwSG4tTFMzNDRaRlk4X2RaaktYMFNjOG1rX3hEaEgxOFY5NFJxVWl5ZTYtaU1uSzNoVUhjQkFKajRxSlZORmN3VkJxNi10d2pMd1l2QjFnR2V4dDNxeGtqU2VuR0pfYlhVXzhwWFU4XzJXWlJEWHRFMnc?oc=5
+6. Two overnight attacks claimed on Russian refiners _(Quantum Commodity Intelligence)_
+   https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXRYdGNjY19odFQ4dHVsRTdmTzdMQ0ZqVjJ5c3BJc2x3YlRGWmFVS2Y2cklubzB0NGIwYU0zcDk4RTNhbmxTcy1OOG41dmVtWVlNM05HcmZ5SzlhZFdmN0JxUWtQRXNodDctcm1HdmJKcHZCcmt6c2NkSkRTMWwxelpob0RBb3o1TVU3OWtMc2xaalo2VG1n?oc=5
 
 *🏛️ Politics & geopolitics*
-1. Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions _(CNBC · +4 similar)_
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSnVNOTQ5Ml81YUdQSkxzbkI0bVF5OUV4RndqcjVrWkM1SGw4V0tZOVJEbGRmTGgybGxfTUwzRVNISTRFUmxkX0cydWlPcVRCN2dIWFFfaklmbk40ZnptNVMxUURLdWFoRUtUNkNR0gFzQVVfeXFMTVY0aG5JUVJlODBXb0tvdmJTRjJoV2R2Uk9TMVpKcFdpLVpTUThDU3MzcGw3RnVmanBjQ1VNRFlkRi1JZUMxMDRNcWFXLVJoNlo4dVB6VU91V2tYRnpDU1oyekUxaWQwdlBXbGJoZ1ZlSGNKcw?oc=5
+1. Bangladesh raises minimum wage for garment workers after weeks of protests _(The Washington Post)_
+   https://news.google.com/rss/articles/CBMixwFBVV95cUxNWlVYdlpzdGU0cjI0YW9DbEtJOUVYMG9EWGU2dUE3eDlJRUNXWDlWNDNHd25Ta3FzcHdNSF9TOEx2c2hkSHpXOE5vMWU3Mkw5d2poZ242eFpOUmFqd3pUNFhuNFJHVEhSRlBjc1hmeHBYVHJIM0QtRnRMUV85M3dnb01sWXRPOUZnc24xOUZnZHRacWhBbTY3WUkxUW5BMEp0djlPc0EyU0ZSOXM3d3ZMVU1nMlcyZnh6aHBNMWN5UTlfYmZ6Nk1N?oc=5
 
-2. Oil’s Iran war recovery masks stubborn diesel shortage | The Hindu - Internatio­nal _(PressReader)_
-   https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2cwYnlTdV9PcnNGbEtLOVBKUWFTanhBZVAwNkNuSllOZ1VxZW1Ib3RUS0t2N0J1VnVKNzRPY3hGNXdzVW1acnRNRVRWYXU5X0Y1SzRCODd2UmdLYzV4Q0RObU1uRXZaLXBMZmFuTTRFLUs5TUJ3SDZZVzQ5dExJdXJsTndVMzVxeVVEMDRNd2I?oc=5
+2. India’s Christmas exports rise 4% despite US tariffs as UK, European markets drive growth _(Moneycontrol.com)_
+   https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQW1XV1U2WHZCR1h1N1h6SURDem1PRTEtMmVZUExield1eUw2cDRRTlJBZVV5Yk4tSmRiNEJFN01Nd1liUkwzZEx4NEZzMGt1X2tPTUEyY0twdGdZUlkwa0lVMEt1Vkt2bHd1Z0lJSWhySnZTaGJNWUQzWU1HUDdsbkpUMWpLZndYNm5MRExOWkRfVlVWMU9Ed2JjbFJBX25NV25JUW41YzVSQnRMTzlrWlRIdF9IeDV3bVNvSEI4N3hiUW1aSDcwdDNnTTNLQTVfa21ZOWExREhnVFNw?oc=5
 
-3. Iraq plans to buy 10 tankers to drive up oil exports _(Arabian Gulf Business Insight | AGBI)_
-   https://news.google.com/rss/articles/CBMimgFBVV95cUxQRFphelk0NjdtU21IY2V6Qm83X29Bb3o1c05WdGhVelN3MzhrZEFyX25KY1VHNjdpSjJaZVFPaGF0elhOOHQ2YjU5eUJKcmRfUEt2ZnR2RlNHM3NDcmp1RFlUV1BqZG84d3lwbWhpMlFIemstVTdCbXhqREJ6Ym9tbHF5NWw1N21WdUl6eEZkaV9STXVGOWFGcWRR?oc=5
+3. Russia oil loses price edge in India as Middle East exports rise _(The Edge Malaysia)_
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE51TERISnVwb1NzMnRUUW5rRm9FNnltbXZYano1T3A4bG1hN21zcE1JV3ZEZEtUZl91SDdBRDJEWHZQRzZTaDBwaWtBbGVlaVZL?oc=5
 
-4. Middle East latest: Eleven injured in Houthi attack on Riyadh financial centre tower _(The National)_
-   https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXhnd0U5NHV1U0V6RmlPTGhnMlM3WFFQWWdJQjlTRFBkVUJreHQ3VVZKZnFtNmNpTGZucTZrbHRzZHVmd0JlN3ljLWlIWU8wWUJuZ0V1ZHBVT2FuYVVpUTJnQ1MzSkg3V3VQcFd3VkItQUNLTDJtM0ZORHBKbWJZUllENjdhZzZuSzR2T3ItTlBvRnhSQ09HTQ?oc=5
+4. Asia stocks slide on chipmakers, rupiah breaches 18,300 for the first time _(The Star)_
+   https://news.google.com/rss/articles/CBMizgFBVV95cUxPNkNKUkVTcEppTzVnVFB2YlRxTGVTaFJETTIyRGg2dGViaXZZbENHS1ZhR0psLUp3cXpfUmJHc0NHR0h4OVBtRUowR0IwZC1WbVpJTENDOFlRTGVIY1ZWWXFVS1ZadW1FSGxCUUVodnIzd3k0cU41eWZuZFNHcDNySDVMSEs4czhYR1d2XzM3WnZuSlVRRFZ3RHdmajBXYnIzV1NnaEhzZnpaX3RWd2Z0VHV6aERwYUtHYVl3TFdpdU5HZWdkREszTFB2a3B3dw?oc=5
 
-5. Russia to Respond to Ukraine’s Attacks on Refineries, Putin Says _(Bloomberg.com · +3 similar)_
-   https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWkwcTJHZWRaQjBXTk82Q01HUE84SGt3TVlJYThXcnBXNDhkRTNzZERNSzFOZE1OODAtd1RWU3BWdENLXzdXdTZiMHdFbUV2RXJDOWNtdEhONGdXVWoxeVdYRHJrWTIyelZqTG1nX0VGS20wTFc0NV9BNDVfMTc2cmZob1g1SktVa18tYWw2XzRLNld6UjQ3b2M2R1IydThmd2FBUmlyX1lEbFl4eklySGNUZks?oc=5
+5. European Commission proposes lifting sanctions on Georgia's Kulevi oil refinery _(AzerNews)_
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE91UlFDSHRGeFVydG9oVGNMVWVDdTc0YUJmMW9SQklPdGEzdVA0dHBZVDdDREY0MnZfdUpHVllNXzlqWk1KQTVFa2h1c1dkTVJOZzV2Wg?oc=5
 
-6. Iran’s Rial Hits Record Low as Protesters Reject War and Regime Insiders Warn of New Uprising _(National Council of Resistance of Iran - NCRI)_
-   https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFhXOGlaY25CQTBUeVR5aENjejRpRG1saXBqa3VDUDhESkJEMHlTejhjdlpTZTNxN280ajdTMkxyMWVKZDJZaUI2enFJLW43ZWxnQnBETXhOTkRlSDZaejdPZnBKQ1E0VFo0MjJ3TlZHbUt3U0p4N3dPeElxQXZXWXhXLWo0cnA5WjBnTnNRZzFnQnktMzRyMXdsSXBiMUJZbEZXSDBxMkF4a1VZb1pGNXJrMmM5QWRuWFd0UnpuVGU2Mi02aU1HcUxlWGkzZnB5d1I1dTgtdw?oc=5
+6. California Approves $11.25B Housing Bond _(Wisevoter)_
+   https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0JHa0pUY2JTNEwxNlllRTFnYWZtSm9lR0tyekQ2MWcxemNxR2tmaXRyYnNLaDd5YlpqdlJJQ1R3ZE92Q1F1S0pBMDlqbmd5dTM2dGxjVkdQRW41ZWtjWmVTdkx0a3A5dkhGSktuMXlNQW5oNTVZRFBJQkxtaE92U1Awa1F5WDF6ejloZkNZYw?oc=5
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
