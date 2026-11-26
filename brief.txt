@@ -1,126 +1,105 @@
 *FX • Gold • Oil Brief* | Daily
-Thursday, 26 November 2026 • 02:23 AM NPT
+Thursday, 26 November 2026 • 02:38 PM NPT
 
 *📊 Price snapshot* (vs prev. close)
-DXY: 103.67 -0.14%
-EUR/USD: 1.0982 +0.68%
-GBP/USD: 1.3122 +0.67%
-USD/JPY: 159.20 +0.12%
-AUD/USD: 0.6630 +0.00%
-NZD/USD: 0.5491 +0.74%
-USD/CAD: 1.4203 -1.13%
-USD/CHF: 0.8306 -1.29%
-EUR/JPY: 174.76 +0.76%
-GBP/JPY: 208.90 +0.79%
-AUD/JPY: 105.52 +0.10%
-NZD/JPY: 87.35 +0.81%
-Gold: 3,607.0 +1.27%
-Silver: 41.26 +1.21%
-WTI: 84.00 +2.38%
-Brent: 90.62 -0.85%
+DXY: 103.75 +0.08%
+EUR/USD: 1.0976 +0.13%
+GBP/USD: 1.3113 +0.01%
+USD/JPY: 159.10 -0.10%
+AUD/USD: 0.6643 +0.14%
+NZD/USD: 0.5485 +0.14%
+USD/CAD: 1.4221 -0.36%
+USD/CHF: 0.8331 -0.32%
+EUR/JPY: 174.59 +0.00%
+GBP/JPY: 208.62 -0.09%
+AUD/JPY: 105.65 +0.01%
+NZD/JPY: 87.25 +0.04%
+Gold: 3,596.3 +1.71%
+Silver: 41.77 +4.29%
+WTI: 83.84 +0.19%
+Brent: 90.53 -4.31%
 US 10Y %: 4.848 -1.14%
-S&P 500: 7,153 -0.66%
-VIX: 27.90 +5.84%
-
-*🧭 Market picture*
-USD & majors:
-The US Dollar Index fell 0.14% to 103.67 as the Fed's Beige Book reported moderate growth alongside wage pressures and sticky inflation. Major currencies advanced, with USD/CHF dropping 1.29% to 0.8306, USD/CAD declining 1.13% to 1.4203, and EUR/USD rising 0.68% to 1.0982. GBP/USD gained 0.67% to 1.3122 following Bank of England inflation commentary, while USD/JPY ticked up 0.12% to 159.20.
-
-Gold:
-Gold rebounded 1.27% to 3,607.0 alongside a 1.21% gain in silver to 41.26, bouncing off technical support despite recent PCE inflation and strong GDP data.
-
-Oil:
-WTI crude climbed 2.38% to 84.00 while Brent dropped 0.85% to 90.62. Expanding supply from a third consecutive weekly rise in US crude stockpiles is contending with disruptions from Hormuz Strait attacks and Ukrainian strikes on Russian refineries.
-
-Risk mood:
-Risk appetite softened as the S&P 500 slid 0.66% to 7,153, the VIX spiked 5.84% to 27.90, and the US 10-year yield fell 1.14% to 4.848%.
-
-Political risk:
-Newly unveiled Trump tariffs targeting excess industrial capacity are pressuring global trade sentiment and rattling equity markets.
-
-Watch today:
-- Zero scheduled calendar releases over the next 24 hours.
-- Market reactions to new tariff announcements across global trade channels.
-- Geopolitical developments regarding Hormuz Strait shipping security and Russian refinery retaliation risks.
+S&P 500: 7,183 -0.25%
+VIX: 26.83 -5.16%
 
 *🗓️ Next 24h — key events (NPT)*
-No high/medium-impact releases scheduled.
+🟠 Fri 05:15 AM — JPY Tokyo Core CPI y/y (exp. 3.0%, prev. 2.6%)
 
 *💱 FX & central banks*
-1. After the Bell | Soybeans see modest buying interest as U.S. dollar index weakens _(Pro Farmer)_
-   https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXJVTG9CdFpxaThlN19kVUNCdzJfZ2pLSHJxVkF0TjhrbjdVYnZlVll1b2VPNmZMcTFTWTROWERWanVOX1BwTmF2VWljVmUtR1FWd294Sk01aFp5dEtxVnhCc05aZlZickcydU4zWGpsc1VoR0RyeVc5Q0RuWEhZUlJmVGFXQnlhcVBBZTBjR212NjctU1NBMjB3a1BMVWpmVlBLT05uRENNa0RsVWV2NWMybw?oc=5
+1. Baht weakens past THB34 per US dollar, its lowest level in over 19 months _(Nation Thailand)_
+   https://news.google.com/rss/articles/CBMickFVX3lxTE9mdHVKZUZtRUt5eWZIWFNNYTYtbzZPdmxxeHRhS2hURndlaE1tRjAtT2NES1dhZzdEMFBOQVlvNzNkU3dmcTY4UURnR2xwWlJYaWFER3JYRVV6aDd6ZllTZnh5bk55cWJrZ05hR05JMEJ0UQ?oc=5
 
-2. The Beige Book – First District _(Federal Reserve Bank of Boston)_
-   https://news.google.com/rss/articles/CBMizwFBVV95cUxOcTNyYzVQZm13aDRHdDVUQlVVd3RicW5OUGExTW1CVE1URHFxQWJfREJXU2plSk41bXBESmtpUXpVZzM0Rk0zT0FZdkpvZnBHaWlDUWkyTXhuWHhEMFI3NWszdHMtY1hDZ2tQdEJZOUlaVi1LdDQ4QkZWdmZRQk9TcURqWnhDeEdIYkpxSWFySkhzX1dFU2NrVnZzY3duUXZQZUZzSkRXVFVsUVQ2OTFZYk5PX0xtX1Rqd0xLU1lialAyVjE1LVozQVdEcUhmVW8?oc=5
+2. US Dollar Refuses to Rise Despite All Stars Aligning. Forecast as of 26.11.2026 _(LiteFinance)_
+   https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZHF5UDRHUzFGblkzN0hKVU9RMWxSLUNMN281U1d0Rk5yZnBRYjQ1OVFNam5oS0k3UFN3TWoyRTJDSmN4SEk3b1dkNVg4UU56dHNfY3NEVVBiYjVLUGE0Q000UEo1c004eXd2Z2V6ZkQzMzNTUXh4aENxWUl0TGl5UEVIOW9taXY4MXF3NW1ZQTJPZ21SaW9uMkJCS0FNbXZOMEd2S19MaEsxTGh1VV9OelBna2xKczZnTmh6TjRVZmVmTUdFTzY5V3NPTEpYMDJOLVIxc3dVMXl5YTB5bkFweFBGV1dOTWxQQ1I4MVR5d1VrZDNXOHJfbA?oc=5
 
-3. Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures _(Bloomberg)_
-   https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWV5eGNLVEd2LU00RkQ2VlpWbGJqam5RUEVQd0dmN1lRYjBZOGVCYmxwTG5XV1huU3RfR2hNN0tuRV9iSW5NY2NxUUhsS1JORF90dF9wTnJBYTF5VEI3Y3BMd1luV2lMSFJseXdTQTVNTVk3eFRFdjM1ZWpmYVdCN0lnNEoxMWV3bUxFbjl0RVRDSmtidEhvS08wN29xRElHcVBiX2ZNa1l6bU5sWjB5NzFR?oc=5
+3. British Pound: Limited recovery against US Dollar - UOB _(FXStreet)_
+   https://news.google.com/rss/articles/CBMimwFBVV95cUxNamM0dTIzUk5nNDM0V2s0WjdvWTFfUzY1aWZGTmh5ekMxQnUwdDJuaTI3ZEhnSl90bmdFWVFRcHdvUWdJUnZNZlRROElOdEd5TWlxMW1XdmdueVBKQ3lrS1FtUmVGdE40T1Vrelk1MTJJTlB0dHA0d3JfZ0ZRWWJjR21Qb1M0dkJjbkRjb2NTdV9Dd1VTWmFVWTFUWQ?oc=5
 
-4. Fed survey shows continued growth and sticky inflation in recent weeks _(Reuters)_
-   https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5
+4. Forex Today: Thin liquidity keeps majors steady on Thanksgiving Day _(FXStreet)_
+   https://news.google.com/rss/articles/CBMirgFBVV95cUxOeWFDbDBLUzFwUGF4RFNFRDhmVER1ckJWdGxCQTNNS2JmVGttUVhJTlRNMUgzNlllMTBDcTc2TWJKczQtck5Sd1lrQ0JvLWpYVzh0M29sUGpVelJpRlpIYzhsbHFVTlFRN2ZtaHp6Qk9UbjZUYlkzUnJjMjRTMl8xZXlVWDFpVFpnNHFxSVlyNUVETHRaMFBGQS1WUEJNaVA3VGxiaDJuQmFQZGgzVUE?oc=5
 
-5. US Dollar vs Swedish Krona stays under pressure as overbought signals collide with pension-induced SEK weakness _(Traders Union)_
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGV2SnZLZ1Y2QnpjWmhCWW0tUjhhU3lYQkpzV2FqaWw3YUEzU1JobS1LY0lfMkJkNnVNV29pNHBtYnNIR25wblVxZER1NkZHcHM5Z3dTNC1EZGhfMVVscTA4RVFwaTdUaXY2ZG9yZmRPSjYxb2d6YmswMHhCckdSVmR3d01rbVE?oc=5
+5. US Dollar Pauses Near 2026 Highs as Rate Expectations and AI Risks Collide _(kalkine.co.uk)_
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxPejJkUXBpZlVGQ2JmaGg2Z2xIak5GOTQ0c0c3S0J1RVlxekVHSWVmU1BQc1ZSMnZZYlFJcEdqUFpkNFplOUV5dFVQT3l5OHJTemJEdUZEME41T2xZZGluTTczcmdwNzFXMkZnUEdNWjA3blJyZGFzZ1pzYTkxeF92VHB0LXNGeG9XTmZ1RFhWYTdPYS1icVZ5Y3htWnUteTk1Y2R2TDEwR0VzNFZoOElXVm0wQzE?oc=5
 
-6. Inflation may not be as high as predicted, says Bank of England _(The Times)_
-   https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHRzdUdwZ25rb0pJUk1fWWtuR2RpR0M3SFJBYTl3c2lZaXQyS1ZWbVJ0N0hBbEw5bVlVWGR5Rkp4OHFwenVXZnJNTGdLVG0taWxNaHQwWTBGcUdsQzhEeWdQMnVUSU94U2sxT0xFaTRzajZoNWpHYUZPYktwRnBITkJVQnMxaDdKdHVqLTFSb1RRa1FZcnk4Q3otWQ?oc=5
+6. S. Korean won gains slightly against U.S. dollar after BOK hikes key rate _(Yonhap News Agency)_
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE96b3BmeDROMXk2WHBSc3hDNkg3X0U5U1NNQ1hySGRDdGxNY25lVGNONDU5cVZ1ZWszeENiQ0RKS3VtMFdoRS1aNmI4RGJWa0o1cjJkNlc5Ym5jdw?oc=5
 
 *🥇 Gold*
-1. Silver price sinks to 14-month low on firm US Dollar ahead of PCE inflation data _(FXStreet · +9 similar)_
-   https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzEtejVNQlJzcDZFUlhGUV8zdUMwYUM4MktxVl80X1JfOW56TmNfOHNqQ1Y3azkza0RBRkRPWE0xYm5KMTNKYjZWVjlUNUFEX215OUgxUDhGQ2ctSFJOUGpxWFpPTm5XaDBnaXh0WmEzQUM2V3dqRHJnbkJNVG1SUjZaOXdOQ3VHNUFmVWtJTkNBSTY2MXV1U29wMmNzMWlqTF9Zd2txWFhPaVI5U1J3Q1pEcm11eVQzdThCa2hFTnc?oc=5
+1. Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets _(FXEmpire)_
+   https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUYWVDNmx4RVZ4X2JpNHlocy03NmI3YVIxQkhUWkphRG0yTVZNc19nVk4wS3JzUGpDNUhoMVV6LUp5Zk9sRlFFYUxhd3FNbm1xZWJIaW52NV9TTW04YmE3YVNoVk83OWlCMW95cnFYNWZ0OTNPb1Z1bGVmSW1nUnlqNGVQeFB5MjBIa1A4RTdaOVZxY2JUQjVLR2llSnRhRGZoZ0JYTnE2a0V2V1hwR2toX20yY0VYa0E?oc=5
 
-2. Bullish Gold Price Forecast: XAU/USD Rebounds Off Support Despite Strong GDP and PCE Inflation _(FXLeaders)_
-   https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR0EwTUYxdGE0Nno4WHEyZjNsdUI4dERReHNCNGp5MEZDVlFmVE5pMUpoZXdlbk9aTjhZazhRRVVjSUtuMjhabnRQS0FvT0g4eWxqZWNRdjBJLW1JcjdiTmo4em5RZDdPdC1tSFVWMWF4VzJsUWh5azRCa0M1ajlXMXFReHFvdWNJdDZfWFlBbDhMOEwzeVY1NXR1OVh0OWc2anh6UzY2UHZqajJaZnA3NGktWTQ0Z3pDZk1LTndZbmh4LXVmR0xCMHVTYVpFcktRNXc?oc=5
+2. Gold Rates Today: Check Latest Prices _(jeevanutsahnews.in · +1 similar)_
+   https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1Mza3dCZU9OZkR0OWZ2elZlR1ZsUFpTQUdFc1ZuWG5tNHAwbWlVVlhoSG5sTUx0Y1pxVktCNS1JcDMyMVF4SEhWU0JibmNlajJmRFluMkthZ2dtSXQ0YmNjTEVfbVQ0dU9UU3ZUZ1czNGVqRHZobkJUZHhzQ0t2MmpKaUR0NUs2bDNlcQ?oc=5
 
-3. Gold price falls 3% to more than one-year low after data shows US inflation rose further _(Mining.com)_
-   https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjI1bXczUVJCV0J4SHlXS1pzckF2aWRnSWxwckY1V2duUzVhM1BZNkJxM2RTdjN1eWJrOGNma19INTJPYjRjcDFDTGp3LTRwYU53UjEzTkU5Z3BvTkgtS09uVVR6RHlPUnByVzVsVW83Qm1RNUI0WFZrVlZOd3lIWWR0Zm9KSVQzSHVlVUdwS0tncTM2UmR5U01PaW9ZeFlTOGxDcEo1ajF2STF3eTVma21KeDFQdw?oc=5
+3. Gold Price Forecast: Rally Toward $3,600 or Another Fed-Driven Sell-Off? _(Investing.com)_
+   https://news.google.com/rss/articles/CBMisAFBVV95cUxQMklBMjBhbzhpckZGcl92UmZqcDh0ZUtySTVsSHBxekVPUmVUUEI4aTVET0ZfZWNwRTROaE1ORE5IYXZmZDIteExwdEhNclBWYnZ4SllwaHlJTHBhU0xNTVg4RnB1ZXYxbW5MMDlabWVXQ2w4SGVodnF5WnBINVVqRFlNR0NISldtU2pFUVMxbGNGdWxWVzRUZVhscC1lRzB1OXZCazZ2LWNFelBqVjhMQw?oc=5
 
-4. US Dollar Weakens Against Canada's Loonie; Treasury Yields And Gold Fall _(marketscreener.com)_
-   https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3phcGo4ZzFRYnhJNk9rNTFiODlKMkVsdVA4bDVmZ2tiZW9pYXpySzVOU29fNlhINTlDM21PTjMwbFJoOTZjWGN3aDAwdzRCN3p1ZWNVZkgxeEQ3SVZ1ZW1BNS1VRTBqX2t4Q3d5SktIdXBBXzVkelVMYWp1d2w0dUo1T0phNjlGbkNKYVRvTmR3eXN3Yms5dFowR0NUamZrbGtQRHp0WnllRTBhZEo1WlJoR0M4VVkzc3FHYTRZNFY5QQ?oc=5
+4. OCBC Opens New Gold Vault to Boost Bullion Capabilities -- Update _(marketscreener.com · +1 similar)_
+   https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlBsSDk3U0MtRHhGQ2V0OC1iaUFpMnNhTGJSRVFGMzQ4eW0tZWllNy1lYXU1QVVsTVZmeWJTbmlVNTlBbURYMWdzaE4yQzFlTVNtRFFOVGI1YXdHSlRGRi1aV1g3bW9GZHg4V0ExdXUzVXBJenEtbFVoQ2pMdFNEbUhiNU56OFlkVE0wLThiRDJSM3EtM2U4TmcwX01QdXNlLXBJdDVveVlHY3plRWYtcm9OVEVHdw?oc=5
 
-5. SPONSORED The Place: Check out what BB's Bullion Gold and Silver has to offer _(KY3)_
-   https://news.google.com/rss/articles/CBMipAFBVV95cUxOdldUMHhtdXJ4NTNoZ2pVMlFQT0F3YUlGUDFZVGxONUFRdVVJX3EzNV94eHhRazBHbFJNRG45M2FpcmVHOEpXb3JreVl4ZzczcnNVc2VvZHRFTXhpS2FBRDdENDRWWVY0enZCeTZHQjFEak41dHRyNE9JUG1feV9ud1N4SmZJT19BamRwOFBfSDRVOFYxRzBnLUFZemFLWVRKdllmUA?oc=5
+5. Gold Outlook: US Dollar Fatigue Opens the Door to a Squeeze _(Investing.com)_
+   https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWRqOENWTDdTRlhRMjZkU3p2ZklwalpRS3g0bEZaMUNTMnBLdHJoZXRYMGVkbkJkZG9VMVVQZVZzR2h4MXptclBGVWtRNWNqbFRaVTZyMHlwbVEzN1R3T3FHYm5UV0RtSDQzLXYxa09EOGFhSzg3MTQwX3luelg4REFfOHhELWJmUGZaMXhNQ1c0SkpqdmpQcUFVd2V4VGFIZlVyUFBn?oc=5
 
-6. Gold sinks below $3,500 as dollar rallies towards highest level since April 2025 _(Moneycontrol.com)_
-   https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaTVPdTAxdXpERm5WLVk4TWhqYUhqc3hISGlTNnpEekRPTXhxNTVYSHNiR0ZWZUc0Y3JtelNwQ3JBd2dXN213N2p4SC1ZMWVTd01WUUhCR0ZtcmhFQW1vcGRQN2hsTmRrQVBicGhwVnVKODZWZlotX1VxSmlTdWFpVng0Y05XeDUyb3JUb1BVOFNqYmVLUkxLakRBMHI4Y0VtUnJPSHNjUVAyVFRMNXptSnFaOWhsWEs1aUt5YTd1MmpvZkl6bW9VMEl1MjM4MHh1VzRLTjBoWWhkX2FldXVPUHJKNm3SAeoBQVVfeXFMUHdYaHlya0RacTR4aGU0Zm9mVDRyaXFILTR1aHp2aDlwT1lTS1NGTHVkWDRJaWtWRTR3QnF5VDRCMmhfZXktMnkzckZrc0MxSGdFajJ4RW1IOHRYUlFrZVhOdnNpYWZabmtFcjFTa0k1N3RBM3JrY3hES3IteURkVG5JMHF2U21YdTEweDRJem5ueGlkUEQxN1RHbjRfTDBsM0o3UWtZdEJVd0hMUTNRNlNHRG1jMTBTaFo2UEVnamFyajVhdGRDUUV0aE5PeDQ2WTU5Vjc0Z3Rxc2RZRUVmaERUaDJqUTZKOElB?oc=5
+6. Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes _(Bloomberg.com)_
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5
 
 *🛢️ Oil & energy*
-1. Gold price in India: Rates on November 25 _(FXStreet · +7 similar)_
-   https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzI3ZnlRZ3hYeGl0VFNMQzE5cjl6SDdHQ0dCQXk1R2FpYUo0MXJNcnFIaTFKeHU1MGVWN0NCTHlHZm5lb05tSDRWS2RlOVJ5YVV3TWhpVkJHR2tzZTFjUTNyMjFrWnFXSThvM0pyb3VVMDI5VDhCX25jOFpJV0IzeHlTOFhqYkZOYVA0eDMtSXpBWTR0VjBJVlYxZDRCSWlaRGozcjJoWUVuUQ?oc=5
+1. Oil prices on November 26 – Brent and WTI value _(Прямий)_
+   https://news.google.com/rss/articles/CBMinwFBVV95cUxPRlNJbUNnc3ltcnpoR2t0Wk5mQW1aaG1WRk42cTd2SGM3U3NiMEZBanBVcnM4MnZTNTVMbV8yc3BzZ2JEVENuNlZXY3RBZW5yMGt4X1kwc2JvZXUtZ254c3lQU2U1WklTOFIyQzFnRUwzNXF2MzdDT3NyN3U5N2xHVllzZl9SSmxHSHIyVnBCT2loMDZhaWJDaTNBNTFtSTQ?oc=5
 
-2. OPEC blames EU for COP31 collapse _(Reuters · +1 similar)_
+2. Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks _(oilprice.com)_
+   Libya has scheduled a bidding round for discovered but undeveloped oil fields in 2027, and another one in 2028 focused on exploration, as it seeks to ramp up oil production despite the unstable security situation. The…
+   https://oilprice.com/Latest-Energy-News/World-News/Libya-Plans-New-Oil-Bidding-Rounds-Despite-Mounting-Security-Risks.html
+
+3. Oil Prices Mixed as Traders Weigh Middle East Supply Risks, OPEC+ Meeting _(WSJ · +9 similar)_
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxPMG9zX0RPUEVtQjFwX3JjTHJlTGZQMHY0OGtiTXRlbE9Kam5MLUdKTlJmdXgyaFZJSWdiWFZtbWVzQXlqTkp1ZzF6d0UwaEg1U09FY2xHbl9hM1FVYWZubGlndHJ4ZzlsMHNDZThVczU0VEpvTFZONGZZdXd6ak5zV1RBRnRQaTk2dU01bFJsYkQzMzAyTVNkcFNCYWxDYkNrNkpLeEpmZWFIWmVTNDZHTUxFTTFYckVpM1NjeQ?oc=5
+
+4. OPEC blames EU for COP31 collapse _(Reuters · +1 similar)_
    https://news.google.com/rss/articles/CBMijAFBVV95cUxNblVnV0tQbjBnOTRFVnp6bWFwUjBRQ2hXcHg4QmhVRHBUUXdjNXk3UVY3aGJza0RxMEw1Qnprc2VGNE9rbFhLWHJRcFFOZ0RIbkRpeHB3bmtsNTVIbk9aOXFza2JiaTJTdVI4bzFQd0lrTlBHb0p0TWkzSjZoS2FsMlFFOUgycUd3bWl6aQ?oc=5
 
-3. Hawthorn Bancshares (HWBK) CEO Giles bought 500 shares for $19.6K at $39.25 _(Quantisnow)_
-   https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWc4cW9JZnFOVTZ5ZkdXemE2cUFWd3dTYmloancxVGx4aGxFVkJPUWFlY1VSUkFXQ0l2WEtpUnFWN2RMNGJvQnE5VHVWcEgzV2ZLZ0cxY3NueXU4OXZxTEUyX1hFWmNkaGh1eVZET1hmMWZsZEtIX0szelUwN3ZkTjZqTzcwaTRHZ24xTWtXZmZaNXl1ZER6X2JqNTRmMDUteW5pVA?oc=5
+5. Brent rises to $95 over supply disruption risks — The National _(UA.NEWS)_
+   https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUG9XU0Q2WkJrSVVabWxiRXJiSGE5NmZBVWF6Vk1KUEhVZ2ZjanRiQUdaLUZIcmpPTlRGS1ZqMVpVLTNfSUNhdXhPMHJtd0VuczZEOXI1U2xjc21oUnVBMW8ySm4wQ2wxeUZSNU9scUVKTTdBc3RPZVc1dlgzclpTbUxCNUpxLUlXNUIyWjNWY3NsWGd5Z3h4SHg0OXloMFpkMjVGYmlQVVBpbGM?oc=5
 
-4. Plane crash off the coast of Mississippi kills extended family of 6 _(1News · +5 similar)_
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHVFUTB6MkxMX2ZxUlhTTUdTUlF4NDNNRUtlTlo1WVUwUGxuM2xXSGs0bDFVZFZqcmNqVTFGaWJGSGhpd0ZpY0k4UjNPbVdtOThrU3NNOXhUdDZGaGVvb011TWc1TnI2VkdnTWdaTmtZYXBQUzJjYzNBanBpVVpKckVxVTlQcmtQUVBEb0IxbFJoMTNHUjNuRjNtWTNqZXgzdGdvOGpB?oc=5
-
-5. Crude Oil is at a Crossroads. Is There Value in Oil Stocks? _(Barron's · +1 similar)_
-   https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXZSR2lWT0FwRnRENjVwa1FlLWhQaXl2d0RIUVJqbmhXdnFWN3hNTTVybF9QUUpIRHBUcVZQQUQwOG9PZjFONzFOSVQ3N0VkNTV6UlFlRWJybmluTUxhVEw0VF9jOHFYTGF5RFJXTlFfRDQwazdGNlJXdmt5UnZWNjNFY1lwU0EzX3RNcHNLZkFUV1lPUmNnWUJ3SklkVlhOOGZscE5jYjAtU3IzQTdUNQ?oc=5
-
-6. Cheaper Gasoline Won't Fix the Diesel Squeeze Hitting Freight Costs _(oilprice.com)_
-   Americans heading into the Thanksgiving holiday are finally getting some relief at the gasoline pump. After months of elevated prices, the national average has fallen sharply in November, dropping to approximately $3.66…
-   https://oilprice.com/Energy/Gas-Prices/Cheaper-Gasoline-Wont-Fix-the-Diesel-Squeeze-Hitting-Freight-Costs.html
+6. Crude Oil Prices Global, 26 Nov 2026: Backwardation and OPEC+ Risk — CMB News _(CMB News · +1 similar)_
+   https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ2pNeGNQYVRWblg3ZHZxZG91ekFUMW5nckMyd0tacFZGeGFvNVBqNm1wN2dmRnlQV1lNRGNXdDFlUE1IaXAwcGFrUGh3RmFVYWVyZmZHVWNLTEdIektwRXhQcmNZbkR4dG5oSUJPTjhuSTFvRFdObTBxTXowWlV3TF9KX1lkU3BvUlRWZFZ3SkNsSVE?oc=5
 
 *🏛️ Politics & geopolitics*
-1. Oil Edges Lower as Expanding Supply Vies With Hormuz Attacks _(Bloomberg)_
-   https://news.google.com/rss/articles/CBMingFBVV95cUxOenJ4V3FnWU1IVG94dUxRcE1YeTd1Y0Y0U1RWdkg4b1QwS2pPbFNhLUtmdGhwcE5XZWhnVXgzNVo2RkE2azdqdU53cW5KdDNVdWR3Z2JKc1RHX0Z2OWl0YjJsN3ZUTk9UbXhLNzR1Q19wOHVzVi00QmVxbUVWbVpJTk5rZldoalJRbW1hNmh2dnhqR216UlRpUTZDV1RZQQ?oc=5
+1. Oil surges as fresh Middle East attacks threaten Gulf crude exports _(AzerNews)_
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cbzd2N19NRlEzRUdNSUNFVEt3R2VjTEFZN1RLUnhlS19oZkFxQ2xldmJ6anR5dGp2ZTFXQ0ljdFpBUnRRTFpjTG43VkJLbjBHbjdjamhkUll2eDg?oc=5
 
-2. How Trump’s latest tariffs are affecting global trade and markets _(Latest news from Azerbaijan · +1 similar)_
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDRCUWgxc2RGV19ia2pKOWdXdzhyLTAxdGdPZWMzSjZZOGNoVXRERHItczdLN0E1Zm5VT1ZxcGExemhPeFRwaTBKdU91cW1CcU11YXRGd2Vibk11LW5VcjZrVHN3RXJZWWhla1Y4VzhCQm1UM1FCWThBSnhqUEJfd1RjbkZBYWRiLVhGQTZR?oc=5
+2. S&P: Huang Drama Could Hurt Nvidia's Credit Rating _(iHeart)_
+   https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWtxNnRydkZMbFJuNXRsY1piaXRZdUJEU3hYUEp4eGM2Sld6ZGhGbVJFQmVnZDBZbk9BbkxhLUZIS2F1LWl6RnJZaVJraHc1MmNBYzlQTGxIdWJpZV9kSWU4c2YyRDludUNIYmFtaFZKdkNTbmM5VGdTNXN5bTNzYl9MdlhjSnYzNWRzeHZ2QWVIdlNw0gGcAUFVX3lxTE40dUdxRzNYYU5GSUw0VEtHbGZlOXJyZjlRR2lrWnJfaDJydVNJVzBtNV9CR2lfUGY1d3dkdDFKRUM0MG45ODREZTM5VWM2dDQyMGQ2blgzS3dqbEgxamFOaDZfcWJnYjBwOFRrQUYwNmZzMEhCNE1CTXU3TEsydWhmc3ZWWHlIT0FRTE13YjhYTzV3S2xOaVphTmRxTA?oc=5
 
-3. Billionaire investor Todd Boehly talks plans to buy Lukoil's oil and gas assets outside Russia _(CNBC · +1 similar)_
-   https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbV9nSTR6dzBDVVN2VjRhVUFVYW9HbW53VTZUeE9pRkpnV2dXV1pJbG1XR2luQ0VtWTJqQ19kSkZvTGRObERHdklCNzlSZTBET3FxZ0ZKb0twMjdURTc4cXl1SUtKR2Z6RHFnaDF4X3FlRzJoM0xUUDdmVWVSbzVBUWpRNTFFc2ZVcW5fODNMUllLQkZJdWJfZUxjbGh1eWlhaDFXODc3eEo2TjYxdm42Q1hlZTg2cGlBNXFJSmxSV0dOaFZFZmFONEc3NDA5UEVfT1E?oc=5
+3. S&P Weighs Nvidia Downgrade Despite Huang's Return. What Would a Cut Mean? _(Yahoo Finance)_
+   https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGNEREhsZHg1RXFKYm5lVFZ4SXZ0MHN4cm9pVzBzelh6d3V3eDljQ1dkakFjZkV4TjJCOFZFX3JTcHVCTkw3YW5XbnpxbDdGek1oM2NHOHVfTmN5b3hDeDdJSUI2cWZoZ1NObEdIYWFSbDM0YXZ5bUJ5RFpqTTN0UmU1S1FrZEg2SDc4cUhxX0g1RDRHaVROQVBIUVZWQm8?oc=5
 
-4. US stocks tumble as AI rout and Trump tariffs rattle markets _(ABC News & Headlines – Australian Broadcasting Corporation · +3 similar)_
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1I0OVRsTUdvRUFJbnVucmthbXpiRWZHSHRuNmNFVDVMR1pjdGNqc09MTHBlMW42UFpzc0NDdTNjcFVMcjhkdWlTLThmaDloZGFVenFhdG1iVWItQmhfS282MzN0b3BjdTB1SnJSRW1VZ29iTmUyX3lQVDJ4WUdNam1UOVplMXBz?oc=5
+4. CBN holds 23% rate as naira weakens before election _(streamlinefeed.co.ke)_
+   https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkdLWV80NG1XR3o5YlpFNTJqbmExQ3JSc244YUc3elh4bE9XVjhoWnF5ZW1Bb3Zsbks2b1QxQ0N0dlNERHhkekxlNU5VMS1PLVpzTU1hY0o4bWVxNi1PN2lTS2FaREQ5OEtfRnFpS1pQRXliQUEzUkFuaHRwcEpiS2loMkx0QzJpdkpYUg?oc=5
 
-5. Watch Oil Flows in Hormuz Strait 'Forever Altered,' Says Tom Kloza _(Bloomberg)_
-   https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmRMZUF2VkFQQmkxVEpBYnJMcC0yd3FiMWJReDZOc0F5b0cyQVl1VjZWQmYzU3NnbzN6VXhCcXJqT2hnNlgzeTdZOTVLZnc2bk1SajFjbjZWal9VeUVEdEpnM0dBRzNkTzQzQ3JLNnBxNzhWOURjb0JnaURYN21TdnQzMGxaNG5xNmdjRHVycXM4SVNrUVNHc09tTktuQUlhODJIZXkzNVhGUlZ4?oc=5
+5. Yen edges lower ahead of Tokyo inflation figures _(Economies.com)_
+   https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXcteEdLWW1mcjdjeXEwMm5MZVdzcFhhdTJ6NHdZV0JZVkdmU2dWck9kWlVJZXlUSjhVVkE4MjhOZnVVNWFSYjVxRHRIUDFJanFKS0djUzR0ZkxFYmRjXzQwbVRsMHFSMmU4aDFaUTRVWFRkQklkYWZ0SU1ObTVQZm1ycXJFejhYejJ1Ul9oaV85U0IxaFpZcnI4eWpNX0RCN3c0RVVBSFVSZw?oc=5
 
-6. US Stocks Pare Losses as Tariffs and Inflation Pressure Markets _(SuaraGarut.ID)_
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE1jWVdqVVdROHdTTWl4VmFhSnU2VWgybkdRWllDOFhval9OMXJhekdIZDB5WmdpamlSN1BYS19Rd0Y4MFZ4ZnJ6a2hOTS03T2J6eExrWTQ2a0psalBuY2toV3lMMDRtMHJzblZ3WVZn?oc=5
+6. Oil rebounds to $95 per barrel after Saudi refinery attack _(The National)_
+   https://news.google.com/rss/articles/CBMiuAFBVV95cUxOelhVUXFBZWtJYTVaZzFPTFNySXRJRFlyVGNndWpscklKbHVmMlZuT3BsM0hYUFRvZXpia1FNbDdyMW1yMjVZTTZSRS15ck9oN3ctYkVoblRMTW41Nmx2WTg5Z3ROR05jdEpOSG00RnY1YkIycllfeFBHVE95dXF0SERoOHMxNUNESkZuck13Y1FwaklQWWpSVldUdW9yMldSUnFEdXFNVGRMTGNSc3N2d3JLSUxIdXhk?oc=5
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
