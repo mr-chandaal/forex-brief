@@ -1,110 +1,105 @@
 *FX • Gold • Oil Brief* | Daily
-Friday, 27 November 2026 • 02:16 AM NPT
+Friday, 27 November 2026 • 02:49 PM NPT
 
 *📊 Price snapshot* (vs prev. close)
-DXY: 103.77 +0.10%
-EUR/USD: 1.0975 +0.12%
-GBP/USD: 1.3109 -0.02%
-USD/JPY: 159.26 +0.00%
-AUD/USD: 0.6637 +0.05%
-NZD/USD: 0.5473 -0.08%
-USD/CAD: 1.4246 -0.19%
-USD/CHF: 0.8341 -0.20%
-EUR/JPY: 174.73 +0.09%
-GBP/JPY: 208.76 -0.02%
-AUD/JPY: 105.66 +0.01%
-NZD/JPY: 87.14 -0.09%
-Gold: 3,593.4 +1.63%
-Silver: 41.75 +4.24%
-WTI: 84.91 +1.47%
-Brent: 91.73 -3.04%
+DXY: 103.82 +0.15%
+EUR/USD: 1.0969 -0.01%
+GBP/USD: 1.3126 +0.10%
+USD/JPY: 159.45 +0.15%
+AUD/USD: 0.6679 +0.77%
+NZD/USD: 0.5486 +0.01%
+USD/CAD: 1.4240 +0.17%
+USD/CHF: 0.8362 +0.60%
+EUR/JPY: 174.86 +0.12%
+GBP/JPY: 209.31 +0.27%
+AUD/JPY: 106.48 +0.91%
+NZD/JPY: 87.47 +0.17%
+Gold: 3,705.8 +4.81%
+Silver: 44.78 +11.80%
+WTI: 85.80 +2.53%
+Brent: 92.37 -2.37%
 US 10Y %: 4.848 -1.14%
 S&P 500: 7,183 -0.25%
-VIX: 26.80 -5.27%
+VIX: 24.64 -8.06%
 
 *🗓️ Next 24h — key events (NPT)*
-🟠 Fri 05:15 AM — JPY Tokyo Core CPI y/y (exp. 3.0%, prev. 2.6%)
+No high/medium-impact releases scheduled.
 
 *💱 FX & central banks*
-1. Spain's De Cos to take over as ECB president from Lagarde _(Reuters · +28 similar)_
+1. Bank of England warns homeowners over hike in mortgage costs _(The Independent)_
+   https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGl1aGtmZW9kcWRheHg4c0tNRTdlemswWnRzOUFrSno0RVlnOGh5NHlKZ05Xbk9saHpyMUJuTW5mcVAwTHRwVUpSSVNxaG1GaUtjdTJmYTZSMEU4Z3dQTEpyRThmbXRMYTJVMExDb3JSTHNmcGp5M0UzSDVFeFlMQmJHMDhmZXM1UkpWckZEY3RQR095S2c?oc=5
+
+2. Euro: Modest downside against US Dollar in 2027 - Commerzbank _(FXStreet)_
+   https://news.google.com/rss/articles/CBMiowFBVV95cUxOMm5PdEdYMHVLcm1GWENaRWxjeG9NMlBzVlpwRElCNnBTbGpSSURsdl82RDBxak1hUThmMXZfR3E0cGU3MG51d2thdjA0YjB1ZS1paUlqcUQ2MUpfMUpURERfejN4Y3JzdWxrMnppem5fS0l3WlA5aVA3WEZiVUhyc0N6azhEdlVCNHUyTVE5YmFsNnB1WmR4dlNvYjN1ZGhrX28w?oc=5
+
+3. World in Brief: the European Council picks the next ECB president; Musk promises American children SpaceX shares _(The Economist)_
+   https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWJvdEtJWWVteGxuTTNISVUwdkhIbXduVGdoVWRqMllPUXIxZkpFeDZFR3FhYmVreUU3UGtHLTdya0hmUEtmbld6U1BRbG10dTNFQ3FvSFlIbWJlNEk4cXNjR1J3dUNOVVZrVkVZS0U3SUk2ZVl1ZHZQN0dZYVpCRzZlSWZFOXJKdXFuNVhVS04xYWl4aGJF?oc=5
+
+4. ECB leadership change: What should the crypto industry be worried about? _(Traders Union)_
+   https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVlPWktzN09MUzdwNmltWGdZdEdEYUpmMUt6REpVUmRjTi1rQm44NnJ1Q2djanhlNk5SSHIxd1VRMzdOM0g5amR3Z1U0WXlfUHo4MHJ5TUR0WG1NcmY5c2N3N3c5MlRhUXFsV2FMbFlVOWJHcXVoLVgyaXJyVW4xUXJLX2N6dw?oc=5
+
+5. US dollar to South Korean won rate holds near lows amid weak momentum _(Traders Union)_
+   https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0prTWRKNmFDQ1VabW4zTWdMYkQ2MXdlVzZJRFR5QTAyalBzSVdndVdydENvX0k2MUpHOThiZDNrZHI5ekstNHhLNUVnSDVObDJaajhlLXpUUnRBTXRHdzk3Qk5NTzVnZ2RXTDBwbm5xMlRLN29sLUtRSExLS2hmZzl4U3I?oc=5
+
+6. Spain's De Cos to take over as ECB president from Lagarde _(Reuters · +22 similar)_
    https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV8wZkxRVTY5U0ZQeVZwSGtCMVZJTjV2d2t5TlhsSVoxQmpLRXI4OTV1R0QwQkV1QmZma3BDN0lrOEJTNGFVeloyeE5HbnhmWDZfR1VrbzN5TzZrck5WTTlKNTBaeFhVbDd4RldhY0hZMnFsczlsTURLY0FpWWgzeE5YVVc2NUZqMy1KbldQVDJfcUtsVEhINHF2emJ5SEFrMXozWUdTM3BFQQ?oc=5
 
-2. Bank of England to cut capital requirements for UK-focused lenders _(Reuters · +1 similar)_
-   https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1hVUW5HM0hsTUdocHdFaVQxdExNeG9sRWtJNWRjWmlMN2tzdmQ0U29NYkJzdXFuVkY0TG9LV0RIVk9Cc0FWWW95TnBmLUV1d1VKQVVtV3I0NnhaNHNhTkptczlzYnEtMVVXbWFSMVd1YVFXS1BkWXFFRkxNVVlIYUlnVEJqMUlQUlJhY1hTcHNIT2NMQkZtb2pqaHppWmgtc3hN?oc=5
-
-3. Singapore Dollar: Range-bound consolidation persists against US Dollar – UOB _(FXStreet)_
-   https://news.google.com/rss/articles/CBMitwFBVV95cUxPWEpwMVlDSHJMbC1fU08xSURXOXZJTVVwbzBXY0Iyc3IxV2ZxV09nOXVpTWNpMjFzMlBYSklGOEdhbHV0cUJTS0pfZHV0RkVBZWVtMW9qdWZkbUYyend5NEktNWQtR0NZLU02REstNHBfaXc2M25YRXZ4MTd6QXh6dDBrT2ZUeXVFc3gyN1dHamMwQU5JQkQ5OWs3cVpRSWlDdUZJRk5XTllySlh1TE4tV0x6SmRmb0E?oc=5
-
-4. Spain’s Pablo Hernández de Cos wins race to be next ECB president _(The Guardian · +1 similar)_
-   https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3FuRF9nbl9LcE55WGZSN2NNT1pJbnFXcUx5VHAyR0dsenQ2Y0hyYVo4X3VIZDgzTWNxWlpWS1hFWlRhSm9PVXJlazZCUWtzamFNTkRjSWF3S25iV1ZlZ2lzcDFidEZIX1dIMTJjU2ZfRlBuLVpnSnNmT3hzd1MyS1FGRWZWMHllUDBsUTdDMThKV2NjV2RlZUlUQ1c?oc=5
-
-5. US dollar exchange rate drops to 1,690 dinars in Iraq’s parallel market _(IraqiNews)_
-   https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWh2RnRKVVhYZUp1VDdYSENiYmZHU29fZFFIZ3pYaldlaHdIR0N2aFZqQ3hJdENtRko3c28wcXhyXzZCd0VUdFIxQzRTX20zQnp6Vm9vWkV3Szc4eHVMSlRRbEhFV2cwMzBrU054U0VQMDdUMGRhOHpNTUFDd080bWJ5bk15ejBNbUQyeGtUZThhVkIwMUVKX1RNVEFzbHhweXJR?oc=5
-
-6. Taxes of ECB Spolka Akcyjna – GPW:ECB_C _(TradingView · +3 similar)_
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxQOFlxVHVHem1oSVY3ZTFuTUZTaHQ3RmhndmJiNGE1Y0tvSzFrZG4xUEV6SzRFNGE5WF90TWZtOHR6Zm9YYmFOVktkVGg5RG5HMFNobEpTdnN3eDB0eGJIQ1ZxQmQ2dTNFTzg2Vm5FZTdnck9LSEc5TERqSDRqelN4bEltUi1aajEya0RHbGVR?oc=5
-
 *🥇 Gold*
-1. Gold price in India: Rates on November 26 _(FXStreet · +3 similar)_
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxQbllrY0swMW12ajJYdjlsSHIyWE1xTmE1d2dZMkEzblpzeVFEUXlqTXh2UW1NSEItRmNRRHNBbEkwVWdfVFIySEt3QS05ZVVuUVNGVlV3aTVsX00tNnNPRUNlYUNqMDV2TFloaGJyN0xrU0FlLUptVnhmR3gwN2I4aXZQZlBMenl5NnJ3VnZVM1JpYnZtcTl1WjdPMXFjbkljTWo5VHhR?oc=5
+1. Gold jumps 3% after hitting 15-month low earlier this week _(investing.com)_
+   https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805
 
-2. mujhe abhi ka Gold Price par ek latest article de jo hamne … _(theopenpress.in · +1 similar)_
-   https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDVHZlU1bVVvYUpMM0JtVk9WUzZ5QjZvOTVJa1l0NmZmMDlhRGRGbjFjcG1GM3JoQkdaU0dHUkdXRXVKRWljRGh4cm96WTk1UWEwbUg5SGhsby1wX2RXYzYzOUNmVUtMNmZDbDBuWjN3Nmh5VnpwcVJ1bzlHV2dNUk9hZ2k?oc=5
+2. Gold Price Recovers as Dollar Softens, Fed Risks Remain _(VT Markets)_
+   https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDlIclhnbm1KM1BaTnBRYnJpV05kaDhVQzE2bjVFelN0c2wya3dDdVFqdlg1QU9WemxJajR2TnRyU2FwckJ4UktXVzI2ZXdkV2tIaHFFX3g3YVpNaG5XYVlPMVFPUnRNa0Uzb1NWLVhoVlJoN3ppNE5WZFpFaUxHYXlCWDJIYmg2Rm5ZUHJvbGZCcFMwb2pWazMyYVI?oc=5
 
-3. Gold (XAU/USD) Price Forecast: Buyers Defend Critical Support After Sharp Selloff _(FXEmpire · +4 similar)_
-   https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGZMTVE0MlI5cDRTYWh0UkJkcGszVFROQzlSNktoRUhYbTRfQWFiUEpFNEwzV2RZaWdxenEzSnJ2SDNxRlozQjB3di02c1IyUmpnVENfb3plNFp1cHNFQWZzOEQtRTFZb1dMekVwb2N1SmRfYkdWWXlsVmxJWXJoZFoxTGx3TWcxMjdqTGZtWDgxUFdzUlhXTUtya29SV1RObjZlb1FNUWRUMTNaNGloN3NfeWVtU1JFM3dNZWUwVkpPVEJReWJNdQ?oc=5
+3. Gold Price Forecast: Fed Rate Hike Bets Limit Recovery From $3,425 _(FXEmpire · +2 similar)_
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlR0MEFkVm0tbVZxQldSTHlwd0tMS2hDaHBTX29pbkpzbjB1RGh1SVl0bzlXSy1VLTB6N3cyRDE5Tk1YSnNyWGFrdDNGdnRxQ3p3dGY2Qm5SVi05LVNWdm9tN3BkMXRQVmpzUGp4dURuYktnQ0I5Z2lXZm43NG9BQncwbWt2N2I0VDdQOG9JLTgxS2Q2SE01WnB1NXJkMXpKZzE5SFFvckNkNl91SnJ0SnZiUFQ?oc=5
 
-4. Gold Silver Rate Today: Gold Rebounds Above ₹1.22 Lakh Afte… _(theopenpress.in)_
-   https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdlkzR0ZWa0dMcldMN2JBS1VDZEhCeVB0cDZ6R0JKQmg5QWVkTERMNDhYZ3lOLUtlNFY5NWNzNGRLNnpMaXJkenlPcW1xYVVqTDc0X1JDeFVlRVhqdE1YcWlRN2xCbk9QV1lRazNFbGM0SDVMLURwUXk3TTZCeTBHSDlMMFdxLUJDQTlv?oc=5
+4. Gold Price Today: Two-day recovery lifts yellow, grey metal from multi-month lows; is the worst over? _(Zee Business)_
+   https://news.google.com/rss/articles/CBMi5wFBVV95cUxORkxzS1VmTHA3a2N0c1JtOF9pSnFzdDcyOWltNVk3Mm9MTHBTZnNWQWRYYzcwdXo0RVRVZnA2b0s2QlZfaXBXaDRCVWlxb1pEZU0yUFN1NEUxSzVMcnFhVzVOMlJFQXVmaXVGdWFwWU5sRHl4QTNsVDZIUzhwLTNVaVYwbWFzUHZ6R3VsRmt0Y3pRbnIxZlJJRXhGMUtHQzFzLTlnV195eWJjNlVldVptdGYyTXlWb2dsR1psOE42OXBERW5fVEFPWGVTTGdWanF4aWYtalU0eUJCMDVkV2FyaTM3LXpHMjA?oc=5
 
-5. 22-Karat and Pure Gold Price in India; Gold Remains Under Pressure, Market Analysts Expect Recovery in International Markets _(TopNews)_
-   https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXlLcFh4eEpNN3ozdmFFOEVuR1JYSlVyVVFfUGpadUdvTU9aaVR2SkZfVUpidnJyUDlmZVU5RUFNWWZUMWVPejJJY2dXdER5RWlaa25iN2VNWG5peW9wdUw2dG1PYnlTaWlDbzRpMUFyaS1oZDZOR003Vkd3ZHhUTmFSTTVtZHNmMERLdzFRb1BSR0xSSUtIUFl3NXViSC1qUnlDaHg1Zjd0RXlYMGF5UXFWRGR1Zw?oc=5
+5. Soaring gold imports bolster Hong Kong’s push to become a global bullion hub _(South China Morning Post)_
+   https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYktRYzEwNmxsejhFRFdKcWtQRTFZUF9URzFrcjlhTGdONG1aaDBPelNzekNXcVpwRXM4YlQ0LWoxY0RMcGFTbzE2STJybDZ4N200NWsxQXliNkJEaUkyWlZpdUJtZm04UnFsc1d1U2diQU5XdEdEN0NkNkQ2emhpVGxBcDVwaXJUMlZGcXp5R3I5cEpicnYxam9sTm1mcTNWT0E0SklrQkM3QjBDSXctMW03bmNxcVFmekpsSHp5TG1XVDYyN3VhSkh2akpvakJQ?oc=5
 
-6. Gold price stalls near $3,570 as Fed hike bets keep bulls at bay _(FXStreet · +1 similar)_
-   https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb29vaFQ2a1Z3UmxfQzZKcnpMcGMtMmZwcGNZZkkxOGhDSWVqczlWbTV2eThPY3FvczlnQVI4aXg4UEx4UVIzcnlSNmNQT0dzT1JRRG1mVmcxUHVxNEY3bVZjc3RmUEZFY3lKcmV0cVpoWXdkSXJrWl9COXlUbTFKVEZLMjNtZEMycGdvZUhwRVFwU2cyak5wZlhIcmZ0X0QwZU02ZS1vZjh3Zw?oc=5
+6. Gold Price Crash 2026: Gold Falls 37%, Silver Down ₹2.75 Lakh – Will Prices Fall Further? _(theopenpress.in · +1 similar)_
+   https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUtCRnRRa21VbjNuNk5OWE4zQmd4ckFRc1NjdjBDR2I4eHludjBPVG1WR3dxbTcyREVrR3ZrVnEyWUVkTHFiMGNYOEJjMkFqcVpsMk1ZamhjaWEwOHFKVU1sYldXYlg0Qm5fTjMzenlZMm1nd1lXdExIV2NRZ3FzX0gyUkFXRmd2NVJCSER2dUhpUQ?oc=5
 
 *🛢️ Oil & energy*
-1. Norway Pauses Data Center Grid Reservations as Requests Top Peak Demand _(oilprice.com)_
-   Norway's transmission system operator Statnett paused new grid reservations for data centers on 9 November, the same day the government announced a licensing scheme that will keep out new crypto mining. The grid…
-   https://oilprice.com/Energy/Energy-General/Norway-Pauses-Data-Center-Grid-Reservations-as-Requests-Top-Peak-Demand.html
+1. Houthi Attack on Saudi Refinery Sparks Fresh Rally in Global Crude Oil Prices _(ChemAnalyst)_
+   https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWVENUxIX1NQQmtZZXRsamtWVTh3UTNPUndKWk5EazJzZTNYbkNvWWJydFRCN3I2YkYwRmZEVzhYYXBKTzRRUk1Ua21IUDgxalR6RmdTTHQ1TVp6dk91QkFaU3J4WnktZ1BLTk9FRXJHRHRWZDBDcGZKazZJNC15QldCTkNPTTJYeG1fVGdqa1Z5OVdrNzZoYm42dEliTXFVbTlPeHNvNXF0cUNremc?oc=5
 
-2. When the Grid Fails, Solar Does Not Wait for the State _(oilprice.com)_
-   Most power systems are built from the center outward. A government plans power stations. A utility signs fuel contracts, builds transmission lines and connects households. Large investors finance assets expected to…
-   https://oilprice.com/Alternative-Energy/Solar-Energy/When-the-Grid-Fails-Solar-Does-Not-Wait-for-the-State.html
+2. OPEC exit floated by US to 2 members _(Oil & Gas Middle East)_
+   https://news.google.com/rss/articles/CBMigwFBVV95cUxNVzU1bEtfUzJyN0p3cW5iRk9TdWtGMVJhN2IwMG1lVDBDMkcwVktLTV82RXVLX1VaNDhYRV8xOVJYWEh1eXB5c3lRR1RQZkJLckpFVlJRTkUtdjV5c3pscHBxUTJJUmxfQjJTU3JtUFdqeHpQcGxITGc2QnctRi1tQ2o4SQ?oc=5
 
-3. Why Gasoline Prices Are Falling While Diesel Remains Expensive _(oilprice.com)_
-   Americans heading into the Thanksgiving holiday are finally getting some relief at the gasoline pump. After months of elevated prices, the national average has fallen sharply in November, dropping to approximately $3.66…
-   https://oilprice.com/Energy/Energy-General/Why-Gasoline-Prices-Are-Falling-While-Diesel-Remains-Expensive.html
+3. Brent nears $98, set for first weekly gain in a month before OPEC+ _(MLQ.ai)_
+   https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUtZWlNydHhfVHVmRnVudkltcEFHVFpoVld6a3hnX3RZZEFiTVhLN0o4eldkRW5idE12VTdxbVc0eU11dGQ2X1VTNWN4S1puNVpDR3pOXzV5bDdEN3lneTdXRnhzRDVaWlFqVzZSYVUzTkNCX040NWJXeWxCbmN1UGozZkFTYVhaWGFsUg?oc=5
 
-4. Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks _(oilprice.com)_
-   The number of tankers carrying energy products through the Strait of Hormuz has increased in November despite the fact that the number of attacks and incidents with mines has hit the highest level since the beginning of…
-   https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-at-Hormuz-Ticks-Up-Despite-Intensified-Attacks.html
+4. Oil on track to snap 3-week losing streak over supply fears _(investing.com · +1 similar)_
+   https://www.investing.com/news/commodities-news/brent-trades-near-months-high-as-mideast-conflict-threatens-supply-5052810
 
-5. Why Copper's Thanksgiving Bounce May Not Be the Start of Anything _(oilprice.com)_
-   Cross-asset sentiment is firmer on Thursday morning, with London copper prices up more than 3% from the lows on Wednseday. AI stocks rebounded yesterday following a US selloff, only to abruptly reverse course around…
-   https://oilprice.com/Metals/Commodities/Why-Coppers-Thanksgiving-Bounce-May-Not-Be-the-Start-of-Anything.html
+5. Iraq Delays Up to 30 Million Barrels of Crude Oil Shipments _(oilprice.com)_
+   Iraq’s SOMO has delayed loadings of crude oil cargoes to the tune of between 20 and 30 million barrels, according to a Bloomberg report citing unnamed sources. The reason for the delays has not been established yet, but…
+   https://oilprice.com/Latest-Energy-News/World-News/Iraq-Delays-Up-to-30-Million-Barrels-of-Crude-Oil-Shipments.html
 
-6. Cold Snap Squeezes UK Spare Power Capacity _(oilprice.com)_
-   The UK faces a system margin shortfall of more than 2.7 gigawatts (GW) between noon and 8 p.m. local time on Thursday, as the cold snap is reducing the margin of spare capacity for the third day in a row. The UK’s…
-   https://oilprice.com/Latest-Energy-News/World-News/Cold-Snap-Squeezes-UK-Spare-Power-Capacity.html
+6. Oil rises as WTI jumps nearly 3%, Gulf attacks threaten crude supply recovery _(investing.com · +2 similar)_
+   https://www.investing.com/news/commodities-news/oil-heads-for-first-weekly-gain-in-november-as-gulf-attacks-threaten-supply-recove-5052813
 
 *🏛️ Politics & geopolitics*
-1. Taiwan Dollar: Tariff risks offset strong surplus – Commerzbank _(FXStreet)_
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxPZG9KbkNHb0U1QWtpWDIyWXBjVktjeWpsMWUyMW9nTk1WWlVXTFN5M1NtRjQyT0lYdHdlLTl4VnlPdE1hTUNTQXZZVFZIbTg0Ukd3dmxhcXBCd09vS0R4cmRISS1MaXpPUjNQMjMySWZKcHA4dHFYVkdrSDJ5eEJfUEljczIyN0hvTkJaenhZZ3RId01hNXNaQ2RNdjVkck1uMGNzUi1R?oc=5
+1. Baghdad cracks down on Kurdistan oil smuggling to Iran _(IraqiNews)_
+   https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1lLXy1KNThaOXd0MjhWVXFpZHlQRjVkRXNRUm5HZU1BZU1nUDNyZnl1SG50T1NsV0hBQUFzQndrMVFCemR5aGE4b3U0Um9TZlpSNk04M2IyOTlaSHVUMGFSOUlQbXNTMGdzUndTSU9STnZxRGJVUGJ4UUNBQVM5V1pNeHNZdmowamQzY0s5SQ?oc=5
 
-2. Oil Extends Gains as Middle East Tensions Fuel Market Jitters _(Bloomberg.com · +1 similar)_
-   https://news.google.com/rss/articles/CBMingFBVV95cUxPaWM5bTBpVVdXcm1DeXd5eTFMWXRUWVFIalFzYnE5bGVqS3dVbldzMXFralFtOWdoaXZDS0NtbE83ME5ZS3cwZkdaRFJsTFlzcFlhQnhmbGF3a1hSdmVsUU9Dc1VLWXJmV2J2aTlETkhSWXd1dlNCamZOeEdlSnN6dXdCN3p5TUd5bDJsVlVpM0J6UVN3TzNEd2wyQ2ZpQQ?oc=5
+2. Iraq oil exports reach 3.6 million bpd as minister cites more than AED 16.5 billion in byproduct sales _(Oil & Gas Middle East)_
+   https://news.google.com/rss/articles/CBMifEFVX3lxTFBWbmRJS1VSb2dBMkhhemhxRkZNdE5BUnVKdGtCMm5oMGJkSEgxcVBpRWxteU8xS1NaZVh6ZmNqek91Vm9DYjhEOFRjQlp3ZjVOTDQ5ZTc3WUlaYlc1ZTFpd0pLTUhaYkJVNU1kcm9qRGszenNkal9XYTYwSVo?oc=5
 
-3. Australia news LIVE: Damning report lays out ‘extraordinary’ failures of DFAT’s sanctions office; Houthis strike Saudi oil refineries _(شبكة تواصل الإخبارية)_
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kTklEVTNnVU9VYk9abHEzOUVvTV91aDdJcU5xTzIycTNrcmt1bWZjWXNRR0ZQY01waWlQQ2U5bGxjdkJqdkVPS3hrQjdtWnhFS0Nv?oc=5
+3. Donald Trump | 'US Doesn't Need Middle East Oil' Says Trump, Cites Nearly 50% Of Global Oil Reserves _(NDTV)_
+   https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHJ1RHRCeVNiR1BLQTIwXzZQY2JKYnBwckYyV0NXak0xZm9EYlhQR1JQQmNuMERlUldhOTdEZU92ZnZWeFhNajZEVDhJa1dsdUtWdTdBd1BTZURKVzlEY0Z1Wm10X0hWdG8tc25kYVB3SHZCQ1hQNGZQUEljVzkyMlMwV0tPLUpGTWpXN3I3aGV4UnNnaWYxOWI0MXNGLWZDOVY1VjBUdUY1SHc1TWZPV3hJNi1taWdoQ2w3cmo5QjFkRzk4TlFXUGJB?oc=5
 
-4. Brazil’s Lula Approaches Bradesco Chairman For Finance Minister Role _(Arise News)_
-   https://news.google.com/rss/articles/CBMikwFBVV95cUxPeDBEcHZQNlh1MDBCd3FKNzNLQmxPcF9ZTlFXWEF2ZWowRFRIUFVfeUtxZDhqdEoxdzg3TnQwd09ySW9yTUdRczJVY0JFTmJxM0JpOHBkOXJ1YWFXNzBwWUtBT2JaYlpxemZzSjlzd0tzeHQ1V0Nyb2lWVkxfTzVENFFGWEtWbXk3WVF4MUNnRGx6d0E?oc=5
+4. Rupee Slides as Oil Rally & Hormuz Tensions Hit Mood _(TradingPedia)_
+   https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkUzUmY5ZlFwYk0yYlFiUVF4TjltUlVOZkpGUG5ZV2RTM3pBN0M4MGVzRVZUY1BURVVkSWRadjRMQTJ2ZFZsNFlKNF9tZ1FUMlBxaExqTVJtWTZuS3Z3bGdZSWVmMjdBSVBGQnE5QmNBbUpUSHZ4TnJST2t0ZzNyRjJLaHczWU8wZzcyVDBWVV9fTkVnemc?oc=5
 
-5. EU-Indonesia trade deal promises new market opportunities, but challenges remain _(DW.com)_
-   https://news.google.com/rss/articles/CBMinAFBVV95cUxNYnUtOTZfYW5XOFVTSDJoU1RrTElOSEJNUTUwckw3eXpLbENjVi1QbUtwc1ZsclUwSWdBZzdiV1RDX0hld0RuWUFfVnVNX0xMUWN3eWZKY09Da2h1TXRHTUhpMEk5OGhHdFpudjUycnFWeXpYb3hTeDZCSmhwOHBMWlRORFg3ZGZLT3Y2VHdIUk5XQmF6MU03LUJyN2PSAZwBQVVfeXFMT0hJVGZqMW8tdS14T0FBbm1lcE12ZXpYV0p4RHJTSVFBc0pwbTUtYTZxb3BrNVVqS3Azdi1Rd0xCelpmcENPeld6dzlvcVEydkl3Z05hU2Z4SnlhM3lILUZWQmZ6YkUwY1A1cHhyc2xVZTltWlZWT3BIXzFTZDVwUU9wLW1hZ0lUMWVROG1fLUt5LU9KNXBKdnRIQlVy?oc=5
+5. Oil Prices Rise Ahead of OPEC+ Meeting as Middle East Supply Risks Persist _(WSJ · +6 similar)_
+   https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlk0cWFXc1dCWFZnYlZPbnBBNGtndk1USE5BM3dhd1RYNzNZdkJiYlNxWmtsLVoxa3FSR0FmNkdKaEVsaVZjYnYwaHl3QjVUbnpLcFpfUDRyenNXMjVFOVNEY083SG9rSTBLeHd4ZENhb1hBc0gtS3kyYzRQUU8xM1duaG51WHZjRFhRcXh5Y1FrdEk3WTIyMXFhdGw3ZzliWjc3RkJDVGZYT252YXRZRTd2Y3RXY2wwbWVVNEREWQ?oc=5
 
-6. Smoke seen from space after attack on huge Middle East oil hub _(Nine.com.au)_
-   https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaGh3bnNJNDd4OVZSYVRyV0s4NWRZWnVnMlMtTUZKVjZodWktRWhkNjVBZFN3WWtTdjJneW1xWjZ6WlUxM1g5WkV2MnV1bmhQY0Y5Z0NfTUpOWkRLNHEyaEJOZXRmWDl3RzNYWXB3RVlxdFlnRExDQ1VpLTdNdWd4dWpiOHNQNlk3a3ZpVGQyUzlIUmhGTWx3YWVHSDBNRndvVWhXOW9WdnhXamtvNFF4V1RmOUpVdllkYmZSSjFDVFV6RWtUV1Q0Z3pPYUptU3lFZmx4dElnNXV6aUhDWGcxUVVQY21NTElXcDBVLQ?oc=5
+6. Oman Proposes Preferential Trade Deal with China, Seeking to Deepen Strategic Partnership Beyond Oil _(Vocal)_
+   https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTRHSVd6LTlGN3VEQ01idlQyNWZUTUphRkFUdElRYThsM1ZKMkV4cDhpS2g3bkItbTRtSG1HbVk0UXRTdGJIUFVMM2ZhUnNobFdDU25GX1Uzam9KcnFvcG9WUnU5TEVWTGNWeVJTYXF4RHd6cVFnc1BiNzlnLVBXNXoyRzNNZldUaEstMnNBeElOcVVhRV9ydVQ0MXhuRWQySHZ5cE9HN0FsVkJzdkdjbmZYa1ZNX2R2NjB3SUdrd2FGVVMwcUE?oc=5
 
 _Sources: Yahoo Finance, Forex Factory, FXStreet, Investing.com, OilPrice.com, Google News. 🔴⚡ = top-tier release (rate decision, NFP, CPI, PCE). Where several outlets report the same event, the most trusted is shown. ⭐ ratings and summaries are AI-generated. Information only, not investment advice._
